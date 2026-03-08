@@ -4,8 +4,8 @@
     "nimi": "Pyhäjärvi (N60 77.20)",
     "kunta": "VESILAHTI",
     "region": "Pirkanmaa",
-    "lat": 61.6435127,
-    "lng": 25.4500345,
+    "lat": 61.38107,
+    "lng": 23.50773,
     "istutukset": [
       {
         "vuosi": 1989,
@@ -126,8 +126,8 @@
     "nimi": "Isolammi",
     "kunta": "PIRKKALA",
     "region": "Pirkanmaa",
-    "lat": 61.4541835,
-    "lng": 23.6015733,
+    "lat": 61.4542,
+    "lng": 23.60067,
     "istutukset": [
       {
         "vuosi": 1989,
@@ -150,8 +150,8 @@
     "nimi": "Vähäjärvi",
     "kunta": "PIRKKALA",
     "region": "Pirkanmaa",
-    "lat": 61.4621601,
-    "lng": 23.6515029,
+    "lat": 61.46199,
+    "lng": 23.6522,
     "istutukset": [
       {
         "vuosi": 1991,
@@ -174,8 +174,8 @@
     "nimi": "Kangaslampi (p)",
     "kunta": "PARKANO",
     "region": "Pirkanmaa",
-    "lat": 62.2953331,
-    "lng": 28.2533508,
+    "lat": 61.99048,
+    "lng": 22.84728,
     "istutukset": [
       {
         "vuosi": 1991,
@@ -191,8 +191,8 @@
     "nimi": "Pitkäjärvi",
     "kunta": "PÄLKÄNE",
     "region": "Pirkanmaa",
-    "lat": 61.2938543,
-    "lng": 24.4741632,
+    "lat": 61.2947,
+    "lng": 24.47123,
     "istutukset": [
       {
         "vuosi": 1991,
@@ -208,8 +208,8 @@
     "nimi": "Rutajärvi",
     "kunta": "URJALA",
     "region": "Pirkanmaa",
-    "lat": 61.0654261,
-    "lng": 23.4633711,
+    "lat": 61.06758,
+    "lng": 23.45799,
     "istutukset": [
       {
         "vuosi": 1992,
@@ -232,8 +232,8 @@
     "nimi": "Hirvijärvi",
     "kunta": "VESILAHTI",
     "region": "Pirkanmaa",
-    "lat": 61.2435148,
-    "lng": 23.5730279,
+    "lat": 61.24389,
+    "lng": 23.57391,
     "istutukset": [
       {
         "vuosi": 1992,
@@ -256,8 +256,8 @@
     "nimi": "Kuusjärvi",
     "kunta": "TAMPERE",
     "region": "Pirkanmaa",
-    "lat": 61.6420442,
-    "lng": 23.8515165,
+    "lat": 61.64233,
+    "lng": 23.8511,
     "istutukset": [
       {
         "vuosi": 1992,
@@ -273,8 +273,8 @@
     "nimi": "Tesomajärvi",
     "kunta": "TAMPERE",
     "region": "Pirkanmaa",
-    "lat": 61.5083808,
-    "lng": 23.6130038,
+    "lat": 61.50829,
+    "lng": 23.61305,
     "istutukset": [
       {
         "vuosi": 1992,
@@ -297,8 +297,8 @@
     "nimi": "Tervajärvi",
     "kunta": "KANGASALA",
     "region": "Pirkanmaa",
-    "lat": 61.4893545,
-    "lng": 24.5138083,
+    "lat": 61.49195,
+    "lng": 24.68444,
     "istutukset": [
       {
         "vuosi": 1993,
@@ -314,8 +314,8 @@
     "nimi": "Ruokojärvi",
     "kunta": "VESILAHTI",
     "region": "Pirkanmaa",
-    "lat": 61.431872,
-    "lng": 24.2347033,
+    "lat": 61.23689,
+    "lng": 23.40813,
     "istutukset": [
       {
         "vuosi": 1993,
@@ -338,8 +338,8 @@
     "nimi": "Kulovesi",
     "kunta": "NOKIA",
     "region": "Pirkanmaa",
-    "lat": 61.4087054,
-    "lng": 23.0331319,
+    "lat": 61.43875,
+    "lng": 23.20575,
     "istutukset": [
       {
         "vuosi": 1994,
@@ -404,8 +404,8 @@
     "nimi": "Vatajanlammi",
     "kunta": "SASTAMALA",
     "region": "Pirkanmaa",
-    "lat": 61.5243901,
-    "lng": 23.1674362,
+    "lat": 61.52435,
+    "lng": 23.16669,
     "istutukset": [
       {
         "vuosi": 1994,
@@ -421,8 +421,8 @@
     "nimi": "Kukonjärvi",
     "kunta": "TAMPERE",
     "region": "Pirkanmaa",
-    "lat": 61.6152749,
-    "lng": 23.8991096,
+    "lat": 61.61471,
+    "lng": 23.89873,
     "istutukset": [
       {
         "vuosi": 1994,
@@ -438,8 +438,8 @@
     "nimi": "Iso Kiimajärvi",
     "kunta": "KANGASALA",
     "region": "Pirkanmaa",
-    "lat": 62.0287651,
-    "lng": 24.0611527,
+    "lat": 61.42301,
+    "lng": 24.47833,
     "istutukset": [
       {
         "vuosi": 1994,
@@ -455,8 +455,8 @@
     "nimi": "Iidesjärvi",
     "kunta": "TAMPERE",
     "region": "Pirkanmaa",
-    "lat": 61.4853758,
-    "lng": 23.8107627,
+    "lat": 61.48511,
+    "lng": 23.80938,
     "istutukset": [
       {
         "vuosi": 1994,
@@ -598,8 +598,8 @@
     "nimi": "Peltolammi",
     "kunta": "TAMPERE",
     "region": "Pirkanmaa",
-    "lat": 61.4461399,
-    "lng": 23.742408,
+    "lat": 61.4462,
+    "lng": 23.74308,
     "istutukset": [
       {
         "vuosi": 1994,
@@ -615,8 +615,8 @@
     "nimi": "Vanajavesi (N60 79.40)x2",
     "kunta": "VALKEAKOSKI",
     "region": "Pirkanmaa",
-    "lat": 61.1281691,
-    "lng": 24.2266925,
+    "lat": 61.15547,
+    "lng": 24.22915,
     "istutukset": [
       {
         "vuosi": 1994,
@@ -737,8 +737,8 @@
     "nimi": "Nahkialanjärvi",
     "kunta": "AKAA",
     "region": "Pirkanmaa",
-    "lat": null,
-    "lng": null,
+    "lat": 61.17017,
+    "lng": 23.87859,
     "istutukset": [
       {
         "vuosi": 1994,
@@ -831,8 +831,8 @@
     "nimi": "Päijänteenlammi",
     "kunta": "MÄNTTÄ-VILPPULA",
     "region": "Pirkanmaa",
-    "lat": null,
-    "lng": null,
+    "lat": 62.00606,
+    "lng": 24.48947,
     "istutukset": [
       {
         "vuosi": 1995,
@@ -848,8 +848,8 @@
     "nimi": "Sarkkilanjärvi",
     "kunta": "HÄMEENKYRÖ",
     "region": "Pirkanmaa",
-    "lat": 61.596533,
-    "lng": 23.3512169,
+    "lat": 61.59797,
+    "lng": 23.35018,
     "istutukset": [
       {
         "vuosi": 1995,
@@ -872,8 +872,8 @@
     "nimi": "Ameenjärvi",
     "kunta": "VESILAHTI",
     "region": "Pirkanmaa",
-    "lat": 61.2163754,
-    "lng": 23.4008365,
+    "lat": 61.21671,
+    "lng": 23.40403,
     "istutukset": [
       {
         "vuosi": 1995,
@@ -889,8 +889,8 @@
     "nimi": "Pikku-Inha",
     "kunta": "VESILAHTI",
     "region": "Pirkanmaa",
-    "lat": 61.2514709,
-    "lng": 23.4173538,
+    "lat": 61.25104,
+    "lng": 23.41942,
     "istutukset": [
       {
         "vuosi": 1995,
@@ -920,8 +920,8 @@
     "nimi": "Lavajärvi",
     "kunta": "HÄMEENKYRÖ",
     "region": "Pirkanmaa",
-    "lat": 61.65903,
-    "lng": 23.4408571,
+    "lat": 61.65961,
+    "lng": 23.43326,
     "istutukset": [
       {
         "vuosi": 1995,
@@ -937,8 +937,8 @@
     "nimi": "Ruojärvi",
     "kunta": "RUOVESI",
     "region": "Pirkanmaa",
-    "lat": 62.0170401,
-    "lng": 24.0328998,
+    "lat": 62.01611,
+    "lng": 24.03869,
     "istutukset": [
       {
         "vuosi": 1995,
@@ -961,8 +961,8 @@
     "nimi": "Seinäjärvi",
     "kunta": "VIRRAT",
     "region": "Pirkanmaa",
-    "lat": 62.37972,
-    "lng": 23.3751721,
+    "lat": 62.37752,
+    "lng": 23.38718,
     "istutukset": [
       {
         "vuosi": 1995,
@@ -978,8 +978,8 @@
     "nimi": "Niemenlampi",
     "kunta": "PARKANO",
     "region": "Pirkanmaa",
-    "lat": 62.1109393,
-    "lng": 23.0394787,
+    "lat": 62.1111,
+    "lng": 23.0395,
     "istutukset": [
       {
         "vuosi": 1995,
@@ -995,8 +995,8 @@
     "nimi": "Raattajärvi",
     "kunta": "HÄMEENKYRÖ",
     "region": "Pirkanmaa",
-    "lat": 61.5974211,
-    "lng": 23.3312854,
+    "lat": 61.59733,
+    "lng": 23.33121,
     "istutukset": [
       {
         "vuosi": 1995,
@@ -1012,8 +1012,8 @@
     "nimi": "Vähä-Kaita",
     "kunta": "HÄMEENKYRÖ",
     "region": "Pirkanmaa",
-    "lat": 61.5736147,
-    "lng": 23.3997884,
+    "lat": 61.57348,
+    "lng": 23.39991,
     "istutukset": [
       {
         "vuosi": 1995,
@@ -1029,8 +1029,8 @@
     "nimi": "Särkijärvi",
     "kunta": "TAMPERE",
     "region": "Pirkanmaa",
-    "lat": 61.5871555,
-    "lng": 23.9455614,
+    "lat": 61.44778,
+    "lng": 23.7965,
     "istutukset": [
       {
         "vuosi": 1995,
@@ -1053,8 +1053,8 @@
     "nimi": "Pajujärvi",
     "kunta": "RUOVESI",
     "region": "Pirkanmaa",
-    "lat": 62.0911673,
-    "lng": 24.0343291,
+    "lat": 62.0911,
+    "lng": 24.03425,
     "istutukset": [
       {
         "vuosi": 1996,
@@ -1070,8 +1070,8 @@
     "nimi": "Kurjenjärvi",
     "kunta": "VIRRAT",
     "region": "Pirkanmaa",
-    "lat": 62.3045877,
-    "lng": 23.3076105,
+    "lat": 62.30818,
+    "lng": 23.30825,
     "istutukset": [
       {
         "vuosi": 1996,
@@ -1087,8 +1087,8 @@
     "nimi": "Vähäjärvi",
     "kunta": "YLÖJÄRVI",
     "region": "Pirkanmaa",
-    "lat": 62.0720839,
-    "lng": 23.5685553,
+    "lat": 61.63986,
+    "lng": 23.5825,
     "istutukset": [
       {
         "vuosi": 1996,
@@ -1104,8 +1104,8 @@
     "nimi": "Kuivajärvi",
     "kunta": "RUOVESI",
     "region": "Pirkanmaa",
-    "lat": 61.8503991,
-    "lng": 24.2775715,
+    "lat": 61.99108,
+    "lng": 23.97642,
     "istutukset": [
       {
         "vuosi": 1996,
@@ -1121,8 +1121,8 @@
     "nimi": "Mahnalanselkä Kirkkojärvi",
     "kunta": "HÄMEENKYRÖ",
     "region": "Pirkanmaa",
-    "lat": null,
-    "lng": null,
+    "lat": 61.56686,
+    "lng": 23.31717,
     "istutukset": [
       {
         "vuosi": 1996,
@@ -1194,8 +1194,8 @@
     "nimi": "Mustajärvi",
     "kunta": "SASTAMALA",
     "region": "Pirkanmaa",
-    "lat": 61.6242891,
-    "lng": 22.7025242,
+    "lat": 61.58719,
+    "lng": 23.07309,
     "istutukset": [
       {
         "vuosi": 1997,
@@ -1211,8 +1211,8 @@
     "nimi": "Teernijärvi",
     "kunta": "NOKIA",
     "region": "Pirkanmaa",
-    "lat": 61.4506448,
-    "lng": 23.4390121,
+    "lat": 61.45072,
+    "lng": 23.44726,
     "istutukset": [
       {
         "vuosi": 1997,
@@ -1228,8 +1228,8 @@
     "nimi": "Tupurlajärvi",
     "kunta": "SASTAMALA",
     "region": "Pirkanmaa",
-    "lat": null,
-    "lng": null,
+    "lat": 61.49085,
+    "lng": 23.1382,
     "istutukset": [
       {
         "vuosi": 1997,
@@ -1245,8 +1245,8 @@
     "nimi": "Nuutajärvi",
     "kunta": "URJALA",
     "region": "Pirkanmaa",
-    "lat": 61.0336982,
-    "lng": 23.459713,
+    "lat": 61.03423,
+    "lng": 23.45692,
     "istutukset": [
       {
         "vuosi": 1997,
@@ -1262,8 +1262,8 @@
     "nimi": "Mouhijärvi",
     "kunta": "SASTAMALA",
     "region": "Pirkanmaa",
-    "lat": 61.5071037,
-    "lng": 22.7681122,
+    "lat": 61.50499,
+    "lng": 22.76158,
     "istutukset": [
       {
         "vuosi": 1997,
@@ -1279,8 +1279,8 @@
     "nimi": "Kiikoisjärvi",
     "kunta": "SASTAMALA",
     "region": "Pirkanmaa",
-    "lat": 61.4416349,
-    "lng": 22.6038628,
+    "lat": 61.43926,
+    "lng": 22.60336,
     "istutukset": [
       {
         "vuosi": 1997,
@@ -1296,8 +1296,8 @@
     "nimi": "Taivasjärvi",
     "kunta": "KANGASALA",
     "region": "Pirkanmaa",
-    "lat": 61.4461319,
-    "lng": 24.5073231,
+    "lat": 61.44615,
+    "lng": 24.50707,
     "istutukset": [
       {
         "vuosi": 1997,
@@ -1313,8 +1313,8 @@
     "nimi": "Ahvenisto",
     "kunta": "TAMPERE",
     "region": "Pirkanmaa",
-    "lat": 61.4458171,
-    "lng": 23.6286399,
+    "lat": 61.44811,
+    "lng": 23.84555,
     "istutukset": [
       {
         "vuosi": 1998,
@@ -1330,8 +1330,8 @@
     "nimi": "Päijänne (kesk. N60+78.10)",
     "kunta": "KUHMOINEN",
     "region": "Pirkanmaa",
-    "lat": 61.704781,
-    "lng": 25.4862741,
+    "lat": 61.61394,
+    "lng": 25.48204,
     "istutukset": [
       {
         "vuosi": 1998,
@@ -1354,8 +1354,8 @@
     "nimi": "Pälkänevesi (N60 84.20)x1",
     "kunta": "PÄLKÄNE",
     "region": "Pirkanmaa",
-    "lat": 61.3780584,
-    "lng": 24.3122788,
+    "lat": 61.37128,
+    "lng": 24.33482,
     "istutukset": [
       {
         "vuosi": 1998,
@@ -1371,8 +1371,8 @@
     "nimi": "Vermasjärvi",
     "kunta": "VIRRAT",
     "region": "Pirkanmaa",
-    "lat": 62.2672667,
-    "lng": 23.6077714,
+    "lat": 62.26213,
+    "lng": 23.63326,
     "istutukset": [
       {
         "vuosi": 1998,
@@ -1395,8 +1395,8 @@
     "nimi": "Vähäjärvi",
     "kunta": "ORIVESI",
     "region": "Pirkanmaa",
-    "lat": 61.7065973,
-    "lng": 24.6106954,
+    "lat": 61.61491,
+    "lng": 24.60645,
     "istutukset": [
       {
         "vuosi": 1999,
@@ -1412,8 +1412,8 @@
     "nimi": "Tykölänjärvi",
     "kunta": "VALKEAKOSKI",
     "region": "Pirkanmaa",
-    "lat": 61.2591114,
-    "lng": 24.204429,
+    "lat": 61.25939,
+    "lng": 24.20529,
     "istutukset": [
       {
         "vuosi": 2001,
@@ -1429,8 +1429,8 @@
     "nimi": "Paattakaisjärvi",
     "kunta": "LEMPÄÄLÄ",
     "region": "Pirkanmaa",
-    "lat": 61.3463066,
-    "lng": 23.87197,
+    "lat": 61.34656,
+    "lng": 23.87254,
     "istutukset": [
       {
         "vuosi": 2001,
@@ -1446,8 +1446,8 @@
     "nimi": "Koivistonjärvi",
     "kunta": "PIRKKALA",
     "region": "Pirkanmaa",
-    "lat": 61.4351585,
-    "lng": 23.6437656,
+    "lat": 61.435,
+    "lng": 23.6438,
     "istutukset": [
       {
         "vuosi": 2005,
@@ -1463,8 +1463,8 @@
     "nimi": "Vähäjärvi",
     "kunta": "NOKIA",
     "region": "Pirkanmaa",
-    "lat": 61.5074575,
-    "lng": 23.2142721,
+    "lat": 61.50752,
+    "lng": 23.21419,
     "istutukset": [
       {
         "vuosi": 2005,
@@ -1480,8 +1480,8 @@
     "nimi": "Naarvajärvi",
     "kunta": "VESILAHTI",
     "region": "Pirkanmaa",
-    "lat": 61.2794351,
-    "lng": 23.3908152,
+    "lat": 61.27928,
+    "lng": 23.39354,
     "istutukset": [
       {
         "vuosi": 2006,
@@ -1504,8 +1504,8 @@
     "nimi": "Ahuli",
     "kunta": "KANGASALA",
     "region": "Pirkanmaa",
-    "lat": 61.4423043,
-    "lng": 24.0194385,
+    "lat": 61.44258,
+    "lng": 24.01827,
     "istutukset": [
       {
         "vuosi": 2007,
@@ -1542,8 +1542,8 @@
     "nimi": "Kirkkojärvi",
     "kunta": "HÄMEENKYRÖ",
     "region": "Pirkanmaa",
-    "lat": 61.6180016,
-    "lng": 23.2157134,
+    "lat": 61.69331,
+    "lng": 22.89616,
     "istutukset": [
       {
         "vuosi": 2008,
@@ -1559,8 +1559,8 @@
     "nimi": "Kortejärvi",
     "kunta": "URJALA",
     "region": "Pirkanmaa",
-    "lat": 61.1063777,
-    "lng": 23.4607857,
+    "lat": 61.1083,
+    "lng": 23.45902,
     "istutukset": [
       {
         "vuosi": 2010,
@@ -1583,8 +1583,8 @@
     "nimi": "Valajärvi",
     "kunta": "URJALA",
     "region": "Pirkanmaa",
-    "lat": 61.068375,
-    "lng": 23.3324023,
+    "lat": 61.06943,
+    "lng": 23.33156,
     "istutukset": [
       {
         "vuosi": 2010,
@@ -1600,8 +1600,8 @@
     "nimi": "Pahalampi",
     "kunta": "TAMPERE",
     "region": "Pirkanmaa",
-    "lat": 61.4847612,
-    "lng": 23.7796745,
+    "lat": 61.48483,
+    "lng": 23.77981,
     "istutukset": [
       {
         "vuosi": 2010,
@@ -1680,8 +1680,8 @@
     "nimi": "Särkijärvi",
     "kunta": "HÄMEENKYRÖ",
     "region": "Pirkanmaa",
-    "lat": 61.6960904,
-    "lng": 23.1073527,
+    "lat": 61.69622,
+    "lng": 23.10526,
     "istutukset": [
       {
         "vuosi": 2010,
@@ -1711,8 +1711,8 @@
     "nimi": "Vanajavesi (N60 79.40)x1",
     "kunta": "AKAA",
     "region": "Pirkanmaa",
-    "lat": 61.1281691,
-    "lng": 24.2266925,
+    "lat": 61.20036,
+    "lng": 23.91405,
     "istutukset": [
       {
         "vuosi": 2010,
@@ -1847,8 +1847,8 @@
     "nimi": "Höytämönjärvi",
     "kunta": "LEMPÄÄLÄ",
     "region": "Pirkanmaa",
-    "lat": 61.41373,
-    "lng": 23.8088931,
+    "lat": 61.41289,
+    "lng": 23.80363,
     "istutukset": [
       {
         "vuosi": 2010,
@@ -1864,8 +1864,8 @@
     "nimi": "Koipijärvi",
     "kunta": "LEMPÄÄLÄ",
     "region": "Pirkanmaa",
-    "lat": 61.423058,
-    "lng": 23.8307079,
+    "lat": 61.42351,
+    "lng": 23.83152,
     "istutukset": [
       {
         "vuosi": 2010,
@@ -1926,8 +1926,8 @@
     "nimi": "Iso-Kyynärä",
     "kunta": "LEMPÄÄLÄ",
     "region": "Pirkanmaa",
-    "lat": null,
-    "lng": null,
+    "lat": 61.41626,
+    "lng": 23.77087,
     "istutukset": [
       {
         "vuosi": 2010,
@@ -1943,8 +1943,8 @@
     "nimi": "Pikkujärvi",
     "kunta": "KANGASALA",
     "region": "Pirkanmaa",
-    "lat": 61.560029,
-    "lng": 24.3214224,
+    "lat": 61.5596,
+    "lng": 24.32055,
     "istutukset": [
       {
         "vuosi": 2011,
@@ -1960,8 +1960,8 @@
     "nimi": "Jylhäjärvi",
     "kunta": "HÄMEENKYRÖ",
     "region": "Pirkanmaa",
-    "lat": 61.5382415,
-    "lng": 23.1940675,
+    "lat": 61.53829,
+    "lng": 23.19408,
     "istutukset": [
       {
         "vuosi": 2012,
@@ -1977,8 +1977,8 @@
     "nimi": "Pynnänjärvi",
     "kunta": "URJALA",
     "region": "Pirkanmaa",
-    "lat": 61.2085692,
-    "lng": 23.3579299,
+    "lat": 61.20842,
+    "lng": 23.36838,
     "istutukset": [
       {
         "vuosi": 2013,
@@ -1994,8 +1994,8 @@
     "nimi": "Iso Kausjärvi",
     "kunta": "LEMPÄÄLÄ",
     "region": "Pirkanmaa",
-    "lat": 61.3444301,
-    "lng": 23.9011819,
+    "lat": 61.34513,
+    "lng": 23.90395,
     "istutukset": [
       {
         "vuosi": 2014,
@@ -2018,8 +2018,8 @@
     "nimi": "Kokonjärvi",
     "kunta": "URJALA",
     "region": "Pirkanmaa",
-    "lat": 61.0076201,
-    "lng": 23.7137265,
+    "lat": 61.00826,
+    "lng": 23.71891,
     "istutukset": [
       {
         "vuosi": 2014,
@@ -2035,8 +2035,8 @@
     "nimi": "Kyynäräjärvi",
     "kunta": "LEMPÄÄLÄ",
     "region": "Pirkanmaa",
-    "lat": 61.3265482,
-    "lng": 23.2732374,
+    "lat": 61.35217,
+    "lng": 23.90101,
     "istutukset": [
       {
         "vuosi": 2015,
@@ -2052,8 +2052,8 @@
     "nimi": "Vehkajärvi",
     "kunta": "PUNKALAIDUN",
     "region": "Pirkanmaa",
-    "lat": 61.0482285,
-    "lng": 23.2563428,
+    "lat": 61.05121,
+    "lng": 23.25268,
     "istutukset": [
       {
         "vuosi": 2015,
@@ -2069,8 +2069,8 @@
     "nimi": "Miharinlammi",
     "kunta": "HÄMEENKYRÖ",
     "region": "Pirkanmaa",
-    "lat": null,
-    "lng": null,
+    "lat": 61.57449,
+    "lng": 23.32762,
     "istutukset": [
       {
         "vuosi": 2021,
@@ -2086,8 +2086,8 @@
     "nimi": "Kirkkojärvi",
     "kunta": "SALO",
     "region": "Varsinais-Suomi",
-    "lat": 60.22725,
-    "lng": 23.4273542,
+    "lat": 60.2315,
+    "lng": 23.42918,
     "istutukset": [
       {
         "vuosi": 1993,
@@ -2117,8 +2117,8 @@
     "nimi": "Turajärvi",
     "kunta": "EURA",
     "region": "Varsinais-Suomi",
-    "lat": 61.1410202,
-    "lng": 21.8880826,
+    "lat": 61.14145,
+    "lng": 21.88459,
     "istutukset": [
       {
         "vuosi": 1995,
@@ -2162,8 +2162,8 @@
     "nimi": "Koskeljärvi",
     "kunta": "EURA",
     "region": "Varsinais-Suomi",
-    "lat": 60.9326025,
-    "lng": 22.105121,
+    "lat": 60.94337,
+    "lng": 22.12272,
     "istutukset": [
       {
         "vuosi": 1995,
@@ -2193,8 +2193,8 @@
     "nimi": "Auvoljärvi",
     "kunta": "EURA",
     "region": "Varsinais-Suomi",
-    "lat": 60.988687,
-    "lng": 22.0395768,
+    "lat": 60.9894,
+    "lng": 22.04134,
     "istutukset": [
       {
         "vuosi": 1995,
@@ -2217,8 +2217,8 @@
     "nimi": "Enäjärvi",
     "kunta": "SALO",
     "region": "Varsinais-Suomi",
-    "lat": 60.324543,
-    "lng": 23.7338181,
+    "lat": 60.3296,
+    "lng": 23.71305,
     "istutukset": [
       {
         "vuosi": 1996,
@@ -2234,8 +2234,8 @@
     "nimi": "Valkiajärvi",
     "kunta": "KANKAANPÄÄ",
     "region": "Varsinais-Suomi",
-    "lat": 61.8358524,
-    "lng": 22.4852384,
+    "lat": 61.83579,
+    "lng": 22.48788,
     "istutukset": [
       {
         "vuosi": 1997,
@@ -2251,8 +2251,8 @@
     "nimi": "Kynäsjärvi",
     "kunta": "POMARKKU",
     "region": "Varsinais-Suomi",
-    "lat": 61.7007896,
-    "lng": 22.2086691,
+    "lat": 61.70126,
+    "lng": 22.20803,
     "istutukset": [
       {
         "vuosi": 1997,
@@ -2275,8 +2275,8 @@
     "nimi": "Inhottujärvi",
     "kunta": "PORI",
     "region": "Varsinais-Suomi",
-    "lat": 61.6260754,
-    "lng": 22.1280866,
+    "lat": 61.61968,
+    "lng": 22.13889,
     "istutukset": [
       {
         "vuosi": 1997,
@@ -2299,8 +2299,8 @@
     "nimi": "Poosjärvi",
     "kunta": "PORI",
     "region": "Varsinais-Suomi",
-    "lat": 61.657613,
-    "lng": 21.8659394,
+    "lat": 61.66087,
+    "lng": 21.86456,
     "istutukset": [
       {
         "vuosi": 1997,
@@ -2316,8 +2316,8 @@
     "nimi": "Lammenjärvi",
     "kunta": "SALO",
     "region": "Varsinais-Suomi",
-    "lat": 60.4552326,
-    "lng": 23.6152328,
+    "lat": 60.35279,
+    "lng": 23.69715,
     "istutukset": [
       {
         "vuosi": 2000,
@@ -2333,8 +2333,8 @@
     "nimi": "Arimaa",
     "kunta": "SOMERO",
     "region": "Varsinais-Suomi",
-    "lat": 60.5608061,
-    "lng": 23.8330582,
+    "lat": 60.55902,
+    "lng": 23.83883,
     "istutukset": [
       {
         "vuosi": 2002,
