@@ -1877,7 +1877,7 @@
     ]
   },
   {
-    "jarvinumero": "None",
+    "jarvinumero": "",
     "nimi": "Tuuliala",
     "kunta": "LEMPÄÄLÄ",
     "region": "Pirkanmaa",
@@ -1890,20 +1890,40 @@
         "kpl": 28,
         "ika": "Kaksikesäinen",
         "paino_g": 400.0
-      },
+      }
+    ]
+  },
+  {
+    "jarvinumero": "35.242.1.002",
+    "nimi": "Iso-Kyynärä",
+    "kunta": "LEMPÄÄLÄ",
+    "region": "Pirkanmaa",
+    "lat": 61.41626,
+    "lng": 23.77087,
+    "istutukset": [
+      {
+        "vuosi": 2010,
+        "pvm": "2010-10-23",
+        "kpl": 100,
+        "ika": "Kaksikesäinen",
+        "paino_g": 400.0
+      }
+    ]
+  },
+  {
+    "jarvinumero": "",
+    "nimi": "Oikolanjoki",
+    "kunta": "VALKEAKOSKI",
+    "region": "Pirkanmaa",
+    "lat": 61.1267239,
+    "lng": 24.0426427,
+    "istutukset": [
       {
         "vuosi": 2011,
         "pvm": "2011-09-14",
         "kpl": 83,
         "ika": "Neljäkesäinen",
         "paino_g": 650.0
-      },
-      {
-        "vuosi": 2011,
-        "pvm": "2011-05-31",
-        "kpl": 20,
-        "ika": "Kolmevuotias",
-        "paino_g": 350.0
       },
       {
         "vuosi": 2013,
@@ -1922,19 +1942,19 @@
     ]
   },
   {
-    "jarvinumero": "35.242.1.002",
-    "nimi": "Iso-Kyynärä",
-    "kunta": "LEMPÄÄLÄ",
+    "jarvinumero": "",
+    "nimi": "Kyynioja",
+    "kunta": "NOKIA",
     "region": "Pirkanmaa",
-    "lat": 61.41626,
-    "lng": 23.77087,
+    "lat": 61.4889996,
+    "lng": 23.5158474,
     "istutukset": [
       {
-        "vuosi": 2010,
-        "pvm": "2010-10-23",
-        "kpl": 100,
-        "ika": "Kaksikesäinen",
-        "paino_g": 400.0
+        "vuosi": 2011,
+        "pvm": "2011-05-31",
+        "kpl": 20,
+        "ika": "Kolmevuotias",
+        "paino_g": 350.0
       }
     ]
   },
@@ -2346,7 +2366,7 @@
     ]
   },
   {
-    "jarvinumero": "None",
+    "jarvinumero": "",
     "nimi": "Saaristomeri",
     "kunta": "NAANTALI",
     "region": "Varsinais-Suomi",
