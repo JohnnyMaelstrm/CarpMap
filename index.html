@@ -670,25 +670,24 @@ regions.forEach(r => {
 // ---- MUNICIPALITY FILTERS ----
 const kunnat = [...new Set(LAKES_DATA.map(l => l.kunta))].sort();
 const filterRow = document.getElementById('filter-row');
+filterRow.innerHTML = '';
+const select = document.createElement('select');
+select.style.cssText = 'width:100%;background:var(--bg);color:var(--text);border:1px solid var(--border);border-radius:6px;padding:6px 10px;font-family:Syne,sans-serif;font-size:12px;outline:none;cursor:pointer;';
+const allOpt = document.createElement('option');
+allOpt.value = 'all';
+allOpt.textContent = 'All municipalities';
+select.appendChild(allOpt);
 kunnat.forEach(k => {
-  const btn = document.createElement('button');
-  btn.className = 'filter-btn';
-  btn.dataset.filter = k;
-  btn.textContent = k.charAt(0) + k.slice(1).toLowerCase();
-  btn.addEventListener('click', () => {
-    document.querySelectorAll('#filter-row .filter-btn').forEach(b => b.classList.remove('active'));
-    btn.classList.add('active');
-    filterKunta = k;
-    buildList(document.getElementById('search').value);
-  });
-  filterRow.appendChild(btn);
+  const opt = document.createElement('option');
+  opt.value = k;
+  opt.textContent = k.charAt(0) + k.slice(1).toLowerCase();
+  select.appendChild(opt);
 });
-filterRow.querySelector('[data-filter="all"]').addEventListener('click', () => {
-  document.querySelectorAll('#filter-row .filter-btn').forEach(b => b.classList.remove('active'));
-  filterRow.querySelector('[data-filter="all"]').classList.add('active');
-  filterKunta = 'all';
+select.addEventListener('change', e => {
+  filterKunta = e.target.value;
   buildList(document.getElementById('search').value);
 });
+filterRow.appendChild(select);
 // ---- RENDER (coordinates pre-baked, instant) ----
 function renderMapInstantly() {
   const statusDot = document.getElementById('status-dot');
