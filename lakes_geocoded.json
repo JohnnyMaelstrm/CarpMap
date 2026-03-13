@@ -2386,7 +2386,7 @@
     "jarvinumero": "22.003.1.001",
     "nimi": "Karhujärvi Björnträsk",
     "kunta": "SIUNTIO",
-    "region": "New Data",
+    "region": "Lounais-Suomen elinvoimakeskus",
     "lat": 60.22944,
     "lng": 24.28702,
     "istutukset": [
@@ -2417,7 +2417,7 @@
     "jarvinumero": "18.013.1.003",
     "nimi": "Vahijärvi",
     "kunta": "ASKOLA",
-    "region": "New Data",
+    "region": "Lounais-Suomen elinvoimakeskus",
     "lat": 60.51525,
     "lng": 25.53352,
     "istutukset": [
@@ -2434,7 +2434,7 @@
     "jarvinumero": "21.094.1.001",
     "nimi": "Ridasjärvi",
     "kunta": "HYVINKÄÄ",
-    "region": "New Data",
+    "region": "Lounais-Suomen elinvoimakeskus",
     "lat": 60.64181,
     "lng": 24.98475,
     "istutukset": [
@@ -2500,7 +2500,7 @@
     "jarvinumero": "22.004.1.001",
     "nimi": "Huhmarjärvi",
     "kunta": "VIHTI",
-    "region": "New Data",
+    "region": "Lounais-Suomen elinvoimakeskus",
     "lat": 60.30373,
     "lng": 24.38348,
     "istutukset": [
@@ -2517,7 +2517,7 @@
     "jarvinumero": "14.117.1.001",
     "nimi": "Junkkarinjärvi",
     "kunta": "KOUVOLA",
-    "region": "New Data",
+    "region": "Lounais-Suomen elinvoimakeskus",
     "lat": 60.698,
     "lng": 26.74309,
     "istutukset": [
@@ -2541,7 +2541,7 @@
     "jarvinumero": "22.003.1.004",
     "nimi": "Palojärvi",
     "kunta": "VIHTI",
-    "region": "New Data",
+    "region": "Lounais-Suomen elinvoimakeskus",
     "lat": 60.28296,
     "lng": 24.37174,
     "istutukset": [
@@ -2565,7 +2565,7 @@
     "jarvinumero": "24.033.1.016",
     "nimi": "Lohilampi",
     "kunta": "LOHJA",
-    "region": "New Data",
+    "region": "Lounais-Suomen elinvoimakeskus",
     "lat": 60.29337,
     "lng": 23.79357,
     "istutukset": [
@@ -2610,7 +2610,7 @@
     "jarvinumero": "23.092.1.001",
     "nimi": "Averia",
     "kunta": "VIHTI",
-    "region": "New Data",
+    "region": "Lounais-Suomen elinvoimakeskus",
     "lat": 60.45425,
     "lng": 24.36934,
     "istutukset": [
@@ -2641,7 +2641,7 @@
     "jarvinumero": "03.053.1.032",
     "nimi": "Korpijärvi",
     "kunta": "RUOKOLAHTI",
-    "region": "New Data",
+    "region": "Lounais-Suomen elinvoimakeskus",
     "lat": 61.43924,
     "lng": 28.96662,
     "istutukset": [
@@ -2665,7 +2665,7 @@
     "jarvinumero": "04.193.1.001",
     "nimi": "Purnujärvi",
     "kunta": "RAUTJÄRVI",
-    "region": "New Data",
+    "region": "Lounais-Suomen elinvoimakeskus",
     "lat": 61.24062,
     "lng": 29.09549,
     "istutukset": [
@@ -2689,7 +2689,7 @@
     "jarvinumero": "04.195.1.015",
     "nimi": "Latvajärvi",
     "kunta": "RAUTJÄRVI",
-    "region": "New Data",
+    "region": "Lounais-Suomen elinvoimakeskus",
     "lat": 61.40757,
     "lng": 29.15414,
     "istutukset": [
@@ -2706,7 +2706,7 @@
     "jarvinumero": "04.119.1.001",
     "nimi": "Kärinki",
     "kunta": "RUOKOLAHTI",
-    "region": "New Data",
+    "region": "Lounais-Suomen elinvoimakeskus",
     "lat": 61.28931,
     "lng": 28.89772,
     "istutukset": [
@@ -2744,7 +2744,7 @@
     "jarvinumero": "04.197.1.018",
     "nimi": "Kaituri",
     "kunta": "RUOKOLAHTI",
-    "region": "New Data",
+    "region": "Lounais-Suomen elinvoimakeskus",
     "lat": 61.35092,
     "lng": 28.97766,
     "istutukset": [
@@ -2768,7 +2768,7 @@
     "jarvinumero": "81.020.1.002",
     "nimi": "Kärsäjärvi",
     "kunta": "PYHTÄÄ",
-    "region": "New Data",
+    "region": "Lounais-Suomen elinvoimakeskus",
     "lat": 60.49049,
     "lng": 26.75192,
     "istutukset": [
@@ -2792,7 +2792,7 @@
     "jarvinumero": "21.041.1.006",
     "nimi": "Halkolampi",
     "kunta": "ESPOO",
-    "region": "New Data",
+    "region": "Lounais-Suomen elinvoimakeskus",
     "lat": 60.3309,
     "lng": 24.66795,
     "istutukset": [
@@ -2851,7 +2851,7 @@
     "jarvinumero": "19.007.1.001",
     "nimi": "Kilpijärvi",
     "kunta": "MÄNTSÄLÄ",
-    "region": "New Data",
+    "region": "Lounais-Suomen elinvoimakeskus",
     "lat": 60.69487,
     "lng": 25.21712,
     "istutukset": [
@@ -2889,7 +2889,7 @@
     "jarvinumero": "24.021.1.005",
     "nimi": "Kirkkojärvi",
     "kunta": "SALO",
-    "region": "New Data",
+    "region": "Lounais-Suomen elinvoimakeskus",
     "lat": 60.2315,
     "lng": 23.42918,
     "istutukset": [
@@ -2920,7 +2920,7 @@
     "jarvinumero": "14.814.1.001",
     "nimi": "Kilpilampi",
     "kunta": "HARTOLA",
-    "region": "New Data",
+    "region": "Lounais-Suomen elinvoimakeskus",
     "lat": 61.49692,
     "lng": 25.94293,
     "istutukset": [
@@ -2937,7 +2937,7 @@
     "jarvinumero": "14.812.1.004",
     "nimi": "Lauhlampi",
     "kunta": "HARTOLA",
-    "region": "New Data",
+    "region": "Lounais-Suomen elinvoimakeskus",
     "lat": 61.50303,
     "lng": 25.91848,
     "istutukset": [
@@ -2954,7 +2954,7 @@
     "jarvinumero": "14.814.1.003",
     "nimi": "Pohlampi",
     "kunta": "HARTOLA",
-    "region": "New Data",
+    "region": "Lounais-Suomen elinvoimakeskus",
     "lat": 61.50497,
     "lng": 25.95806,
     "istutukset": [
@@ -2971,7 +2971,7 @@
     "jarvinumero": "14.814.1.004",
     "nimi": "Valasjärvi",
     "kunta": "HARTOLA",
-    "region": "New Data",
+    "region": "Lounais-Suomen elinvoimakeskus",
     "lat": 61.51911,
     "lng": 25.97651,
     "istutukset": [
@@ -2988,7 +2988,7 @@
     "jarvinumero": "14.141.1.014",
     "nimi": "Pitkäjärvi",
     "kunta": "ASIKKALA",
-    "region": "New Data",
+    "region": "Lounais-Suomen elinvoimakeskus",
     "lat": 61.1581,
     "lng": 25.80921,
     "istutukset": [
@@ -3005,7 +3005,7 @@
     "jarvinumero": "14.141.1.013",
     "nimi": "Ruokopuolinen",
     "kunta": "ASIKKALA",
-    "region": "New Data",
+    "region": "Lounais-Suomen elinvoimakeskus",
     "lat": 61.15512,
     "lng": 25.81818,
     "istutukset": [
@@ -3022,7 +3022,7 @@
     "jarvinumero": "14.183.1.007",
     "nimi": "Rättilänjärvi",
     "kunta": "KOUVOLA",
-    "region": "New Data",
+    "region": "Lounais-Suomen elinvoimakeskus",
     "lat": 60.92412,
     "lng": 27.16786,
     "istutukset": [
@@ -3039,7 +3039,7 @@
     "jarvinumero": "14.941.1.011",
     "nimi": "Alankojärvi",
     "kunta": "KOUVOLA",
-    "region": "New Data",
+    "region": "Lounais-Suomen elinvoimakeskus",
     "lat": 61.15848,
     "lng": 26.60949,
     "istutukset": [
@@ -3056,7 +3056,7 @@
     "jarvinumero": "04.146.1.070",
     "nimi": "Säänjärvi",
     "kunta": "SAVITAIPALE",
-    "region": "New Data",
+    "region": "Lounais-Suomen elinvoimakeskus",
     "lat": 61.15866,
     "lng": 27.56885,
     "istutukset": [
@@ -3080,7 +3080,7 @@
     "jarvinumero": "04.112.1.001",
     "nimi": "Saimaa",
     "kunta": "TAIPALSAARI",
-    "region": "New Data",
+    "region": "Lounais-Suomen elinvoimakeskus",
     "lat": 61.3377,
     "lng": 28.11575,
     "istutukset": [
@@ -3167,7 +3167,7 @@
     "jarvinumero": "23.062.1.009",
     "nimi": "Pojanto",
     "kunta": "LOHJA",
-    "region": "New Data",
+    "region": "Lounais-Suomen elinvoimakeskus",
     "lat": 60.53461,
     "lng": 23.98278,
     "istutukset": [
@@ -3184,7 +3184,7 @@
     "jarvinumero": "23.071.1.002",
     "nimi": "Kovelanjärvi eli Myllyjärvi",
     "kunta": "LOHJA",
-    "region": "New Data",
+    "region": "Lounais-Suomen elinvoimakeskus",
     "lat": 60.39988,
     "lng": 23.84459,
     "istutukset": [
@@ -3215,7 +3215,7 @@
     "jarvinumero": "14.111.1.014",
     "nimi": "Tammijärvi",
     "kunta": "PYHTÄÄ",
-    "region": "New Data",
+    "region": "Lounais-Suomen elinvoimakeskus",
     "lat": 60.57804,
     "lng": 26.54703,
     "istutukset": [
@@ -3232,7 +3232,7 @@
     "jarvinumero": "09.006.1.001",
     "nimi": "Suuri-Urpalo",
     "kunta": "LUUMÄKI",
-    "region": "New Data",
+    "region": "Lounais-Suomen elinvoimakeskus",
     "lat": 60.92078,
     "lng": 27.83011,
     "istutukset": [
@@ -3291,7 +3291,7 @@
     "jarvinumero": "09.001.1.006",
     "nimi": "Väkevänjärvi",
     "kunta": "LAPPEENRANTA",
-    "region": "New Data",
+    "region": "Lounais-Suomen elinvoimakeskus",
     "lat": 60.68727,
     "lng": 27.97445,
     "istutukset": [
@@ -3315,7 +3315,7 @@
     "jarvinumero": "22.005.1.001",
     "nimi": "Enäjärvi",
     "kunta": "VIHTI",
-    "region": "New Data",
+    "region": "Lounais-Suomen elinvoimakeskus",
     "lat": 60.34964,
     "lng": 24.37973,
     "istutukset": [
@@ -3332,7 +3332,7 @@
     "jarvinumero": "21.062.1.004",
     "nimi": "Herustenjärvi ( i )",
     "kunta": "NURMIJÄRVI",
-    "region": "New Data",
+    "region": "Lounais-Suomen elinvoimakeskus",
     "lat": 60.56811,
     "lng": 24.74982,
     "istutukset": [
@@ -3370,7 +3370,7 @@
     "jarvinumero": "21.082.1.001",
     "nimi": "Tuusulanjärvi",
     "kunta": "TUUSULA",
-    "region": "New Data",
+    "region": "Lounais-Suomen elinvoimakeskus",
     "lat": 60.44144,
     "lng": 25.05441,
     "istutukset": [
@@ -3415,7 +3415,7 @@
     "jarvinumero": "04.119.1.004",
     "nimi": "Pieni-Kärinki",
     "kunta": "RUOKOLAHTI",
-    "region": "New Data",
+    "region": "Lounais-Suomen elinvoimakeskus",
     "lat": 61.29385,
     "lng": 28.95237,
     "istutukset": [
@@ -3439,7 +3439,7 @@
     "jarvinumero": "04.119.1.009",
     "nimi": "Narsakkalampi",
     "kunta": "RUOKOLAHTI",
-    "region": "New Data",
+    "region": "Lounais-Suomen elinvoimakeskus",
     "lat": 61.30414,
     "lng": 28.99502,
     "istutukset": [
@@ -3463,7 +3463,7 @@
     "jarvinumero": "08.007.1.005",
     "nimi": "Hyttilänjärvi",
     "kunta": "LAPPEENRANTA",
-    "region": "New Data",
+    "region": "Lounais-Suomen elinvoimakeskus",
     "lat": 60.80571,
     "lng": 28.10269,
     "istutukset": [
@@ -3480,7 +3480,7 @@
     "jarvinumero": "34.071.1.001",
     "nimi": "Turajärvi",
     "kunta": "EURA",
-    "region": "New Data",
+    "region": "Lounais-Suomen elinvoimakeskus",
     "lat": 61.14145,
     "lng": 21.88459,
     "istutukset": [
@@ -3525,7 +3525,7 @@
     "jarvinumero": "33.005.1.001",
     "nimi": "Koskeljärvi",
     "kunta": "EURA",
-    "region": "New Data",
+    "region": "Lounais-Suomen elinvoimakeskus",
     "lat": 60.94337,
     "lng": 22.12272,
     "istutukset": [
@@ -3556,7 +3556,7 @@
     "jarvinumero": "33.007.1.002",
     "nimi": "Auvoljärvi",
     "kunta": "EURA",
-    "region": "New Data",
+    "region": "Lounais-Suomen elinvoimakeskus",
     "lat": 60.9894,
     "lng": 22.04134,
     "istutukset": [
@@ -3580,7 +3580,7 @@
     "jarvinumero": "14.812.1.002",
     "nimi": "Joutsjärvi",
     "kunta": "SYSMÄ",
-    "region": "New Data",
+    "region": "Lounais-Suomen elinvoimakeskus",
     "lat": 61.5085,
     "lng": 25.84898,
     "istutukset": [
@@ -3625,7 +3625,7 @@
     "jarvinumero": "23.051.1.001",
     "nimi": "Pyhäjärvi",
     "kunta": "KARKKILA",
-    "region": "New Data",
+    "region": "Lounais-Suomen elinvoimakeskus",
     "lat": 60.54283,
     "lng": 24.18895,
     "istutukset": [
@@ -3649,7 +3649,7 @@
     "jarvinumero": "23.071.1.001",
     "nimi": "Pitkäjärvi",
     "kunta": "LOHJA",
-    "region": "New Data",
+    "region": "Lounais-Suomen elinvoimakeskus",
     "lat": 60.414,
     "lng": 23.86189,
     "istutukset": [
@@ -3687,7 +3687,7 @@
     "jarvinumero": "21.044.1.012",
     "nimi": "Velskolan Pitkäjärvi",
     "kunta": "ESPOO",
-    "region": "New Data",
+    "region": "Lounais-Suomen elinvoimakeskus",
     "lat": 60.29465,
     "lng": 24.63486,
     "istutukset": [
@@ -3704,7 +3704,7 @@
     "jarvinumero": "10.001.1.010",
     "nimi": "Häkälänjärvi",
     "kunta": "VIROLAHTI",
-    "region": "New Data",
+    "region": "Lounais-Suomen elinvoimakeskus",
     "lat": 60.6287,
     "lng": 27.82384,
     "istutukset": [
@@ -3721,7 +3721,7 @@
     "jarvinumero": "07.002.1.001",
     "nimi": "Ruokonen",
     "kunta": "LAPPEENRANTA",
-    "region": "New Data",
+    "region": "Lounais-Suomen elinvoimakeskus",
     "lat": 60.88622,
     "lng": 28.14391,
     "istutukset": [
@@ -3738,7 +3738,7 @@
     "jarvinumero": "04.112.1.054",
     "nimi": "Venäjänjärvi",
     "kunta": "RUOKOLAHTI",
-    "region": "New Data",
+    "region": "Lounais-Suomen elinvoimakeskus",
     "lat": 61.34671,
     "lng": 28.36152,
     "istutukset": [
@@ -3755,7 +3755,7 @@
     "jarvinumero": "04.118.1.007",
     "nimi": "Pitkäjärvi",
     "kunta": "RUOKOLAHTI",
-    "region": "New Data",
+    "region": "Lounais-Suomen elinvoimakeskus",
     "lat": 61.38557,
     "lng": 28.83631,
     "istutukset": [
@@ -3772,7 +3772,7 @@
     "jarvinumero": "21.054.1.001",
     "nimi": "Valkjärvi",
     "kunta": "NURMIJÄRVI",
-    "region": "New Data",
+    "region": "Lounais-Suomen elinvoimakeskus",
     "lat": 60.40335,
     "lng": 24.71974,
     "istutukset": [
@@ -3796,7 +3796,7 @@
     "jarvinumero": "21.083.1.001",
     "nimi": "Rusutjärvi",
     "kunta": "TUUSULA",
-    "region": "New Data",
+    "region": "Lounais-Suomen elinvoimakeskus",
     "lat": 60.42718,
     "lng": 24.97991,
     "istutukset": [
@@ -3827,7 +3827,7 @@
     "jarvinumero": "14.252.1.036",
     "nimi": "Raimiojärvi",
     "kunta": "PADASJOKI",
-    "region": "New Data",
+    "region": "Lounais-Suomen elinvoimakeskus",
     "lat": 61.43812,
     "lng": 24.94363,
     "istutukset": [
@@ -3851,7 +3851,7 @@
     "jarvinumero": "04.112.1.129",
     "nimi": "Valkjärvi",
     "kunta": "TAIPALSAARI",
-    "region": "New Data",
+    "region": "Lounais-Suomen elinvoimakeskus",
     "lat": 61.18013,
     "lng": 28.18452,
     "istutukset": [
@@ -3868,7 +3868,7 @@
     "jarvinumero": "14.192.1.040",
     "nimi": "Jänkynjärvi",
     "kunta": "LAPPEENRANTA",
-    "region": "New Data",
+    "region": "Lounais-Suomen elinvoimakeskus",
     "lat": 61.0116,
     "lng": 27.90161,
     "istutukset": [
@@ -3885,7 +3885,7 @@
     "jarvinumero": "05.001.1.002",
     "nimi": "Säinjärvi",
     "kunta": "LAPPEENRANTA",
-    "region": "New Data",
+    "region": "Lounais-Suomen elinvoimakeskus",
     "lat": 61.00611,
     "lng": 28.31933,
     "istutukset": [
@@ -3902,7 +3902,7 @@
     "jarvinumero": "04.193.1.015",
     "nimi": "Latvajärvi",
     "kunta": "RUOKOLAHTI",
-    "region": "New Data",
+    "region": "Lounais-Suomen elinvoimakeskus",
     "lat": 61.20906,
     "lng": 29.02781,
     "istutukset": [
@@ -3919,7 +3919,7 @@
     "jarvinumero": "81.009.1.004",
     "nimi": "Pienijärvi",
     "kunta": "VIROLAHTI",
-    "region": "New Data",
+    "region": "Lounais-Suomen elinvoimakeskus",
     "lat": 60.55799,
     "lng": 27.47196,
     "istutukset": [
@@ -3936,7 +3936,7 @@
     "jarvinumero": "21.094.1.002",
     "nimi": "Sykäri",
     "kunta": "HYVINKÄÄ",
-    "region": "New Data",
+    "region": "Lounais-Suomen elinvoimakeskus",
     "lat": 60.66507,
     "lng": 25.05196,
     "istutukset": [
@@ -3953,7 +3953,7 @@
     "jarvinumero": "23.042.1.001",
     "nimi": "Vanjärvi",
     "kunta": "VIHTI",
-    "region": "New Data",
+    "region": "Lounais-Suomen elinvoimakeskus",
     "lat": 60.44486,
     "lng": 24.23373,
     "istutukset": [
@@ -3970,7 +3970,7 @@
     "jarvinumero": "22.003.1.005",
     "nimi": "Kypärijärvi",
     "kunta": "VIHTI",
-    "region": "New Data",
+    "region": "Lounais-Suomen elinvoimakeskus",
     "lat": 60.28542,
     "lng": 24.34687,
     "istutukset": [
@@ -3994,7 +3994,7 @@
     "jarvinumero": "23.067.1.019",
     "nimi": "Valkjärvi",
     "kunta": "KARKKILA",
-    "region": "New Data",
+    "region": "Lounais-Suomen elinvoimakeskus",
     "lat": 60.53438,
     "lng": 24.13065,
     "istutukset": [
@@ -4011,7 +4011,7 @@
     "jarvinumero": "21.096.1.003",
     "nimi": "Keravanjärvi",
     "kunta": "MÄNTSÄLÄ",
-    "region": "New Data",
+    "region": "Lounais-Suomen elinvoimakeskus",
     "lat": 60.62268,
     "lng": 25.08802,
     "istutukset": [
@@ -4035,7 +4035,7 @@
     "jarvinumero": "21.045.1.007",
     "nimi": "Salmijärvi",
     "kunta": "VIHTI",
-    "region": "New Data",
+    "region": "Lounais-Suomen elinvoimakeskus",
     "lat": 60.36401,
     "lng": 24.51752,
     "istutukset": [
@@ -4052,7 +4052,7 @@
     "jarvinumero": "19.005.1.001",
     "nimi": "Sulkavanjärvi",
     "kunta": "MÄNTSÄLÄ",
-    "region": "New Data",
+    "region": "Lounais-Suomen elinvoimakeskus",
     "lat": 60.76447,
     "lng": 25.22219,
     "istutukset": [
@@ -4069,7 +4069,7 @@
     "jarvinumero": "23.062.1.001",
     "nimi": "Pusulanjärvi eli Jäämäjärvi",
     "kunta": "LOHJA",
-    "region": "New Data",
+    "region": "Lounais-Suomen elinvoimakeskus",
     "lat": 60.45917,
     "lng": 23.97855,
     "istutukset": [
@@ -4086,7 +4086,7 @@
     "jarvinumero": "23.056.1.001",
     "nimi": "Vaskijärvi",
     "kunta": "KARKKILA",
-    "region": "New Data",
+    "region": "Lounais-Suomen elinvoimakeskus",
     "lat": 60.56997,
     "lng": 24.34873,
     "istutukset": [
@@ -4110,7 +4110,7 @@
     "jarvinumero": "22.004.1.003",
     "nimi": "Tervalampi",
     "kunta": "VIHTI",
-    "region": "New Data",
+    "region": "Lounais-Suomen elinvoimakeskus",
     "lat": 60.31953,
     "lng": 24.41604,
     "istutukset": [
@@ -4127,7 +4127,7 @@
     "jarvinumero": "23.092.1.006",
     "nimi": "Lapoo",
     "kunta": "VIHTI",
-    "region": "New Data",
+    "region": "Lounais-Suomen elinvoimakeskus",
     "lat": 60.51143,
     "lng": 24.57154,
     "istutukset": [
@@ -4144,7 +4144,7 @@
     "jarvinumero": "23.074.1.004",
     "nimi": "Haarjärvi",
     "kunta": "LOHJA",
-    "region": "New Data",
+    "region": "Lounais-Suomen elinvoimakeskus",
     "lat": 60.36214,
     "lng": 23.80926,
     "istutukset": [
@@ -4161,7 +4161,7 @@
     "jarvinumero": "24.033.1.001",
     "nimi": "Enäjärvi",
     "kunta": "SALO",
-    "region": "New Data",
+    "region": "Lounais-Suomen elinvoimakeskus",
     "lat": 60.3296,
     "lng": 23.71305,
     "istutukset": [
@@ -4185,7 +4185,7 @@
     "jarvinumero": "35.834.1.001",
     "nimi": "Oriharonjärvi",
     "kunta": "KÄRKÖLÄ",
-    "region": "New Data",
+    "region": "Lounais-Suomen elinvoimakeskus",
     "lat": 60.89296,
     "lng": 25.14258,
     "istutukset": [
@@ -4202,7 +4202,7 @@
     "jarvinumero": "04.118.1.024",
     "nimi": "Pieni Paljärvi",
     "kunta": "RUOKOLAHTI",
-    "region": "New Data",
+    "region": "Lounais-Suomen elinvoimakeskus",
     "lat": 61.39655,
     "lng": 28.85876,
     "istutukset": [
@@ -4219,7 +4219,7 @@
     "jarvinumero": "04.142.1.012",
     "nimi": "Santara",
     "kunta": "SAVITAIPALE",
-    "region": "New Data",
+    "region": "Lounais-Suomen elinvoimakeskus",
     "lat": 61.22341,
     "lng": 27.41508,
     "istutukset": [
@@ -4236,7 +4236,7 @@
     "jarvinumero": "35.546.1.001",
     "nimi": "Valkiajärvi",
     "kunta": "KANKAANPÄÄ",
-    "region": "New Data",
+    "region": "Lounais-Suomen elinvoimakeskus",
     "lat": 61.83579,
     "lng": 22.48788,
     "istutukset": [
@@ -4253,7 +4253,7 @@
     "jarvinumero": "36.021.1.002",
     "nimi": "Kynäsjärvi",
     "kunta": "POMARKKU",
-    "region": "New Data",
+    "region": "Lounais-Suomen elinvoimakeskus",
     "lat": 61.70126,
     "lng": 22.20803,
     "istutukset": [
@@ -4277,7 +4277,7 @@
     "jarvinumero": "36.021.1.001",
     "nimi": "Inhottujärvi",
     "kunta": "PORI",
-    "region": "New Data",
+    "region": "Lounais-Suomen elinvoimakeskus",
     "lat": 61.61968,
     "lng": 22.13889,
     "istutukset": [
@@ -4301,7 +4301,7 @@
     "jarvinumero": "36.013.1.001",
     "nimi": "Poosjärvi",
     "kunta": "PORI",
-    "region": "New Data",
+    "region": "Lounais-Suomen elinvoimakeskus",
     "lat": 61.66087,
     "lng": 21.86456,
     "istutukset": [
@@ -4318,7 +4318,7 @@
     "jarvinumero": "03.023.1.031",
     "nimi": "Saarijärvi",
     "kunta": "RUOKOLAHTI",
-    "region": "New Data",
+    "region": "Lounais-Suomen elinvoimakeskus",
     "lat": 61.54952,
     "lng": 29.21875,
     "istutukset": [
@@ -4335,7 +4335,7 @@
     "jarvinumero": "23.024.1.014",
     "nimi": "Valkerpyy",
     "kunta": "LOHJA",
-    "region": "New Data",
+    "region": "Lounais-Suomen elinvoimakeskus",
     "lat": 60.35603,
     "lng": 23.98892,
     "istutukset": [
@@ -4359,7 +4359,7 @@
     "jarvinumero": "23.074.1.008",
     "nimi": "Vähä Ruokjärvi",
     "kunta": "LOHJA",
-    "region": "New Data",
+    "region": "Lounais-Suomen elinvoimakeskus",
     "lat": 60.33495,
     "lng": 23.76904,
     "istutukset": [
@@ -4383,7 +4383,7 @@
     "jarvinumero": "23.076.1.003",
     "nimi": "Iso-Palmottu",
     "kunta": "LOHJA",
-    "region": "New Data",
+    "region": "Lounais-Suomen elinvoimakeskus",
     "lat": 60.47909,
     "lng": 23.76348,
     "istutukset": [
@@ -4400,7 +4400,7 @@
     "jarvinumero": "14.821.1.001",
     "nimi": "Jääsjärvi",
     "kunta": "HARTOLA",
-    "region": "New Data",
+    "region": "Lounais-Suomen elinvoimakeskus",
     "lat": 61.63101,
     "lng": 26.13511,
     "istutukset": [
@@ -4452,7 +4452,7 @@
     "jarvinumero": "82.012.1.001",
     "nimi": "Lillträsk",
     "kunta": "RAASEPORI",
-    "region": "New Data",
+    "region": "Lounais-Suomen elinvoimakeskus",
     "lat": 60.08909,
     "lng": 23.23901,
     "istutukset": [
@@ -4476,7 +4476,7 @@
     "jarvinumero": "12.006.1.031",
     "nimi": "Kairalampi",
     "kunta": "HAMINA",
-    "region": "New Data",
+    "region": "Lounais-Suomen elinvoimakeskus",
     "lat": 60.7952,
     "lng": 27.27689,
     "istutukset": [
@@ -4493,7 +4493,7 @@
     "jarvinumero": "03.053.1.026",
     "nimi": "Ruokojärvi",
     "kunta": "RUOKOLAHTI",
-    "region": "New Data",
+    "region": "Lounais-Suomen elinvoimakeskus",
     "lat": 61.45231,
     "lng": 28.98376,
     "istutukset": [
@@ -4510,7 +4510,7 @@
     "jarvinumero": "21.033.1.001",
     "nimi": "Suolijärvi",
     "kunta": "HYVINKÄÄ",
-    "region": "New Data",
+    "region": "Lounais-Suomen elinvoimakeskus",
     "lat": 60.64482,
     "lng": 24.68359,
     "istutukset": [
@@ -4527,7 +4527,7 @@
     "jarvinumero": "21.055.1.001",
     "nimi": "Vaaksinjärvi",
     "kunta": "NURMIJÄRVI",
-    "region": "New Data",
+    "region": "Lounais-Suomen elinvoimakeskus",
     "lat": 60.48743,
     "lng": 24.67877,
     "istutukset": [
@@ -4544,7 +4544,7 @@
     "jarvinumero": "14.823.1.002",
     "nimi": "Suurijärvi",
     "kunta": "HARTOLA",
-    "region": "New Data",
+    "region": "Lounais-Suomen elinvoimakeskus",
     "lat": 61.55556,
     "lng": 26.24572,
     "istutukset": [
@@ -4561,7 +4561,7 @@
     "jarvinumero": "14.177.1.013",
     "nimi": "Ahvenainen",
     "kunta": "HEINOLA",
-    "region": "New Data",
+    "region": "Lounais-Suomen elinvoimakeskus",
     "lat": 61.29723,
     "lng": 26.49747,
     "istutukset": [
@@ -4578,7 +4578,7 @@
     "jarvinumero": "14.177.1.008",
     "nimi": "Kaituu",
     "kunta": "HEINOLA",
-    "region": "New Data",
+    "region": "Lounais-Suomen elinvoimakeskus",
     "lat": 61.27873,
     "lng": 26.50692,
     "istutukset": [
@@ -4595,7 +4595,7 @@
     "jarvinumero": "14.221.1.291",
     "nimi": "Kuustolammi",
     "kunta": "SYSMÄ",
-    "region": "New Data",
+    "region": "Lounais-Suomen elinvoimakeskus",
     "lat": 61.52522,
     "lng": 25.76694,
     "istutukset": [
@@ -4612,7 +4612,7 @@
     "jarvinumero": "14.813.1.004",
     "nimi": "Vanjärvi",
     "kunta": "SYSMÄ",
-    "region": "New Data",
+    "region": "Lounais-Suomen elinvoimakeskus",
     "lat": 61.57832,
     "lng": 25.8561,
     "istutukset": [
@@ -4629,7 +4629,7 @@
     "jarvinumero": "03.021.1.003",
     "nimi": "Simpelejärvi (N60 68.80)",
     "kunta": "PARIKKALA",
-    "region": "New Data",
+    "region": "Lounais-Suomen elinvoimakeskus",
     "lat": 61.53115,
     "lng": 29.42197,
     "istutukset": [
@@ -4646,7 +4646,7 @@
     "jarvinumero": "",
     "nimi": "Kymijoki",
     "kunta": "KOUVOLA",
-    "region": "New Data",
+    "region": "Lounais-Suomen elinvoimakeskus",
     "lat": 60.9358948,
     "lng": 26.3828516,
     "istutukset": [
@@ -4663,7 +4663,7 @@
     "jarvinumero": "23.063.1.006",
     "nimi": "Antiainen",
     "kunta": "LOHJA",
-    "region": "New Data",
+    "region": "Lounais-Suomen elinvoimakeskus",
     "lat": 60.56624,
     "lng": 24.03189,
     "istutukset": [
@@ -4680,7 +4680,7 @@
     "jarvinumero": "23.063.1.008",
     "nimi": "Jäljänjärvi",
     "kunta": "LOHJA",
-    "region": "New Data",
+    "region": "Lounais-Suomen elinvoimakeskus",
     "lat": 60.5854,
     "lng": 24.02474,
     "istutukset": [
@@ -4697,7 +4697,7 @@
     "jarvinumero": "23.063.1.009",
     "nimi": "Saarijärvi",
     "kunta": "LOHJA",
-    "region": "New Data",
+    "region": "Lounais-Suomen elinvoimakeskus",
     "lat": 60.58574,
     "lng": 23.9873,
     "istutukset": [
@@ -4714,7 +4714,7 @@
     "jarvinumero": "23.063.1.002",
     "nimi": "Tarkeelanjärvi",
     "kunta": "LOHJA",
-    "region": "New Data",
+    "region": "Lounais-Suomen elinvoimakeskus",
     "lat": 60.5462,
     "lng": 24.00318,
     "istutukset": [
@@ -4745,7 +4745,7 @@
     "jarvinumero": "23.063.1.004",
     "nimi": "Vahermanjärvi",
     "kunta": "LOHJA",
-    "region": "New Data",
+    "region": "Lounais-Suomen elinvoimakeskus",
     "lat": 60.56298,
     "lng": 23.98524,
     "istutukset": [
@@ -4762,7 +4762,7 @@
     "jarvinumero": "23.074.1.009",
     "nimi": "Laiha",
     "kunta": "LOHJA",
-    "region": "New Data",
+    "region": "Lounais-Suomen elinvoimakeskus",
     "lat": 60.3411,
     "lng": 23.77514,
     "istutukset": [
@@ -4786,7 +4786,7 @@
     "jarvinumero": "23.074.1.010",
     "nimi": "Lihava",
     "kunta": "LOHJA",
-    "region": "New Data",
+    "region": "Lounais-Suomen elinvoimakeskus",
     "lat": 60.35282,
     "lng": 23.75845,
     "istutukset": [
@@ -4810,7 +4810,7 @@
     "jarvinumero": "24.033.1.015",
     "nimi": "Lammenjärvi",
     "kunta": "SALO",
-    "region": "New Data",
+    "region": "Lounais-Suomen elinvoimakeskus",
     "lat": 60.35279,
     "lng": 23.69715,
     "istutukset": [
@@ -4827,7 +4827,7 @@
     "jarvinumero": "22.002.1.001",
     "nimi": "Tjusträsk",
     "kunta": "SIUNTIO",
-    "region": "New Data",
+    "region": "Lounais-Suomen elinvoimakeskus",
     "lat": 60.15914,
     "lng": 24.22038,
     "istutukset": [
@@ -4844,7 +4844,7 @@
     "jarvinumero": "19.008.1.002",
     "nimi": "Ruokijärvi",
     "kunta": "PORNAINEN",
-    "region": "New Data",
+    "region": "Lounais-Suomen elinvoimakeskus",
     "lat": 60.46083,
     "lng": 25.46692,
     "istutukset": [
@@ -4868,7 +4868,7 @@
     "jarvinumero": "13.003.1.005",
     "nimi": "Saaramaanjärvi",
     "kunta": "KOUVOLA",
-    "region": "New Data",
+    "region": "Lounais-Suomen elinvoimakeskus",
     "lat": 60.84565,
     "lng": 27.32134,
     "istutukset": [
@@ -4885,7 +4885,7 @@
     "jarvinumero": "14.123.1.001",
     "nimi": "Urajärvi",
     "kunta": "IITTI",
-    "region": "New Data",
+    "region": "Lounais-Suomen elinvoimakeskus",
     "lat": 60.91941,
     "lng": 26.42805,
     "istutukset": [
@@ -4902,7 +4902,7 @@
     "jarvinumero": "23.074.1.001",
     "nimi": "Sorvasto",
     "kunta": "LOHJA",
-    "region": "New Data",
+    "region": "Lounais-Suomen elinvoimakeskus",
     "lat": 60.37699,
     "lng": 23.87145,
     "istutukset": [
@@ -4919,7 +4919,7 @@
     "jarvinumero": "23.031.1.001",
     "nimi": "Hiidenvesi",
     "kunta": "VIHTI",
-    "region": "New Data",
+    "region": "Lounais-Suomen elinvoimakeskus",
     "lat": 60.37207,
     "lng": 24.20269,
     "istutukset": [
@@ -4950,7 +4950,7 @@
     "jarvinumero": "23.073.1.003",
     "nimi": "Arimaa",
     "kunta": "SOMERO",
-    "region": "New Data",
+    "region": "Lounais-Suomen elinvoimakeskus",
     "lat": 60.55902,
     "lng": 23.83883,
     "istutukset": [
@@ -4967,7 +4967,7 @@
     "jarvinumero": "23.062.1.011",
     "nimi": "Karisjärvi",
     "kunta": "LOHJA",
-    "region": "New Data",
+    "region": "Lounais-Suomen elinvoimakeskus",
     "lat": 60.51228,
     "lng": 24.03344,
     "istutukset": [
@@ -4984,7 +4984,7 @@
     "jarvinumero": "23.064.1.001",
     "nimi": "Salovesi",
     "kunta": "LOHJA",
-    "region": "New Data",
+    "region": "Lounais-Suomen elinvoimakeskus",
     "lat": 60.60582,
     "lng": 23.95295,
     "istutukset": [
@@ -5001,7 +5001,7 @@
     "jarvinumero": "23.066.1.007",
     "nimi": "Tämäkohtu",
     "kunta": "LOHJA",
-    "region": "New Data",
+    "region": "Lounais-Suomen elinvoimakeskus",
     "lat": 60.56254,
     "lng": 24.06662,
     "istutukset": [
@@ -5018,7 +5018,7 @@
     "jarvinumero": "19.004.1.001",
     "nimi": "Kotojärvi (p)",
     "kunta": "MÄNTSÄLÄ",
-    "region": "New Data",
+    "region": "Lounais-Suomen elinvoimakeskus",
     "lat": 60.67608,
     "lng": 25.26211,
     "istutukset": [
@@ -5035,7 +5035,7 @@
     "jarvinumero": "19.002.1.001",
     "nimi": "Niinijärvi",
     "kunta": "PORNAINEN",
-    "region": "New Data",
+    "region": "Lounais-Suomen elinvoimakeskus",
     "lat": 60.41347,
     "lng": 25.38667,
     "istutukset": [
@@ -5052,7 +5052,7 @@
     "jarvinumero": "14.944.1.003",
     "nimi": "Järvistenlampi",
     "kunta": "KOUVOLA",
-    "region": "New Data",
+    "region": "Lounais-Suomen elinvoimakeskus",
     "lat": 61.0834,
     "lng": 26.55407,
     "istutukset": [
@@ -5069,7 +5069,7 @@
     "jarvinumero": "14.121.1.004",
     "nimi": "Pyhäjärvi",
     "kunta": "KOUVOLA",
-    "region": "New Data",
+    "region": "Lounais-Suomen elinvoimakeskus",
     "lat": 61.02553,
     "lng": 26.49821,
     "istutukset": [
@@ -5086,7 +5086,7 @@
     "jarvinumero": "04.141.1.040",
     "nimi": "Vartusjärvi",
     "kunta": "SAVITAIPALE",
-    "region": "New Data",
+    "region": "Lounais-Suomen elinvoimakeskus",
     "lat": 61.21924,
     "lng": 27.45859,
     "istutukset": [
@@ -5103,7 +5103,7 @@
     "jarvinumero": "23.066.1.002",
     "nimi": "Keskimmäinen",
     "kunta": "LOHJA",
-    "region": "New Data",
+    "region": "Lounais-Suomen elinvoimakeskus",
     "lat": 60.53459,
     "lng": 24.07174,
     "istutukset": [
@@ -5120,7 +5120,7 @@
     "jarvinumero": "23.062.1.008",
     "nimi": "Löytty",
     "kunta": "LOHJA",
-    "region": "New Data",
+    "region": "Lounais-Suomen elinvoimakeskus",
     "lat": 60.53326,
     "lng": 23.96584,
     "istutukset": [
@@ -5144,7 +5144,7 @@
     "jarvinumero": "09.007.1.010",
     "nimi": "Ala-Hirvas",
     "kunta": "LUUMÄKI",
-    "region": "New Data",
+    "region": "Lounais-Suomen elinvoimakeskus",
     "lat": 60.83655,
     "lng": 27.80018,
     "istutukset": [
@@ -5161,7 +5161,7 @@
     "jarvinumero": "09.003.1.014",
     "nimi": "Elkiänjärvi",
     "kunta": "LUUMÄKI",
-    "region": "New Data",
+    "region": "Lounais-Suomen elinvoimakeskus",
     "lat": 60.8683,
     "lng": 27.8143,
     "istutukset": [
@@ -5178,7 +5178,7 @@
     "jarvinumero": "04.112.1.136",
     "nimi": "Myllylampi",
     "kunta": "LAPPEENRANTA",
-    "region": "New Data",
+    "region": "Lounais-Suomen elinvoimakeskus",
     "lat": 61.03961,
     "lng": 28.03274,
     "istutukset": [
@@ -5195,7 +5195,7 @@
     "jarvinumero": "04.194.1.010",
     "nimi": "Ruokolampi",
     "kunta": "RAUTJÄRVI",
-    "region": "New Data",
+    "region": "Lounais-Suomen elinvoimakeskus",
     "lat": 61.34674,
     "lng": 29.08964,
     "istutukset": [
@@ -5212,7 +5212,7 @@
     "jarvinumero": "03.052.1.002",
     "nimi": "Ahjärvi",
     "kunta": "RUOKOLAHTI",
-    "region": "New Data",
+    "region": "Lounais-Suomen elinvoimakeskus",
     "lat": 61.42226,
     "lng": 29.04764,
     "istutukset": [
@@ -5229,7 +5229,7 @@
     "jarvinumero": "14.197.1.011",
     "nimi": "Lalvatti",
     "kunta": "LEMI",
-    "region": "New Data",
+    "region": "Lounais-Suomen elinvoimakeskus",
     "lat": 61.14233,
     "lng": 27.76447,
     "istutukset": [
@@ -5246,7 +5246,7 @@
     "jarvinumero": "19.003.1.009",
     "nimi": "Pitkäjärvi",
     "kunta": "MÄNTSÄLÄ",
-    "region": "New Data",
+    "region": "Lounais-Suomen elinvoimakeskus",
     "lat": 60.71015,
     "lng": 25.28968,
     "istutukset": [
@@ -5277,7 +5277,7 @@
     "jarvinumero": "04.132.1.001",
     "nimi": "Suokumaanjärvi",
     "kunta": "LAPPEENRANTA",
-    "region": "New Data",
+    "region": "Lounais-Suomen elinvoimakeskus",
     "lat": 61.03593,
     "lng": 28.68621,
     "istutukset": [
@@ -5294,7 +5294,7 @@
     "jarvinumero": "14.173.1.001",
     "nimi": "Tuusjärvi",
     "kunta": "HEINOLA",
-    "region": "New Data",
+    "region": "Lounais-Suomen elinvoimakeskus",
     "lat": 61.30844,
     "lng": 26.13667,
     "istutukset": [
@@ -5318,7 +5318,7 @@
     "jarvinumero": "14.173.1.029",
     "nimi": "Vihutjärvi",
     "kunta": "HEINOLA",
-    "region": "New Data",
+    "region": "Lounais-Suomen elinvoimakeskus",
     "lat": 61.2895,
     "lng": 26.05936,
     "istutukset": [
@@ -5335,7 +5335,7 @@
     "jarvinumero": "14.835.1.004",
     "nimi": "Iso-Paljo",
     "kunta": "HARTOLA",
-    "region": "New Data",
+    "region": "Lounais-Suomen elinvoimakeskus",
     "lat": 61.73201,
     "lng": 25.93916,
     "istutukset": [
@@ -5352,7 +5352,7 @@
     "jarvinumero": "14.835.1.005",
     "nimi": "Vähä-Paljo",
     "kunta": "HARTOLA",
-    "region": "New Data",
+    "region": "Lounais-Suomen elinvoimakeskus",
     "lat": 61.7462,
     "lng": 25.93981,
     "istutukset": [
@@ -5369,7 +5369,7 @@
     "jarvinumero": "23.024.1.002",
     "nimi": "Kirmusjärvi",
     "kunta": "LOHJA",
-    "region": "New Data",
+    "region": "Lounais-Suomen elinvoimakeskus",
     "lat": 60.33124,
     "lng": 23.86548,
     "istutukset": [
@@ -5386,7 +5386,7 @@
     "jarvinumero": "23.023.1.002",
     "nimi": "Puujärvi",
     "kunta": "LOHJA",
-    "region": "New Data",
+    "region": "Lounais-Suomen elinvoimakeskus",
     "lat": 60.25368,
     "lng": 23.70887,
     "istutukset": [
@@ -5403,7 +5403,7 @@
     "jarvinumero": "23.023.1.001",
     "nimi": "Särkijärvi",
     "kunta": "LOHJA",
-    "region": "New Data",
+    "region": "Lounais-Suomen elinvoimakeskus",
     "lat": 60.21774,
     "lng": 23.68949,
     "istutukset": [
@@ -5420,7 +5420,7 @@
     "jarvinumero": "22.008.1.012",
     "nimi": "Hepari",
     "kunta": "KIRKKONUMMI",
-    "region": "New Data",
+    "region": "Lounais-Suomen elinvoimakeskus",
     "lat": 60.24465,
     "lng": 24.39618,
     "istutukset": [
@@ -5444,7 +5444,7 @@
     "jarvinumero": "14.182.1.001",
     "nimi": "Karhulanjärvi",
     "kunta": "KOUVOLA",
-    "region": "New Data",
+    "region": "Lounais-Suomen elinvoimakeskus",
     "lat": 60.90456,
     "lng": 26.82318,
     "istutukset": [
@@ -5468,7 +5468,7 @@
     "jarvinumero": "14.197.1.006",
     "nimi": "Kirventeenjärvi",
     "kunta": "LEMI",
-    "region": "New Data",
+    "region": "Lounais-Suomen elinvoimakeskus",
     "lat": 61.12498,
     "lng": 27.74572,
     "istutukset": [
@@ -5485,7 +5485,7 @@
     "jarvinumero": "14.164.1.001",
     "nimi": "Kymijärvi",
     "kunta": "LAHTI",
-    "region": "New Data",
+    "region": "Lounais-Suomen elinvoimakeskus",
     "lat": 60.97018,
     "lng": 25.80225,
     "istutukset": [
@@ -5558,7 +5558,7 @@
     "jarvinumero": "14.163.1.001",
     "nimi": "Iso-Kukkanen",
     "kunta": "LAHTI",
-    "region": "New Data",
+    "region": "Lounais-Suomen elinvoimakeskus",
     "lat": 60.96283,
     "lng": 25.93828,
     "istutukset": [
@@ -5589,7 +5589,7 @@
     "jarvinumero": "14.162.1.001",
     "nimi": "Ruuhijärvi",
     "kunta": "LAHTI",
-    "region": "New Data",
+    "region": "Lounais-Suomen elinvoimakeskus",
     "lat": 61.02722,
     "lng": 26.00779,
     "istutukset": [
@@ -5606,7 +5606,7 @@
     "jarvinumero": "14.162.1.002",
     "nimi": "Salajärvi",
     "kunta": "LAHTI",
-    "region": "New Data",
+    "region": "Lounais-Suomen elinvoimakeskus",
     "lat": 61.01394,
     "lng": 25.95323,
     "istutukset": [
@@ -5644,7 +5644,7 @@
     "jarvinumero": "14.199.1.003",
     "nimi": "Pastjärvi",
     "kunta": "LUUMÄKI",
-    "region": "New Data",
+    "region": "Lounais-Suomen elinvoimakeskus",
     "lat": 60.95971,
     "lng": 27.39601,
     "istutukset": [
@@ -5668,7 +5668,7 @@
     "jarvinumero": "",
     "nimi": "Suomenlahti",
     "kunta": "HELSINKI",
-    "region": "New Data",
+    "region": "Lounais-Suomen elinvoimakeskus",
     "lat": 60.3499762,
     "lng": 27.4535129,
     "istutukset": [
@@ -5692,7 +5692,7 @@
     "jarvinumero": "14.111.1.013",
     "nimi": "Suvijärvi",
     "kunta": "LOVIISA",
-    "region": "New Data",
+    "region": "Lounais-Suomen elinvoimakeskus",
     "lat": 60.56575,
     "lng": 26.50727,
     "istutukset": [
@@ -5716,7 +5716,7 @@
     "jarvinumero": "84.048.1.002",
     "nimi": "Päiväjärvi",
     "kunta": "KOKKOLA",
-    "region": "New Data",
+    "region": "Lounais-Suomen elinvoimakeskus",
     "lat": 63.88956,
     "lng": 23.24562,
     "istutukset": [
@@ -5733,7 +5733,7 @@
     "jarvinumero": "14.122.1.018",
     "nimi": "Ylimmäinen",
     "kunta": "KOUVOLA",
-    "region": "New Data",
+    "region": "Lounais-Suomen elinvoimakeskus",
     "lat": 61.04615,
     "lng": 26.25312,
     "istutukset": [
@@ -5750,7 +5750,7 @@
     "jarvinumero": "",
     "nimi": "Vesistö tuntematon",
     "kunta": "IITTI",
-    "region": "New Data",
+    "region": "Lounais-Suomen elinvoimakeskus",
     "lat": null,
     "lng": null,
     "istutukset": [
@@ -5781,7 +5781,7 @@
     "jarvinumero": "",
     "nimi": "Saaristomeri",
     "kunta": "NAANTALI",
-    "region": "New Data",
+    "region": "Lounais-Suomen elinvoimakeskus",
     "lat": 60.0566679,
     "lng": 21.7945074,
     "istutukset": [
@@ -5798,7 +5798,7 @@
     "jarvinumero": "81.057.1.040",
     "nimi": "Siikajärvi",
     "kunta": "ESPOO",
-    "region": "New Data",
+    "region": "Lounais-Suomen elinvoimakeskus",
     "lat": 60.28181,
     "lng": 24.51513,
     "istutukset": [
@@ -5815,7 +5815,7 @@
     "jarvinumero": "84V010.1.005",
     "nimi": "Djupvattenträsket",
     "kunta": "VÖYRI",
-    "region": "New Data",
+    "region": "Lounais-Suomen elinvoimakeskus",
     "lat": 63.2737,
     "lng": 22.26628,
     "istutukset": [
@@ -5832,7 +5832,7 @@
     "jarvinumero": "14.145.1.002",
     "nimi": "Pyhäjärvi",
     "kunta": "ASIKKALA",
-    "region": "New Data",
+    "region": "Lounais-Suomen elinvoimakeskus",
     "lat": 61.24528,
     "lng": 25.68014,
     "istutukset": [
@@ -5849,7 +5849,7 @@
     "jarvinumero": "",
     "nimi": "Suomenlahti",
     "kunta": "PYHTÄÄ",
-    "region": "New Data",
+    "region": "Lounais-Suomen elinvoimakeskus",
     "lat": 60.3499762,
     "lng": 27.4535129,
     "istutukset": [
@@ -5887,7 +5887,7 @@
     "jarvinumero": "81.020.1.001",
     "nimi": "Huutjärvi",
     "kunta": "PYHTÄÄ",
-    "region": "New Data",
+    "region": "Lounais-Suomen elinvoimakeskus",
     "lat": 60.49262,
     "lng": 26.7431,
     "istutukset": [
@@ -5904,7 +5904,7 @@
     "jarvinumero": "14.241.1.004",
     "nimi": "Joutjärvi",
     "kunta": "LAHTI",
-    "region": "New Data",
+    "region": "Lounais-Suomen elinvoimakeskus",
     "lat": 60.97678,
     "lng": 25.70182,
     "istutukset": [
@@ -5921,7 +5921,7 @@
     "jarvinumero": "14.241.1.002",
     "nimi": "Merrasjärvi",
     "kunta": "LAHTI",
-    "region": "New Data",
+    "region": "Lounais-Suomen elinvoimakeskus",
     "lat": 61.01769,
     "lng": 25.68469,
     "istutukset": [
@@ -5938,7 +5938,7 @@
     "jarvinumero": "14.131.1.001",
     "nimi": "Konnivesi",
     "kunta": "IITTI",
-    "region": "New Data",
+    "region": "Lounais-Suomen elinvoimakeskus",
     "lat": 61.16409,
     "lng": 26.14796,
     "istutukset": [
@@ -5955,7 +5955,7 @@
     "jarvinumero": "81.061.1.014",
     "nimi": "Humaljärvi",
     "kunta": "KIRKKONUMMI",
-    "region": "New Data",
+    "region": "Lounais-Suomen elinvoimakeskus",
     "lat": 60.16302,
     "lng": 24.42703,
     "istutukset": [
@@ -5972,7 +5972,7 @@
     "jarvinumero": "18.071.1.005",
     "nimi": "Tuhkurinjärvi",
     "kunta": "ORIMATTILA",
-    "region": "New Data",
+    "region": "Lounais-Suomen elinvoimakeskus",
     "lat": 60.76628,
     "lng": 25.53391,
     "istutukset": [
@@ -5989,7 +5989,7 @@
     "jarvinumero": "14.161.1.001",
     "nimi": "Sylvöjärvi",
     "kunta": "LAHTI",
-    "region": "New Data",
+    "region": "Lounais-Suomen elinvoimakeskus",
     "lat": 60.97187,
     "lng": 26.02819,
     "istutukset": [
@@ -6013,7 +6013,7 @@
     "jarvinumero": "14.163.1.013",
     "nimi": "Kärkjärvi",
     "kunta": "LAHTI",
-    "region": "New Data",
+    "region": "Lounais-Suomen elinvoimakeskus",
     "lat": 60.98499,
     "lng": 25.85255,
     "istutukset": [
@@ -6030,7 +6030,7 @@
     "jarvinumero": "",
     "nimi": "Suomenlahti",
     "kunta": "VIROLAHTI",
-    "region": "New Data",
+    "region": "Lounais-Suomen elinvoimakeskus",
     "lat": 60.3499762,
     "lng": 27.4535129,
     "istutukset": [
@@ -6054,7 +6054,7 @@
     "jarvinumero": "14.173.1.038",
     "nimi": "Kotajärvi",
     "kunta": "HEINOLA",
-    "region": "New Data",
+    "region": "Lounais-Suomen elinvoimakeskus",
     "lat": 61.29564,
     "lng": 25.96303,
     "istutukset": [
@@ -6071,7 +6071,7 @@
     "jarvinumero": "81.055.1.010",
     "nimi": "Pitkäjärvi",
     "kunta": "ESPOO",
-    "region": "New Data",
+    "region": "Lounais-Suomen elinvoimakeskus",
     "lat": 60.25303,
     "lng": 24.74778,
     "istutukset": [
@@ -6088,7 +6088,7 @@
     "jarvinumero": "21.032.1.001",
     "nimi": "Kytäjärvi",
     "kunta": "HYVINKÄÄ",
-    "region": "New Data",
+    "region": "Lounais-Suomen elinvoimakeskus",
     "lat": 60.60991,
     "lng": 24.64653,
     "istutukset": [
@@ -6105,7 +6105,7 @@
     "jarvinumero": "",
     "nimi": "Perämeri",
     "kunta": "UUSIKAARLEPYY",
-    "region": "New Data",
+    "region": "Lounais-Suomen elinvoimakeskus",
     "lat": null,
     "lng": null,
     "istutukset": [
@@ -6122,7 +6122,7 @@
     "jarvinumero": "09.006.1.002",
     "nimi": "Pieni-Urpalo",
     "kunta": "LUUMÄKI",
-    "region": "New Data",
+    "region": "Lounais-Suomen elinvoimakeskus",
     "lat": 60.94131,
     "lng": 27.85848,
     "istutukset": [
@@ -6139,7 +6139,7 @@
     "jarvinumero": "18.033.1.004",
     "nimi": "Salusjärvi",
     "kunta": "ORIMATTILA",
-    "region": "New Data",
+    "region": "Lounais-Suomen elinvoimakeskus",
     "lat": 60.77584,
     "lng": 25.49946,
     "istutukset": [
@@ -6149,6 +6149,4301 @@
         "kpl": 56,
         "ika": "Kolmevuotias",
         "paino_g": 500.0
+      }
+    ]
+  },
+  {
+    "jarvinumero": "35.984.1.025",
+    "nimi": "Pitkäjärvi",
+    "kunta": "HÄMEENLINNA",
+    "region": "Itä-Suomen elinvoimakeskus",
+    "lat": 60.83349,
+    "lng": 24.09607,
+    "istutukset": [
+      {
+        "vuosi": 1989,
+        "pvm": "1989-05-09",
+        "kpl": 50,
+        "ika": "Kaksivuotias",
+        "paino_g": 135.0
+      }
+    ]
+  },
+  {
+    "jarvinumero": "35.211.1.001",
+    "nimi": "Pyhäjärvi (N60 77.20)",
+    "kunta": "VESILAHTI",
+    "region": "Itä-Suomen elinvoimakeskus",
+    "lat": 61.38107,
+    "lng": 23.50773,
+    "istutukset": [
+      {
+        "vuosi": 1989,
+        "pvm": "1989-09-27",
+        "kpl": 250,
+        "ika": "Kaksikesäinen",
+        "paino_g": 100.0
+      },
+      {
+        "vuosi": 1992,
+        "pvm": "1992-06-15",
+        "kpl": 260,
+        "ika": "Kaksivuotias",
+        "paino_g": 155.0
+      },
+      {
+        "vuosi": 1993,
+        "pvm": "1993-05-31",
+        "kpl": 180,
+        "ika": "Kaksivuotias",
+        "paino_g": 116.0
+      },
+      {
+        "vuosi": 1994,
+        "pvm": "1994-05-30",
+        "kpl": 1085,
+        "ika": "Kaksivuotias",
+        "paino_g": 645.0
+      },
+      {
+        "vuosi": 1995,
+        "pvm": "1995-08-15",
+        "kpl": 1750,
+        "ika": "Kolmekesäinen",
+        "paino_g": 400.0
+      },
+      {
+        "vuosi": 1996,
+        "pvm": "1996-06-10",
+        "kpl": 258,
+        "ika": "Kaksivuotias",
+        "paino_g": 353.0
+      },
+      {
+        "vuosi": 1996,
+        "pvm": "1996-06-26",
+        "kpl": 1670,
+        "ika": "Kaksivuotias",
+        "paino_g": 370.0
+      },
+      {
+        "vuosi": 1997,
+        "pvm": "1997-09-28",
+        "kpl": 2228,
+        "ika": "Kolmekesäinen",
+        "paino_g": 310.0
+      },
+      {
+        "vuosi": 1997,
+        "pvm": "1997-09-04",
+        "kpl": 984,
+        "ika": "Kolmekesäinen",
+        "paino_g": 310.0
+      },
+      {
+        "vuosi": 1998,
+        "pvm": "1998-06-23",
+        "kpl": 1195,
+        "ika": "Kaksivuotias",
+        "paino_g": 350.0
+      },
+      {
+        "vuosi": 1998,
+        "pvm": "1998-06-23",
+        "kpl": 583,
+        "ika": "Kaksivuotias",
+        "paino_g": 350.0
+      },
+      {
+        "vuosi": 1998,
+        "pvm": "1998-06-07",
+        "kpl": 250,
+        "ika": "Yksivuotias",
+        "paino_g": 77.8
+      },
+      {
+        "vuosi": 1999,
+        "pvm": "1999-08-31",
+        "kpl": 233,
+        "ika": "Kolmekesäinen",
+        "paino_g": 400.0
+      },
+      {
+        "vuosi": 1999,
+        "pvm": "1999-06-08",
+        "kpl": 1143,
+        "ika": "Kaksivuotias",
+        "paino_g": 265.0
+      },
+      {
+        "vuosi": 2000,
+        "pvm": "2000-06-20",
+        "kpl": 380,
+        "ika": "Kaksivuotias",
+        "paino_g": 460.0
+      },
+      {
+        "vuosi": 2001,
+        "pvm": "2001-06-19",
+        "kpl": 56,
+        "ika": "Kaksivuotias",
+        "paino_g": 340.0
+      }
+    ]
+  },
+  {
+    "jarvinumero": "35.217.1.002",
+    "nimi": "Isolammi",
+    "kunta": "PIRKKALA",
+    "region": "Itä-Suomen elinvoimakeskus",
+    "lat": 61.4542,
+    "lng": 23.60067,
+    "istutukset": [
+      {
+        "vuosi": 1989,
+        "pvm": "1989-09-20",
+        "kpl": 100,
+        "ika": "Kaksikesäinen",
+        "paino_g": 200.0
+      },
+      {
+        "vuosi": 2005,
+        "pvm": "2005-09-08",
+        "kpl": 11,
+        "ika": "Neljäkesäinen",
+        "paino_g": 527.0
+      }
+    ]
+  },
+  {
+    "jarvinumero": "35.773.1.022",
+    "nimi": "Kyläjärvi",
+    "kunta": "HÄMEENLINNA",
+    "region": "Itä-Suomen elinvoimakeskus",
+    "lat": 61.2528,
+    "lng": 24.72615,
+    "istutukset": [
+      {
+        "vuosi": 1990,
+        "pvm": "1990-10-25",
+        "kpl": 300,
+        "ika": "Kaksikesäinen",
+        "paino_g": 120.0
+      },
+      {
+        "vuosi": 1995,
+        "pvm": "1995-07-19",
+        "kpl": 120,
+        "ika": "Kaksivuotias",
+        "paino_g": 420.0
+      }
+    ]
+  },
+  {
+    "jarvinumero": "19.005.1.005",
+    "nimi": "Pursijärvi",
+    "kunta": "HAUSJÄRVI",
+    "region": "Itä-Suomen elinvoimakeskus",
+    "lat": 60.80971,
+    "lng": 25.05776,
+    "istutukset": [
+      {
+        "vuosi": 1991,
+        "pvm": "1991-08-21",
+        "kpl": 300,
+        "ika": "Kaksikesäinen",
+        "paino_g": null
+      },
+      {
+        "vuosi": 2021,
+        "pvm": "2021-06-11",
+        "kpl": 200,
+        "ika": "Kaksivuotias",
+        "paino_g": 46.0
+      }
+    ]
+  },
+  {
+    "jarvinumero": "35.211.1.006",
+    "nimi": "Vähäjärvi",
+    "kunta": "PIRKKALA",
+    "region": "Itä-Suomen elinvoimakeskus",
+    "lat": 61.46199,
+    "lng": 23.6522,
+    "istutukset": [
+      {
+        "vuosi": 1991,
+        "pvm": "1991-05-16",
+        "kpl": 200,
+        "ika": "Yksivuotias",
+        "paino_g": 10.0
+      },
+      {
+        "vuosi": 1998,
+        "pvm": "1998-06-23",
+        "kpl": 100,
+        "ika": "Kaksivuotias",
+        "paino_g": 350.0
+      }
+    ]
+  },
+  {
+    "jarvinumero": "35.525.1.005",
+    "nimi": "Kangaslampi (p)",
+    "kunta": "PARKANO",
+    "region": "Itä-Suomen elinvoimakeskus",
+    "lat": 61.99048,
+    "lng": 22.84728,
+    "istutukset": [
+      {
+        "vuosi": 1991,
+        "pvm": "1991-06-02",
+        "kpl": 200,
+        "ika": "Yksivuotias",
+        "paino_g": 10.0
+      }
+    ]
+  },
+  {
+    "jarvinumero": "04.151.1.001",
+    "nimi": "Ukonvesi (Saimaa)",
+    "kunta": "MIKKELI",
+    "region": "Itä-Suomen elinvoimakeskus",
+    "lat": 61.61581,
+    "lng": 27.31381,
+    "istutukset": [
+      {
+        "vuosi": 1991,
+        "pvm": "1991-09-23",
+        "kpl": 275,
+        "ika": "Kaksikesäinen",
+        "paino_g": 340.0
+      },
+      {
+        "vuosi": 1993,
+        "pvm": "1993-09-26",
+        "kpl": 152,
+        "ika": "Kolmekesäinen",
+        "paino_g": null
+      },
+      {
+        "vuosi": 2001,
+        "pvm": "2001-09-11",
+        "kpl": 22,
+        "ika": "Neljäkesäinen",
+        "paino_g": 3000.0
+      }
+    ]
+  },
+  {
+    "jarvinumero": "04.123.1.003",
+    "nimi": "Vilkajärvi",
+    "kunta": "SULKAVA",
+    "region": "Itä-Suomen elinvoimakeskus",
+    "lat": 61.79984,
+    "lng": 28.4231,
+    "istutukset": [
+      {
+        "vuosi": 1991,
+        "pvm": "1991-08-30",
+        "kpl": 1000,
+        "ika": "Kaksivuotias",
+        "paino_g": 150.0
+      }
+    ]
+  },
+  {
+    "jarvinumero": "35.791.1.010",
+    "nimi": "Suolijärvi",
+    "kunta": "HÄMEENLINNA",
+    "region": "Itä-Suomen elinvoimakeskus",
+    "lat": 61.13,
+    "lng": 24.8245,
+    "istutukset": [
+      {
+        "vuosi": 1991,
+        "pvm": "1991-10-18",
+        "kpl": 150,
+        "ika": "Kaksikesäinen",
+        "paino_g": 180.0
+      }
+    ]
+  },
+  {
+    "jarvinumero": "35.771.1.007",
+    "nimi": "Vekurinjärvi",
+    "kunta": "HÄMEENLINNA",
+    "region": "Itä-Suomen elinvoimakeskus",
+    "lat": 61.22234,
+    "lng": 24.32566,
+    "istutukset": [
+      {
+        "vuosi": 1991,
+        "pvm": "1991-09-27",
+        "kpl": 260,
+        "ika": "Kaksikesäinen",
+        "paino_g": 115.0
+      },
+      {
+        "vuosi": 1993,
+        "pvm": "1993-10-06",
+        "kpl": 170,
+        "ika": "Istutettu sukukypsiä kaloja, ikää ei tunneta tarka",
+        "paino_g": 520.0
+      }
+    ]
+  },
+  {
+    "jarvinumero": "14.414.1.011",
+    "nimi": "Kangasjärvi",
+    "kunta": "SAARIJÄRVI",
+    "region": "Itä-Suomen elinvoimakeskus",
+    "lat": 62.77119,
+    "lng": 25.64629,
+    "istutukset": [
+      {
+        "vuosi": 1991,
+        "pvm": "1991-11-08",
+        "kpl": 100,
+        "ika": "Kolmevuotias",
+        "paino_g": 160.0
+      }
+    ]
+  },
+  {
+    "jarvinumero": "35.773.1.008",
+    "nimi": "Pitkäjärvi",
+    "kunta": "PÄLKÄNE",
+    "region": "Itä-Suomen elinvoimakeskus",
+    "lat": 61.2947,
+    "lng": 24.47123,
+    "istutukset": [
+      {
+        "vuosi": 1991,
+        "pvm": "1991-09-15",
+        "kpl": 200,
+        "ika": "Kaksikesäinen",
+        "paino_g": null
+      }
+    ]
+  },
+  {
+    "jarvinumero": "35.792.1.001",
+    "nimi": "Ormajärvi",
+    "kunta": "HÄMEENLINNA",
+    "region": "Itä-Suomen elinvoimakeskus",
+    "lat": 61.10053,
+    "lng": 24.96899,
+    "istutukset": [
+      {
+        "vuosi": 1992,
+        "pvm": "1992-06-30",
+        "kpl": 650,
+        "ika": "Kaksivuotias",
+        "paino_g": 160.0
+      },
+      {
+        "vuosi": 1992,
+        "pvm": "1992-07-01",
+        "kpl": 143,
+        "ika": "Kaksivuotias",
+        "paino_g": 160.0
+      },
+      {
+        "vuosi": 1997,
+        "pvm": "1997-09-02",
+        "kpl": 201,
+        "ika": "Kolmekesäinen",
+        "paino_g": 310.0
+      },
+      {
+        "vuosi": 2001,
+        "pvm": "2001-10-04",
+        "kpl": 144,
+        "ika": "Kolmekesäinen",
+        "paino_g": 400.0
+      },
+      {
+        "vuosi": 2010,
+        "pvm": "2010-08-10",
+        "kpl": 142,
+        "ika": "Kaksivuotias",
+        "paino_g": 400.0
+      }
+    ]
+  },
+  {
+    "jarvinumero": "35.286.1.004",
+    "nimi": "Rutajärvi",
+    "kunta": "URJALA",
+    "region": "Itä-Suomen elinvoimakeskus",
+    "lat": 61.06758,
+    "lng": 23.45799,
+    "istutukset": [
+      {
+        "vuosi": 1992,
+        "pvm": "1992-06-30",
+        "kpl": 550,
+        "ika": "Kaksivuotias",
+        "paino_g": 160.0
+      },
+      {
+        "vuosi": 1993,
+        "pvm": "1993-08-03",
+        "kpl": 340,
+        "ika": "Istutettu sukukypsiä kaloja, ikää ei tunneta tarka",
+        "paino_g": 400.0
+      }
+    ]
+  },
+  {
+    "jarvinumero": "35.285.1.003",
+    "nimi": "Kotkajärvi",
+    "kunta": "HÄMEENLINNA",
+    "region": "Itä-Suomen elinvoimakeskus",
+    "lat": 61.00423,
+    "lng": 23.99833,
+    "istutukset": [
+      {
+        "vuosi": 1992,
+        "pvm": "1992-09-05",
+        "kpl": 40,
+        "ika": "Kolmekesäinen",
+        "paino_g": 320.0
+      }
+    ]
+  },
+  {
+    "jarvinumero": "21.033.1.007",
+    "nimi": "Vatsianjärvi",
+    "kunta": "RIIHIMÄKI",
+    "region": "Itä-Suomen elinvoimakeskus",
+    "lat": 60.66188,
+    "lng": 24.67688,
+    "istutukset": [
+      {
+        "vuosi": 1992,
+        "pvm": "1992-06-30",
+        "kpl": 200,
+        "ika": "Kaksivuotias",
+        "paino_g": 160.0
+      },
+      {
+        "vuosi": 1993,
+        "pvm": "1993-08-22",
+        "kpl": 222,
+        "ika": "Kaksikesäinen",
+        "paino_g": 130.0
+      },
+      {
+        "vuosi": 1995,
+        "pvm": "1995-07-19",
+        "kpl": 60,
+        "ika": "Kaksivuotias",
+        "paino_g": 420.0
+      }
+    ]
+  },
+  {
+    "jarvinumero": "21.025.1.001",
+    "nimi": "Paalijärvi",
+    "kunta": "RIIHIMÄKI",
+    "region": "Itä-Suomen elinvoimakeskus",
+    "lat": 60.68352,
+    "lng": 24.67898,
+    "istutukset": [
+      {
+        "vuosi": 1992,
+        "pvm": "1992-06-30",
+        "kpl": 400,
+        "ika": "Kaksivuotias",
+        "paino_g": 160.0
+      },
+      {
+        "vuosi": 1993,
+        "pvm": "1993-08-22",
+        "kpl": 333,
+        "ika": "Kaksikesäinen",
+        "paino_g": 130.0
+      },
+      {
+        "vuosi": 1994,
+        "pvm": "1994-06-15",
+        "kpl": 160,
+        "ika": "Istutettu sukukypsiä kaloja, ikää ei tunneta tarka",
+        "paino_g": 635.0
+      },
+      {
+        "vuosi": 1995,
+        "pvm": "1995-07-19",
+        "kpl": 120,
+        "ika": "Kaksivuotias",
+        "paino_g": 420.0
+      },
+      {
+        "vuosi": 1997,
+        "pvm": "1997-09-02",
+        "kpl": 322,
+        "ika": "Kolmekesäinen",
+        "paino_g": 310.0
+      },
+      {
+        "vuosi": 1999,
+        "pvm": "1999-06-11",
+        "kpl": 225,
+        "ika": "Kaksivuotias",
+        "paino_g": 300.0
+      },
+      {
+        "vuosi": 2000,
+        "pvm": "2000-06-29",
+        "kpl": 170,
+        "ika": "Kolmevuotias",
+        "paino_g": 450.0
+      },
+      {
+        "vuosi": 2003,
+        "pvm": "2003-06-10",
+        "kpl": 121,
+        "ika": "Kolmevuotias",
+        "paino_g": 1100.0
+      },
+      {
+        "vuosi": 2009,
+        "pvm": "2009-06-08",
+        "kpl": 150,
+        "ika": "Kaksivuotias",
+        "paino_g": 300.0
+      }
+    ]
+  },
+  {
+    "jarvinumero": "14.236.1.026",
+    "nimi": "Ylimmäinen Ruuhilampi",
+    "kunta": "JOUTSA",
+    "region": "Itä-Suomen elinvoimakeskus",
+    "lat": 62.00609,
+    "lng": 26.16602,
+    "istutukset": [
+      {
+        "vuosi": 1992,
+        "pvm": "1992-05-30",
+        "kpl": 286,
+        "ika": "Kaksivuotias",
+        "paino_g": 160.0
+      }
+    ]
+  },
+  {
+    "jarvinumero": "35.290.1.004",
+    "nimi": "Hirvijärvi",
+    "kunta": "VESILAHTI",
+    "region": "Itä-Suomen elinvoimakeskus",
+    "lat": 61.24389,
+    "lng": 23.57391,
+    "istutukset": [
+      {
+        "vuosi": 1992,
+        "pvm": "1992-06-15",
+        "kpl": 130,
+        "ika": "Kaksivuotias",
+        "paino_g": 155.0
+      },
+      {
+        "vuosi": 1996,
+        "pvm": "1996-06-26",
+        "kpl": 68,
+        "ika": "Kaksivuotias",
+        "paino_g": 370.0
+      }
+    ]
+  },
+  {
+    "jarvinumero": "35.311.1.029",
+    "nimi": "Kuusjärvi",
+    "kunta": "TAMPERE",
+    "region": "Itä-Suomen elinvoimakeskus",
+    "lat": 61.64233,
+    "lng": 23.8511,
+    "istutukset": [
+      {
+        "vuosi": 1992,
+        "pvm": "1992-06-15",
+        "kpl": 80,
+        "ika": "Kaksivuotias",
+        "paino_g": 155.0
+      }
+    ]
+  },
+  {
+    "jarvinumero": "35.213.1.003",
+    "nimi": "Tesomajärvi",
+    "kunta": "TAMPERE",
+    "region": "Itä-Suomen elinvoimakeskus",
+    "lat": 61.50829,
+    "lng": 23.61305,
+    "istutukset": [
+      {
+        "vuosi": 1992,
+        "pvm": "1992-06-15",
+        "kpl": 100,
+        "ika": "Kaksivuotias",
+        "paino_g": 155.0
+      },
+      {
+        "vuosi": 1993,
+        "pvm": "1993-05-31",
+        "kpl": 100,
+        "ika": "Kaksivuotias",
+        "paino_g": 116.0
+      }
+    ]
+  },
+  {
+    "jarvinumero": "14.718.1.092",
+    "nimi": "Keltalampi",
+    "kunta": "PIEKSÄMÄKI",
+    "region": "Itä-Suomen elinvoimakeskus",
+    "lat": 62.44522,
+    "lng": 26.8469,
+    "istutukset": [
+      {
+        "vuosi": 1992,
+        "pvm": "1992-10-02",
+        "kpl": 5,
+        "ika": "Kaksikesäinen",
+        "paino_g": 200.0
+      },
+      {
+        "vuosi": 1992,
+        "pvm": "1992-10-02",
+        "kpl": 9,
+        "ika": "Kolmekesäinen",
+        "paino_g": null
+      }
+    ]
+  },
+  {
+    "jarvinumero": "04.181.1.001",
+    "nimi": "Puruvesi (Saimaa)",
+    "kunta": "SAVONLINNA",
+    "region": "Itä-Suomen elinvoimakeskus",
+    "lat": 61.90118,
+    "lng": 29.51238,
+    "istutukset": [
+      {
+        "vuosi": 1992,
+        "pvm": "1992-06-06",
+        "kpl": 300,
+        "ika": "Kaksivuotias",
+        "paino_g": 300.0
+      }
+    ]
+  },
+  {
+    "jarvinumero": "14.841.1.001",
+    "nimi": "Suontee (N60 94.10)",
+    "kunta": "JOUTSA",
+    "region": "Itä-Suomen elinvoimakeskus",
+    "lat": 61.78012,
+    "lng": 26.27827,
+    "istutukset": [
+      {
+        "vuosi": 1993,
+        "pvm": "1993-06-24",
+        "kpl": 100,
+        "ika": "Istutettu ei sukukypsiä kaloja, ikää ei tunneta ta",
+        "paino_g": null
+      }
+    ]
+  },
+  {
+    "jarvinumero": "04.161.1.008",
+    "nimi": "Haukilampi",
+    "kunta": "JUVA",
+    "region": "Itä-Suomen elinvoimakeskus",
+    "lat": 61.75477,
+    "lng": 27.66243,
+    "istutukset": [
+      {
+        "vuosi": 1993,
+        "pvm": "1993-05-12",
+        "kpl": 101,
+        "ika": "Kolmevuotias",
+        "paino_g": 350.0
+      }
+    ]
+  },
+  {
+    "jarvinumero": "04.141.1.036",
+    "nimi": "Hautalampi",
+    "kunta": "MIKKELI",
+    "region": "Itä-Suomen elinvoimakeskus",
+    "lat": 61.32694,
+    "lng": 27.57723,
+    "istutukset": [
+      {
+        "vuosi": 1993,
+        "pvm": "1993-07-02",
+        "kpl": 78,
+        "ika": "Kaksivuotias",
+        "paino_g": 100.0
+      }
+    ]
+  },
+  {
+    "jarvinumero": "35.774.1.005",
+    "nimi": "Kotkijärvi",
+    "kunta": "HÄMEENLINNA",
+    "region": "Itä-Suomen elinvoimakeskus",
+    "lat": 61.15442,
+    "lng": 24.68119,
+    "istutukset": [
+      {
+        "vuosi": 1993,
+        "pvm": "1993-08-03",
+        "kpl": 89,
+        "ika": "Istutettu sukukypsiä kaloja, ikää ei tunneta tarka",
+        "paino_g": 400.0
+      },
+      {
+        "vuosi": 1994,
+        "pvm": "1994-06-15",
+        "kpl": 105,
+        "ika": "Istutettu sukukypsiä kaloja, ikää ei tunneta tarka",
+        "paino_g": 635.0
+      }
+    ]
+  },
+  {
+    "jarvinumero": "21.033.1.019",
+    "nimi": "Vehkalammi",
+    "kunta": "LOPPI",
+    "region": "Itä-Suomen elinvoimakeskus",
+    "lat": 60.6836,
+    "lng": 24.57246,
+    "istutukset": [
+      {
+        "vuosi": 1993,
+        "pvm": "1993-09-05",
+        "kpl": 66,
+        "ika": "Kaksikesäinen",
+        "paino_g": 130.0
+      }
+    ]
+  },
+  {
+    "jarvinumero": "35.823.1.002",
+    "nimi": "Kivenpuulammi",
+    "kunta": "HAUSJÄRVI",
+    "region": "Itä-Suomen elinvoimakeskus",
+    "lat": 60.82625,
+    "lng": 25.00323,
+    "istutukset": [
+      {
+        "vuosi": 1993,
+        "pvm": "1993-08-21",
+        "kpl": 22,
+        "ika": "Kaksikesäinen",
+        "paino_g": 130.0
+      }
+    ]
+  },
+  {
+    "jarvinumero": "35.823.1.003",
+    "nimi": "Valkjärvi",
+    "kunta": "HAUSJÄRVI",
+    "region": "Itä-Suomen elinvoimakeskus",
+    "lat": 60.82323,
+    "lng": 24.98529,
+    "istutukset": [
+      {
+        "vuosi": 1993,
+        "pvm": "1993-08-21",
+        "kpl": 89,
+        "ika": "Kaksikesäinen",
+        "paino_g": 130.0
+      }
+    ]
+  },
+  {
+    "jarvinumero": "35.721.1.002",
+    "nimi": "Tervajärvi",
+    "kunta": "KANGASALA",
+    "region": "Itä-Suomen elinvoimakeskus",
+    "lat": 61.49195,
+    "lng": 24.68444,
+    "istutukset": [
+      {
+        "vuosi": 1993,
+        "pvm": "1993-09-06",
+        "kpl": 50,
+        "ika": "Kaksikesäinen",
+        "paino_g": null
+      }
+    ]
+  },
+  {
+    "jarvinumero": "35.173.1.002",
+    "nimi": "Ruokojärvi",
+    "kunta": "VESILAHTI",
+    "region": "Itä-Suomen elinvoimakeskus",
+    "lat": 61.23689,
+    "lng": 23.40813,
+    "istutukset": [
+      {
+        "vuosi": 1993,
+        "pvm": "1993-05-31",
+        "kpl": 100,
+        "ika": "Kaksivuotias",
+        "paino_g": 116.0
+      },
+      {
+        "vuosi": 1995,
+        "pvm": "1995-08-15",
+        "kpl": 44,
+        "ika": "Kolmekesäinen",
+        "paino_g": 450.0
+      }
+    ]
+  },
+  {
+    "jarvinumero": "35.132.1.001",
+    "nimi": "Kulovesi",
+    "kunta": "NOKIA",
+    "region": "Itä-Suomen elinvoimakeskus",
+    "lat": 61.43875,
+    "lng": 23.20575,
+    "istutukset": [
+      {
+        "vuosi": 1994,
+        "pvm": "1994-05-30",
+        "kpl": 482,
+        "ika": "Kolmevuotias",
+        "paino_g": 645.0
+      },
+      {
+        "vuosi": 1995,
+        "pvm": "1995-08-15",
+        "kpl": 1250,
+        "ika": "Kolmekesäinen",
+        "paino_g": 400.0
+      },
+      {
+        "vuosi": 1997,
+        "pvm": "1997-09-04",
+        "kpl": 984,
+        "ika": "Kolmekesäinen",
+        "paino_g": 310.0
+      },
+      {
+        "vuosi": 1999,
+        "pvm": "1999-06-08",
+        "kpl": 1166,
+        "ika": "Kaksivuotias",
+        "paino_g": 265.0
+      },
+      {
+        "vuosi": 2000,
+        "pvm": "2000-06-20",
+        "kpl": 989,
+        "ika": "Kaksivuotias",
+        "paino_g": 460.0
+      },
+      {
+        "vuosi": 2001,
+        "pvm": "2001-06-27",
+        "kpl": 1096,
+        "ika": "Kaksivuotias",
+        "paino_g": 280.0
+      },
+      {
+        "vuosi": 2002,
+        "pvm": "2002-06-03",
+        "kpl": 460,
+        "ika": "Kaksivuotias",
+        "paino_g": 448.0
+      },
+      {
+        "vuosi": 2002,
+        "pvm": "2002-06-03",
+        "kpl": 484,
+        "ika": "Kaksivuotias",
+        "paino_g": 448.0
+      }
+    ]
+  },
+  {
+    "jarvinumero": "35.161.1.014",
+    "nimi": "Vatajanlammi",
+    "kunta": "SASTAMALA",
+    "region": "Itä-Suomen elinvoimakeskus",
+    "lat": 61.52435,
+    "lng": 23.16669,
+    "istutukset": [
+      {
+        "vuosi": 1994,
+        "pvm": "1994-05-30",
+        "kpl": 40,
+        "ika": "Kaksivuotias",
+        "paino_g": 645.0
+      }
+    ]
+  },
+  {
+    "jarvinumero": "35.311.1.017",
+    "nimi": "Kukonjärvi",
+    "kunta": "TAMPERE",
+    "region": "Itä-Suomen elinvoimakeskus",
+    "lat": 61.61471,
+    "lng": 23.89873,
+    "istutukset": [
+      {
+        "vuosi": 1994,
+        "pvm": "1994-05-30",
+        "kpl": 155,
+        "ika": "Kaksivuotias",
+        "paino_g": 645.0
+      }
+    ]
+  },
+  {
+    "jarvinumero": "35.262.1.001",
+    "nimi": "Äimäjärvi",
+    "kunta": "HÄMEENLINNA",
+    "region": "Itä-Suomen elinvoimakeskus",
+    "lat": 61.05789,
+    "lng": 24.15787,
+    "istutukset": [
+      {
+        "vuosi": 1994,
+        "pvm": "1994-09-04",
+        "kpl": 365,
+        "ika": "Kaksikesäinen",
+        "paino_g": 145.0
+      },
+      {
+        "vuosi": 1994,
+        "pvm": "1994-06-15",
+        "kpl": 67,
+        "ika": "Istutettu sukukypsiä kaloja, ikää ei tunneta tarka",
+        "paino_g": 635.0
+      }
+    ]
+  },
+  {
+    "jarvinumero": "35.263.1.005",
+    "nimi": "Leinamonjärvi",
+    "kunta": "HÄMEENLINNA",
+    "region": "Itä-Suomen elinvoimakeskus",
+    "lat": 61.04639,
+    "lng": 24.03359,
+    "istutukset": [
+      {
+        "vuosi": 1994,
+        "pvm": "1994-09-04",
+        "kpl": 100,
+        "ika": "Kaksikesäinen",
+        "paino_g": 145.0
+      }
+    ]
+  },
+  {
+    "jarvinumero": "35.716.1.004",
+    "nimi": "Iso Kiimajärvi",
+    "kunta": "KANGASALA",
+    "region": "Itä-Suomen elinvoimakeskus",
+    "lat": 61.42301,
+    "lng": 24.47833,
+    "istutukset": [
+      {
+        "vuosi": 1994,
+        "pvm": "1994-05-30",
+        "kpl": 118,
+        "ika": "Kaksivuotias",
+        "paino_g": 645.0
+      }
+    ]
+  },
+  {
+    "jarvinumero": "35.214.1.001",
+    "nimi": "Iidesjärvi",
+    "kunta": "TAMPERE",
+    "region": "Itä-Suomen elinvoimakeskus",
+    "lat": 61.48511,
+    "lng": 23.80938,
+    "istutukset": [
+      {
+        "vuosi": 1994,
+        "pvm": "1994-05-30",
+        "kpl": 100,
+        "ika": "Kaksivuotias",
+        "paino_g": 645.0
+      },
+      {
+        "vuosi": 1995,
+        "pvm": "1995-08-15",
+        "kpl": 189,
+        "ika": "Kolmekesäinen",
+        "paino_g": 450.0
+      },
+      {
+        "vuosi": 1996,
+        "pvm": "1996-06-26",
+        "kpl": 86,
+        "ika": "Kaksivuotias",
+        "paino_g": 370.0
+      },
+      {
+        "vuosi": 1997,
+        "pvm": "1997-08-29",
+        "kpl": 186,
+        "ika": "Kaksivuotias",
+        "paino_g": 310.0
+      },
+      {
+        "vuosi": 1998,
+        "pvm": "1998-06-23",
+        "kpl": 123,
+        "ika": "Kaksivuotias",
+        "paino_g": 350.0
+      },
+      {
+        "vuosi": 1999,
+        "pvm": "1999-08-31",
+        "kpl": 105,
+        "ika": "Kolmekesäinen",
+        "paino_g": 400.0
+      },
+      {
+        "vuosi": 2000,
+        "pvm": "2000-06-20",
+        "kpl": 120,
+        "ika": "Kaksivuotias",
+        "paino_g": 460.0
+      },
+      {
+        "vuosi": 2001,
+        "pvm": "2001-06-19",
+        "kpl": 200,
+        "ika": "Kaksivuotias",
+        "paino_g": 340.0
+      },
+      {
+        "vuosi": 2002,
+        "pvm": "2002-06-03",
+        "kpl": 142,
+        "ika": "Kaksivuotias",
+        "paino_g": 448.0
+      },
+      {
+        "vuosi": 2004,
+        "pvm": "2004-09-23",
+        "kpl": 200,
+        "ika": "Kolmekesäinen",
+        "paino_g": 280.0
+      },
+      {
+        "vuosi": 2005,
+        "pvm": "2005-08-25",
+        "kpl": 200,
+        "ika": "Neljäkesäinen",
+        "paino_g": 527.0
+      },
+      {
+        "vuosi": 2007,
+        "pvm": "2007-11-07",
+        "kpl": 100,
+        "ika": "Kaksikesäinen",
+        "paino_g": 200.0
+      },
+      {
+        "vuosi": 2007,
+        "pvm": "2007-09-03",
+        "kpl": 100,
+        "ika": "Kolmekesäinen",
+        "paino_g": 200.0
+      },
+      {
+        "vuosi": 2008,
+        "pvm": "2008-08-20",
+        "kpl": 95,
+        "ika": "Kaksivuotias",
+        "paino_g": 210.0
+      },
+      {
+        "vuosi": 2009,
+        "pvm": "2009-08-27",
+        "kpl": 600,
+        "ika": "Kolmekesäinen",
+        "paino_g": 250.0
+      },
+      {
+        "vuosi": 2010,
+        "pvm": "2010-10-21",
+        "kpl": 50,
+        "ika": "Kaksivuotias",
+        "paino_g": 400.0
+      },
+      {
+        "vuosi": 2011,
+        "pvm": "2011-05-31",
+        "kpl": 23,
+        "ika": "Kolmevuotias",
+        "paino_g": 850.0
+      },
+      {
+        "vuosi": 2012,
+        "pvm": "2012-08-21",
+        "kpl": 60,
+        "ika": "Kaksivuotias",
+        "paino_g": 330.0
+      },
+      {
+        "vuosi": 2013,
+        "pvm": "2013-09-04",
+        "kpl": 50,
+        "ika": "Kolmekesäinen",
+        "paino_g": 400.0
+      }
+    ]
+  },
+  {
+    "jarvinumero": "35.216.1.004",
+    "nimi": "Peltolammi",
+    "kunta": "TAMPERE",
+    "region": "Itä-Suomen elinvoimakeskus",
+    "lat": 61.4462,
+    "lng": 23.74308,
+    "istutukset": [
+      {
+        "vuosi": 1994,
+        "pvm": "1994-05-30",
+        "kpl": 81,
+        "ika": "Kaksivuotias",
+        "paino_g": 645.0
+      }
+    ]
+  },
+  {
+    "jarvinumero": "35.982.1.007",
+    "nimi": "Herttuanjärvi",
+    "kunta": "TAMMELA",
+    "region": "Itä-Suomen elinvoimakeskus",
+    "lat": 60.66672,
+    "lng": 23.96273,
+    "istutukset": [
+      {
+        "vuosi": 1994,
+        "pvm": "1994-06-15",
+        "kpl": 89,
+        "ika": "Istutettu sukukypsiä kaloja, ikää ei tunneta tarka",
+        "paino_g": 635.0
+      }
+    ]
+  },
+  {
+    "jarvinumero": "35.874.1.001",
+    "nimi": "Loppijärvi",
+    "kunta": "LOPPI",
+    "region": "Itä-Suomen elinvoimakeskus",
+    "lat": 60.68121,
+    "lng": 24.44297,
+    "istutukset": [
+      {
+        "vuosi": 1994,
+        "pvm": "1994-06-15",
+        "kpl": 89,
+        "ika": "Istutettu sukukypsiä kaloja, ikää ei tunneta tarka",
+        "paino_g": 635.0
+      },
+      {
+        "vuosi": 1995,
+        "pvm": "1995-07-19",
+        "kpl": 327,
+        "ika": "Kaksivuotias",
+        "paino_g": 420.0
+      },
+      {
+        "vuosi": 1996,
+        "pvm": "1996-08-14",
+        "kpl": 289,
+        "ika": "Kaksikesäinen",
+        "paino_g": 260.0
+      }
+    ]
+  },
+  {
+    "jarvinumero": "35.873.1.001",
+    "nimi": "Kesijärvi",
+    "kunta": "JANAKKALA",
+    "region": "Itä-Suomen elinvoimakeskus",
+    "lat": 60.75057,
+    "lng": 24.51856,
+    "istutukset": [
+      {
+        "vuosi": 1994,
+        "pvm": "1994-06-15",
+        "kpl": 68,
+        "ika": "Istutettu sukukypsiä kaloja, ikää ei tunneta tarka",
+        "paino_g": 635.0
+      },
+      {
+        "vuosi": 1996,
+        "pvm": "1996-08-14",
+        "kpl": 58,
+        "ika": "Kaksikesäinen",
+        "paino_g": 260.0
+      }
+    ]
+  },
+  {
+    "jarvinumero": "35.782.1.005",
+    "nimi": "Avusjärvi",
+    "kunta": "HÄMEENLINNA",
+    "region": "Itä-Suomen elinvoimakeskus",
+    "lat": 61.26234,
+    "lng": 24.81399,
+    "istutukset": [
+      {
+        "vuosi": 1994,
+        "pvm": "1994-06-07",
+        "kpl": 160,
+        "ika": "Istutettu sukukypsiä kaloja, ikää ei tunneta tarka",
+        "paino_g": 630.0
+      }
+    ]
+  },
+  {
+    "jarvinumero": "35.231.1.001",
+    "nimi": "Vanajavesi (N60 79.40)x2",
+    "kunta": "VALKEAKOSKI",
+    "region": "Itä-Suomen elinvoimakeskus",
+    "lat": 61.15547,
+    "lng": 24.22915,
+    "istutukset": [
+      {
+        "vuosi": 1994,
+        "pvm": "1994-06-07",
+        "kpl": 265,
+        "ika": "Istutettu sukukypsiä kaloja, ikää ei tunneta tarka",
+        "paino_g": 630.0
+      },
+      {
+        "vuosi": 1999,
+        "pvm": "1999-06-08",
+        "kpl": 1389,
+        "ika": "Kaksivuotias",
+        "paino_g": 265.0
+      },
+      {
+        "vuosi": 2000,
+        "pvm": "2000-06-20",
+        "kpl": 659,
+        "ika": "Kaksivuotias",
+        "paino_g": 460.0
+      },
+      {
+        "vuosi": 2000,
+        "pvm": "2000-06-20",
+        "kpl": 659,
+        "ika": "Kaksivuotias",
+        "paino_g": 460.0
+      },
+      {
+        "vuosi": 2001,
+        "pvm": "2001-06-27",
+        "kpl": 829,
+        "ika": "Kaksivuotias",
+        "paino_g": 280.0
+      },
+      {
+        "vuosi": 2002,
+        "pvm": "2002-06-03",
+        "kpl": 482,
+        "ika": "Kaksivuotias",
+        "paino_g": 448.0
+      },
+      {
+        "vuosi": 2004,
+        "pvm": "2004-09-23",
+        "kpl": 661,
+        "ika": "Kolmekesäinen",
+        "paino_g": 280.0
+      },
+      {
+        "vuosi": 2005,
+        "pvm": "2005-09-22",
+        "kpl": 597,
+        "ika": "Kolmekesäinen",
+        "paino_g": 310.0
+      },
+      {
+        "vuosi": 2005,
+        "pvm": "2005-09-22",
+        "kpl": 877,
+        "ika": "Kolmekesäinen",
+        "paino_g": 300.0
+      },
+      {
+        "vuosi": 2006,
+        "pvm": "2006-09-13",
+        "kpl": 730,
+        "ika": "Kaksikesäinen",
+        "paino_g": 155.0
+      },
+      {
+        "vuosi": 2006,
+        "pvm": "2006-09-19",
+        "kpl": 1173,
+        "ika": "Kaksikesäinen",
+        "paino_g": 155.0
+      },
+      {
+        "vuosi": 2006,
+        "pvm": "2006-09-13",
+        "kpl": 717,
+        "ika": "Kaksikesäinen",
+        "paino_g": 155.0
+      },
+      {
+        "vuosi": 2007,
+        "pvm": "2007-08-30",
+        "kpl": 465,
+        "ika": "Kaksikesäinen",
+        "paino_g": 200.0
+      },
+      {
+        "vuosi": 2009,
+        "pvm": "2009-08-27",
+        "kpl": 200,
+        "ika": "Kolmekesäinen",
+        "paino_g": 250.0
+      },
+      {
+        "vuosi": 2009,
+        "pvm": "2009-10-07",
+        "kpl": 294,
+        "ika": "Kolmekesäinen",
+        "paino_g": 340.0
+      },
+      {
+        "vuosi": 2009,
+        "pvm": "2009-10-07",
+        "kpl": 588,
+        "ika": "Kolmekesäinen",
+        "paino_g": 340.0
+      }
+    ]
+  },
+  {
+    "jarvinumero": "35.272.1.001",
+    "nimi": "Nahkialanjärvi",
+    "kunta": "AKAA",
+    "region": "Itä-Suomen elinvoimakeskus",
+    "lat": 61.17017,
+    "lng": 23.87859,
+    "istutukset": [
+      {
+        "vuosi": 1994,
+        "pvm": "1994-06-07",
+        "kpl": 540,
+        "ika": "Istutettu sukukypsiä kaloja, ikää ei tunneta tarka",
+        "paino_g": 630.0
+      },
+      {
+        "vuosi": 1995,
+        "pvm": "1995-07-17",
+        "kpl": 596,
+        "ika": "Kaksivuotias",
+        "paino_g": 420.0
+      },
+      {
+        "vuosi": 1996,
+        "pvm": "1996-08-14",
+        "kpl": 923,
+        "ika": "Kaksikesäinen",
+        "paino_g": 260.0
+      },
+      {
+        "vuosi": 1997,
+        "pvm": "1997-09-02",
+        "kpl": 1176,
+        "ika": "Kolmekesäinen",
+        "paino_g": 310.0
+      },
+      {
+        "vuosi": 1998,
+        "pvm": "1998-06-30",
+        "kpl": 587,
+        "ika": "Kaksivuotias",
+        "paino_g": 520.0
+      },
+      {
+        "vuosi": 1999,
+        "pvm": "1999-06-08",
+        "kpl": 1143,
+        "ika": "Kaksivuotias",
+        "paino_g": 265.0
+      },
+      {
+        "vuosi": 2000,
+        "pvm": "2000-06-20",
+        "kpl": 659,
+        "ika": "Kaksivuotias",
+        "paino_g": 460.0
+      },
+      {
+        "vuosi": 2001,
+        "pvm": "2001-06-27",
+        "kpl": 1193,
+        "ika": "Kaksivuotias",
+        "paino_g": 280.0
+      },
+      {
+        "vuosi": 2002,
+        "pvm": "2002-06-03",
+        "kpl": 190,
+        "ika": "Kaksivuotias",
+        "paino_g": 448.0
+      },
+      {
+        "vuosi": 2004,
+        "pvm": "2004-09-23",
+        "kpl": 550,
+        "ika": "Kolmekesäinen",
+        "paino_g": 280.0
+      },
+      {
+        "vuosi": 2005,
+        "pvm": "2005-09-22",
+        "kpl": 100,
+        "ika": "Kolmekesäinen",
+        "paino_g": 310.0
+      },
+      {
+        "vuosi": 2006,
+        "pvm": "2006-09-19",
+        "kpl": 195,
+        "ika": "Kaksikesäinen",
+        "paino_g": 155.0
+      }
+    ]
+  },
+  {
+    "jarvinumero": "35.882.1.001",
+    "nimi": "Haapajärvi",
+    "kunta": "JANAKKALA",
+    "region": "Itä-Suomen elinvoimakeskus",
+    "lat": 60.86277,
+    "lng": 24.47596,
+    "istutukset": [
+      {
+        "vuosi": 1994,
+        "pvm": "1994-06-07",
+        "kpl": 77,
+        "ika": "Istutettu sukukypsiä kaloja, ikää ei tunneta tarka",
+        "paino_g": 630.0
+      },
+      {
+        "vuosi": 1994,
+        "pvm": "1994-06-07",
+        "kpl": 233,
+        "ika": "Istutettu sukukypsiä kaloja, ikää ei tunneta tarka",
+        "paino_g": 630.0
+      }
+    ]
+  },
+  {
+    "jarvinumero": "35.236.1.001",
+    "nimi": "Katumajärvi",
+    "kunta": "HÄMEENLINNA",
+    "region": "Itä-Suomen elinvoimakeskus",
+    "lat": 60.98649,
+    "lng": 24.53233,
+    "istutukset": [
+      {
+        "vuosi": 1994,
+        "pvm": "1994-06-07",
+        "kpl": 265,
+        "ika": "Istutettu sukukypsiä kaloja, ikää ei tunneta tarka",
+        "paino_g": 630.0
+      },
+      {
+        "vuosi": 1995,
+        "pvm": "1995-07-17",
+        "kpl": 598,
+        "ika": "Kaksivuotias",
+        "paino_g": 420.0
+      },
+      {
+        "vuosi": 1995,
+        "pvm": "1995-07-17",
+        "kpl": 320,
+        "ika": "Kaksivuotias",
+        "paino_g": 420.0
+      },
+      {
+        "vuosi": 1995,
+        "pvm": "1995-07-17",
+        "kpl": 59,
+        "ika": "Kaksivuotias",
+        "paino_g": 420.0
+      }
+    ]
+  },
+  {
+    "jarvinumero": "04.121.1.398",
+    "nimi": "Kulennoinen",
+    "kunta": "SAVONLINNA",
+    "region": "Itä-Suomen elinvoimakeskus",
+    "lat": 61.8488,
+    "lng": 29.2238,
+    "istutukset": [
+      {
+        "vuosi": 1994,
+        "pvm": "1994-06-06",
+        "kpl": 163,
+        "ika": "Kaksivuotias",
+        "paino_g": null
+      }
+    ]
+  },
+  {
+    "jarvinumero": "04.281.1.001",
+    "nimi": "Kallavesi (N60 81.70)",
+    "kunta": "KUOPIO",
+    "region": "Itä-Suomen elinvoimakeskus",
+    "lat": 62.95945,
+    "lng": 27.50568,
+    "istutukset": [
+      {
+        "vuosi": 1995,
+        "pvm": "1995-07-19",
+        "kpl": 300,
+        "ika": "Kaksivuotias",
+        "paino_g": 520.0
+      }
+    ]
+  },
+  {
+    "jarvinumero": "35.332.1.013",
+    "nimi": "Päijänteenlammi",
+    "kunta": "MÄNTTÄ-VILPPULA",
+    "region": "Itä-Suomen elinvoimakeskus",
+    "lat": 62.00606,
+    "lng": 24.48947,
+    "istutukset": [
+      {
+        "vuosi": 1995,
+        "pvm": "1995-08-15",
+        "kpl": 77,
+        "ika": "Kolmekesäinen",
+        "paino_g": 400.0
+      }
+    ]
+  },
+  {
+    "jarvinumero": "35.237.1.001",
+    "nimi": "Lehijärvi",
+    "kunta": "HATTULA",
+    "region": "Itä-Suomen elinvoimakeskus",
+    "lat": 61.04285,
+    "lng": 24.31314,
+    "istutukset": [
+      {
+        "vuosi": 1995,
+        "pvm": "1995-07-17",
+        "kpl": 410,
+        "ika": "Kaksivuotias",
+        "paino_g": 420.0
+      },
+      {
+        "vuosi": 1996,
+        "pvm": "1996-08-14",
+        "kpl": 173,
+        "ika": "Kaksikesäinen",
+        "paino_g": 260.0
+      },
+      {
+        "vuosi": 1996,
+        "pvm": "1996-08-14",
+        "kpl": 366,
+        "ika": "Kaksikesäinen",
+        "paino_g": 260.0
+      }
+    ]
+  },
+  {
+    "jarvinumero": "35.840.1.004",
+    "nimi": "Sääjärvi",
+    "kunta": "JANAKKALA",
+    "region": "Itä-Suomen elinvoimakeskus",
+    "lat": 60.98375,
+    "lng": 24.69159,
+    "istutukset": [
+      {
+        "vuosi": 1995,
+        "pvm": "1995-07-17",
+        "kpl": 417,
+        "ika": "Kaksivuotias",
+        "paino_g": 420.0
+      },
+      {
+        "vuosi": 1997,
+        "pvm": "1997-09-02",
+        "kpl": 540,
+        "ika": "Kolmekesäinen",
+        "paino_g": 310.0
+      },
+      {
+        "vuosi": 2005,
+        "pvm": "2005-09-22",
+        "kpl": 645,
+        "ika": "Kolmekesäinen",
+        "paino_g": 300.0
+      },
+      {
+        "vuosi": 2006,
+        "pvm": "2006-09-13",
+        "kpl": 1317,
+        "ika": "Kaksikesäinen",
+        "paino_g": 155.0
+      },
+      {
+        "vuosi": 2007,
+        "pvm": "2007-08-30",
+        "kpl": 660,
+        "ika": "Kaksikesäinen",
+        "paino_g": 200.0
+      },
+      {
+        "vuosi": 2009,
+        "pvm": "2009-07-24",
+        "kpl": 356,
+        "ika": "Kaksivuotias",
+        "paino_g": 250.0
+      },
+      {
+        "vuosi": 2010,
+        "pvm": "2010-08-10",
+        "kpl": 180,
+        "ika": "Kaksivuotias",
+        "paino_g": 400.0
+      },
+      {
+        "vuosi": 2011,
+        "pvm": "2011-07-12",
+        "kpl": 145,
+        "ika": "Kaksivuotias",
+        "paino_g": 420.0
+      },
+      {
+        "vuosi": 2012,
+        "pvm": "2012-08-31",
+        "kpl": 166,
+        "ika": "Kaksivuotias",
+        "paino_g": 330.0
+      },
+      {
+        "vuosi": 2013,
+        "pvm": "2013-07-10",
+        "kpl": 120,
+        "ika": "Kaksivuotias",
+        "paino_g": 330.0
+      },
+      {
+        "vuosi": 2016,
+        "pvm": "2016-07-27",
+        "kpl": 105,
+        "ika": "Kaksivuotias",
+        "paino_g": 400.0
+      }
+    ]
+  },
+  {
+    "jarvinumero": "04.726.1.020",
+    "nimi": "Musta",
+    "kunta": "OUTOKUMPU",
+    "region": "Itä-Suomen elinvoimakeskus",
+    "lat": 62.76066,
+    "lng": 28.94836,
+    "istutukset": [
+      {
+        "vuosi": 1995,
+        "pvm": "1995-08-04",
+        "kpl": 15,
+        "ika": "Kaksikesäinen",
+        "paino_g": 500.0
+      },
+      {
+        "vuosi": 2000,
+        "pvm": "2000-08-17",
+        "kpl": 25,
+        "ika": "Kolmekesäinen",
+        "paino_g": 250.0
+      },
+      {
+        "vuosi": 2001,
+        "pvm": "2001-10-03",
+        "kpl": 15,
+        "ika": "Kolmekesäinen",
+        "paino_g": 600.0
+      },
+      {
+        "vuosi": 2003,
+        "pvm": "2003-06-25",
+        "kpl": 12,
+        "ika": "Kolmevuotias",
+        "paino_g": 1220.0
+      }
+    ]
+  },
+  {
+    "jarvinumero": "04.353.1.019",
+    "nimi": "Sysmäjärvi",
+    "kunta": "OUTOKUMPU",
+    "region": "Itä-Suomen elinvoimakeskus",
+    "lat": 62.6869,
+    "lng": 29.05576,
+    "istutukset": [
+      {
+        "vuosi": 1995,
+        "pvm": "1995-08-04",
+        "kpl": 345,
+        "ika": "Kaksikesäinen",
+        "paino_g": 500.0
+      },
+      {
+        "vuosi": 1996,
+        "pvm": "1996-10-09",
+        "kpl": 1073,
+        "ika": "Kaksikesäinen",
+        "paino_g": 260.0
+      },
+      {
+        "vuosi": 1998,
+        "pvm": "1998-10-12",
+        "kpl": 219,
+        "ika": "Kaksikesäinen",
+        "paino_g": 250.0
+      },
+      {
+        "vuosi": 2000,
+        "pvm": "2000-08-17",
+        "kpl": 100,
+        "ika": "Kolmekesäinen",
+        "paino_g": 250.0
+      },
+      {
+        "vuosi": 2000,
+        "pvm": "2000-08-17",
+        "kpl": 584,
+        "ika": "Kolmekesäinen",
+        "paino_g": 250.0
+      },
+      {
+        "vuosi": 2001,
+        "pvm": "2001-10-03",
+        "kpl": 303,
+        "ika": "Kolmekesäinen",
+        "paino_g": 600.0
+      },
+      {
+        "vuosi": 2003,
+        "pvm": "2003-06-25",
+        "kpl": 170,
+        "ika": "Kolmevuotias",
+        "paino_g": 1220.0
+      }
+    ]
+  },
+  {
+    "jarvinumero": "35.591.1.004",
+    "nimi": "Sarkkilanjärvi",
+    "kunta": "HÄMEENKYRÖ",
+    "region": "Itä-Suomen elinvoimakeskus",
+    "lat": 61.59797,
+    "lng": 23.35018,
+    "istutukset": [
+      {
+        "vuosi": 1995,
+        "pvm": "1995-08-15",
+        "kpl": 225,
+        "ika": "Kolmekesäinen",
+        "paino_g": 400.0
+      },
+      {
+        "vuosi": 1996,
+        "pvm": "1996-06-26",
+        "kpl": 178,
+        "ika": "Kaksivuotias",
+        "paino_g": 370.0
+      }
+    ]
+  },
+  {
+    "jarvinumero": "35.289.1.010",
+    "nimi": "Ameenjärvi",
+    "kunta": "VESILAHTI",
+    "region": "Itä-Suomen elinvoimakeskus",
+    "lat": 61.21671,
+    "lng": 23.40403,
+    "istutukset": [
+      {
+        "vuosi": 1995,
+        "pvm": "1995-08-15",
+        "kpl": 222,
+        "ika": "Kolmekesäinen",
+        "paino_g": 450.0
+      }
+    ]
+  },
+  {
+    "jarvinumero": "35.290.1.007",
+    "nimi": "Pikku-Inha",
+    "kunta": "VESILAHTI",
+    "region": "Itä-Suomen elinvoimakeskus",
+    "lat": 61.25104,
+    "lng": 23.41942,
+    "istutukset": [
+      {
+        "vuosi": 1995,
+        "pvm": "1995-08-15",
+        "kpl": 150,
+        "ika": "Kolmekesäinen",
+        "paino_g": 450.0
+      },
+      {
+        "vuosi": 2006,
+        "pvm": "2006-09-12",
+        "kpl": 100,
+        "ika": "Kaksikesäinen",
+        "paino_g": 165.0
+      },
+      {
+        "vuosi": 2007,
+        "pvm": "2007-09-03",
+        "kpl": 175,
+        "ika": "Kaksivuotias",
+        "paino_g": 200.0
+      }
+    ]
+  },
+  {
+    "jarvinumero": "35.592.1.001",
+    "nimi": "Lavajärvi",
+    "kunta": "HÄMEENKYRÖ",
+    "region": "Itä-Suomen elinvoimakeskus",
+    "lat": 61.65961,
+    "lng": 23.43326,
+    "istutukset": [
+      {
+        "vuosi": 1995,
+        "pvm": "1995-08-15",
+        "kpl": 53,
+        "ika": "Kolmekesäinen",
+        "paino_g": 400.0
+      }
+    ]
+  },
+  {
+    "jarvinumero": "35.334.1.001",
+    "nimi": "Ruojärvi",
+    "kunta": "RUOVESI",
+    "region": "Itä-Suomen elinvoimakeskus",
+    "lat": 62.01611,
+    "lng": 24.03869,
+    "istutukset": [
+      {
+        "vuosi": 1995,
+        "pvm": "1995-08-15",
+        "kpl": 30,
+        "ika": "Kolmekesäinen",
+        "paino_g": 400.0
+      },
+      {
+        "vuosi": 2007,
+        "pvm": "2007-09-03",
+        "kpl": 100,
+        "ika": "Kolmekesäinen",
+        "paino_g": 200.0
+      }
+    ]
+  },
+  {
+    "jarvinumero": "42.074.1.002",
+    "nimi": "Seinäjärvi",
+    "kunta": "VIRRAT",
+    "region": "Itä-Suomen elinvoimakeskus",
+    "lat": 62.37752,
+    "lng": 23.38718,
+    "istutukset": [
+      {
+        "vuosi": 1995,
+        "pvm": "1995-08-15",
+        "kpl": 288,
+        "ika": "Kolmekesäinen",
+        "paino_g": 400.0
+      }
+    ]
+  },
+  {
+    "jarvinumero": "35.561.1.005",
+    "nimi": "Niemenlampi",
+    "kunta": "PARKANO",
+    "region": "Itä-Suomen elinvoimakeskus",
+    "lat": 62.1111,
+    "lng": 23.0395,
+    "istutukset": [
+      {
+        "vuosi": 1995,
+        "pvm": "1995-08-15",
+        "kpl": 112,
+        "ika": "Kolmekesäinen",
+        "paino_g": 400.0
+      }
+    ]
+  },
+  {
+    "jarvinumero": "35.594.1.002",
+    "nimi": "Raattajärvi",
+    "kunta": "HÄMEENKYRÖ",
+    "region": "Itä-Suomen elinvoimakeskus",
+    "lat": 61.59733,
+    "lng": 23.33121,
+    "istutukset": [
+      {
+        "vuosi": 1995,
+        "pvm": "1995-08-15",
+        "kpl": 51,
+        "ika": "Kolmekesäinen",
+        "paino_g": 400.0
+      }
+    ]
+  },
+  {
+    "jarvinumero": "35.517.1.007",
+    "nimi": "Vähä-Kaita",
+    "kunta": "HÄMEENKYRÖ",
+    "region": "Itä-Suomen elinvoimakeskus",
+    "lat": 61.57348,
+    "lng": 23.39991,
+    "istutukset": [
+      {
+        "vuosi": 1995,
+        "pvm": "1995-08-15",
+        "kpl": 51,
+        "ika": "Kolmekesäinen",
+        "paino_g": 400.0
+      }
+    ]
+  },
+  {
+    "jarvinumero": "35.242.1.015",
+    "nimi": "Särkijärvi",
+    "kunta": "TAMPERE",
+    "region": "Itä-Suomen elinvoimakeskus",
+    "lat": 61.44778,
+    "lng": 23.7965,
+    "istutukset": [
+      {
+        "vuosi": 1995,
+        "pvm": "1995-08-15",
+        "kpl": 91,
+        "ika": "Kolmekesäinen",
+        "paino_g": 450.0
+      },
+      {
+        "vuosi": 1996,
+        "pvm": "1996-06-26",
+        "kpl": 105,
+        "ika": "Kaksivuotias",
+        "paino_g": 370.0
+      }
+    ]
+  },
+  {
+    "jarvinumero": "35.411.1.004",
+    "nimi": "Pajujärvi",
+    "kunta": "RUOVESI",
+    "region": "Itä-Suomen elinvoimakeskus",
+    "lat": 62.0911,
+    "lng": 24.03425,
+    "istutukset": [
+      {
+        "vuosi": 1996,
+        "pvm": "1996-11-05",
+        "kpl": 275,
+        "ika": "Kaksikesäinen",
+        "paino_g": 150.0
+      }
+    ]
+  },
+  {
+    "jarvinumero": "35.284.1.009",
+    "nimi": "Kaakkolammi",
+    "kunta": "HÄMEENLINNA",
+    "region": "Itä-Suomen elinvoimakeskus",
+    "lat": 61.07689,
+    "lng": 23.89285,
+    "istutukset": [
+      {
+        "vuosi": 1996,
+        "pvm": "1996-11-06",
+        "kpl": 115,
+        "ika": "Kaksikesäinen",
+        "paino_g": 260.0
+      }
+    ]
+  },
+  {
+    "jarvinumero": "14.964.1.001",
+    "nimi": "Paihmaa",
+    "kunta": "KANGASNIEMI",
+    "region": "Itä-Suomen elinvoimakeskus",
+    "lat": 62.16687,
+    "lng": 26.81903,
+    "istutukset": [
+      {
+        "vuosi": 1996,
+        "pvm": "1996-10-23",
+        "kpl": 545,
+        "ika": "Kaksikesäinen",
+        "paino_g": 150.0
+      }
+    ]
+  },
+  {
+    "jarvinumero": "42.076.1.002",
+    "nimi": "Kurjenjärvi",
+    "kunta": "VIRRAT",
+    "region": "Itä-Suomen elinvoimakeskus",
+    "lat": 62.30818,
+    "lng": 23.30825,
+    "istutukset": [
+      {
+        "vuosi": 1996,
+        "pvm": "1996-06-26",
+        "kpl": 286,
+        "ika": "Kaksivuotias",
+        "paino_g": 370.0
+      }
+    ]
+  },
+  {
+    "jarvinumero": "35.311.1.061",
+    "nimi": "Vähäjärvi",
+    "kunta": "YLÖJÄRVI",
+    "region": "Itä-Suomen elinvoimakeskus",
+    "lat": 61.63986,
+    "lng": 23.5825,
+    "istutukset": [
+      {
+        "vuosi": 1996,
+        "pvm": "1996-06-26",
+        "kpl": 20,
+        "ika": "Kaksivuotias",
+        "paino_g": 370.0
+      }
+    ]
+  },
+  {
+    "jarvinumero": "35.324.1.003",
+    "nimi": "Kuivajärvi",
+    "kunta": "RUOVESI",
+    "region": "Itä-Suomen elinvoimakeskus",
+    "lat": 61.99108,
+    "lng": 23.97642,
+    "istutukset": [
+      {
+        "vuosi": 1996,
+        "pvm": "1996-06-26",
+        "kpl": 10,
+        "ika": "Kaksivuotias",
+        "paino_g": 370.0
+      }
+    ]
+  },
+  {
+    "jarvinumero": "35.511.1.001",
+    "nimi": "Mahnalanselkä Kirkkojärvi",
+    "kunta": "HÄMEENKYRÖ",
+    "region": "Itä-Suomen elinvoimakeskus",
+    "lat": 61.56686,
+    "lng": 23.31717,
+    "istutukset": [
+      {
+        "vuosi": 1996,
+        "pvm": "1996-06-26",
+        "kpl": 108,
+        "ika": "Kaksivuotias",
+        "paino_g": 370.0
+      },
+      {
+        "vuosi": 1997,
+        "pvm": "1997-09-04",
+        "kpl": 490,
+        "ika": "Kolmekesäinen",
+        "paino_g": 310.0
+      },
+      {
+        "vuosi": 2009,
+        "pvm": "2009-08-27",
+        "kpl": 248,
+        "ika": "Kolmekesäinen",
+        "paino_g": 250.0
+      },
+      {
+        "vuosi": 2012,
+        "pvm": "2012-06-20",
+        "kpl": 134,
+        "ika": "Kaksivuotias",
+        "paino_g": 250.0
+      },
+      {
+        "vuosi": 2012,
+        "pvm": "2012-06-20",
+        "kpl": 48,
+        "ika": "Kaksivuotias",
+        "paino_g": 300.0
+      },
+      {
+        "vuosi": 2012,
+        "pvm": "2012-06-20",
+        "kpl": 42,
+        "ika": "Kaksivuotias",
+        "paino_g": 300.0
+      },
+      {
+        "vuosi": 2012,
+        "pvm": "2012-06-20",
+        "kpl": 48,
+        "ika": "Kaksivuotias",
+        "paino_g": 300.0
+      },
+      {
+        "vuosi": 2012,
+        "pvm": "2012-06-20",
+        "kpl": 42,
+        "ika": "Kaksivuotias",
+        "paino_g": 300.0
+      },
+      {
+        "vuosi": 2020,
+        "pvm": "2020-06-09",
+        "kpl": 32,
+        "ika": "Kolmevuotias",
+        "paino_g": 950.0
+      }
+    ]
+  },
+  {
+    "jarvinumero": "04.284.1.013",
+    "nimi": "Iso-Valkeinen",
+    "kunta": "KUOPIO",
+    "region": "Itä-Suomen elinvoimakeskus",
+    "lat": 62.93862,
+    "lng": 27.28531,
+    "istutukset": [
+      {
+        "vuosi": 1997,
+        "pvm": "1997-09-19",
+        "kpl": 72,
+        "ika": "Kaksikesäinen",
+        "paino_g": 510.0
+      }
+    ]
+  },
+  {
+    "jarvinumero": "35.163.1.006",
+    "nimi": "Mustajärvi",
+    "kunta": "SASTAMALA",
+    "region": "Itä-Suomen elinvoimakeskus",
+    "lat": 61.58719,
+    "lng": 23.07309,
+    "istutukset": [
+      {
+        "vuosi": 1997,
+        "pvm": "1997-08-29",
+        "kpl": 65,
+        "ika": "Kaksivuotias",
+        "paino_g": 310.0
+      }
+    ]
+  },
+  {
+    "jarvinumero": "35.639.1.005",
+    "nimi": "Peurunlampi",
+    "kunta": "MULTIA",
+    "region": "Itä-Suomen elinvoimakeskus",
+    "lat": 62.51157,
+    "lng": 24.81371,
+    "istutukset": [
+      {
+        "vuosi": 1997,
+        "pvm": "1997-06-06",
+        "kpl": 300,
+        "ika": "Yksivuotias",
+        "paino_g": 9.1
+      }
+    ]
+  },
+  {
+    "jarvinumero": "35.132.1.009",
+    "nimi": "Teernijärvi",
+    "kunta": "NOKIA",
+    "region": "Itä-Suomen elinvoimakeskus",
+    "lat": 61.45072,
+    "lng": 23.44726,
+    "istutukset": [
+      {
+        "vuosi": 1997,
+        "pvm": "1997-09-28",
+        "kpl": 30,
+        "ika": "Kaksivuotias",
+        "paino_g": 310.0
+      }
+    ]
+  },
+  {
+    "jarvinumero": "14.361.1.001",
+    "nimi": "Liesvesi",
+    "kunta": "KONNEVESI",
+    "region": "Itä-Suomen elinvoimakeskus",
+    "lat": 62.57821,
+    "lng": 26.26822,
+    "istutukset": [
+      {
+        "vuosi": 1997,
+        "pvm": "1997-06-05",
+        "kpl": 100,
+        "ika": "Yksivuotias",
+        "paino_g": 5.0
+      },
+      {
+        "vuosi": 1997,
+        "pvm": "1997-06-05",
+        "kpl": 100,
+        "ika": "Yksivuotias",
+        "paino_g": 9.1
+      }
+    ]
+  },
+  {
+    "jarvinumero": "14.711.1.002",
+    "nimi": "Kopru",
+    "kunta": "KONNEVESI",
+    "region": "Itä-Suomen elinvoimakeskus",
+    "lat": 62.63061,
+    "lng": 26.32631,
+    "istutukset": [
+      {
+        "vuosi": 1997,
+        "pvm": "1997-06-05",
+        "kpl": 100,
+        "ika": "Yksivuotias",
+        "paino_g": 9.1
+      }
+    ]
+  },
+  {
+    "jarvinumero": "14.765.1.001",
+    "nimi": "Asinjärvet",
+    "kunta": "VESANTO",
+    "region": "Itä-Suomen elinvoimakeskus",
+    "lat": 62.91475,
+    "lng": 26.40568,
+    "istutukset": [
+      {
+        "vuosi": 1997,
+        "pvm": "1997-06-03",
+        "kpl": 150,
+        "ika": "Yksivuotias",
+        "paino_g": 8.4
+      }
+    ]
+  },
+  {
+    "jarvinumero": "14.765.1.008",
+    "nimi": "Limalampi",
+    "kunta": "VESANTO",
+    "region": "Itä-Suomen elinvoimakeskus",
+    "lat": 62.98982,
+    "lng": 26.29843,
+    "istutukset": [
+      {
+        "vuosi": 1997,
+        "pvm": "1997-06-03",
+        "kpl": 150,
+        "ika": "Yksivuotias",
+        "paino_g": 8.4
+      }
+    ]
+  },
+  {
+    "jarvinumero": "14.763.1.001",
+    "nimi": "Vesantojärvi",
+    "kunta": "VESANTO",
+    "region": "Itä-Suomen elinvoimakeskus",
+    "lat": 62.89834,
+    "lng": 26.48714,
+    "istutukset": [
+      {
+        "vuosi": 1997,
+        "pvm": "1997-06-03",
+        "kpl": 150,
+        "ika": "Yksivuotias",
+        "paino_g": 8.4
+      }
+    ]
+  },
+  {
+    "jarvinumero": "35.161.1.001",
+    "nimi": "Tupurlajärvi",
+    "kunta": "SASTAMALA",
+    "region": "Itä-Suomen elinvoimakeskus",
+    "lat": 61.49085,
+    "lng": 23.1382,
+    "istutukset": [
+      {
+        "vuosi": 1997,
+        "pvm": "1997-08-29",
+        "kpl": 97,
+        "ika": "Kaksivuotias",
+        "paino_g": 310.0
+      }
+    ]
+  },
+  {
+    "jarvinumero": "35.284.1.005",
+    "nimi": "Ahlajärvi",
+    "kunta": "HÄMEENLINNA",
+    "region": "Itä-Suomen elinvoimakeskus",
+    "lat": 61.0655,
+    "lng": 23.85067,
+    "istutukset": [
+      {
+        "vuosi": 1997,
+        "pvm": "1997-09-02",
+        "kpl": 71,
+        "ika": "Kolmekesäinen",
+        "paino_g": 310.0
+      },
+      {
+        "vuosi": 2000,
+        "pvm": "2000-06-29",
+        "kpl": 55,
+        "ika": "Kolmevuotias",
+        "paino_g": 450.0
+      },
+      {
+        "vuosi": 2009,
+        "pvm": "2009-06-08",
+        "kpl": 90,
+        "ika": "Kaksivuotias",
+        "paino_g": 300.0
+      },
+      {
+        "vuosi": 2012,
+        "pvm": "2012-08-31",
+        "kpl": 60,
+        "ika": "Kaksivuotias",
+        "paino_g": 330.0
+      }
+    ]
+  },
+  {
+    "jarvinumero": "35.284.1.004",
+    "nimi": "Lintumaanjärvi - Kallijärvi",
+    "kunta": "HÄMEENLINNA",
+    "region": "Itä-Suomen elinvoimakeskus",
+    "lat": 61.04145,
+    "lng": 23.861,
+    "istutukset": [
+      {
+        "vuosi": 1997,
+        "pvm": "1997-09-02",
+        "kpl": 50,
+        "ika": "Kolmekesäinen",
+        "paino_g": 310.0
+      },
+      {
+        "vuosi": 2000,
+        "pvm": "2000-06-29",
+        "kpl": 55,
+        "ika": "Kolmevuotias",
+        "paino_g": 450.0
+      }
+    ]
+  },
+  {
+    "jarvinumero": "35.287.1.001",
+    "nimi": "Nuutajärvi",
+    "kunta": "URJALA",
+    "region": "Itä-Suomen elinvoimakeskus",
+    "lat": 61.03423,
+    "lng": 23.45692,
+    "istutukset": [
+      {
+        "vuosi": 1997,
+        "pvm": "1997-09-02",
+        "kpl": 193,
+        "ika": "Kolmekesäinen",
+        "paino_g": 310.0
+      }
+    ]
+  },
+  {
+    "jarvinumero": "35.155.1.001",
+    "nimi": "Mouhijärvi",
+    "kunta": "SASTAMALA",
+    "region": "Itä-Suomen elinvoimakeskus",
+    "lat": 61.50499,
+    "lng": 22.76158,
+    "istutukset": [
+      {
+        "vuosi": 1997,
+        "pvm": "1997-10-03",
+        "kpl": 294,
+        "ika": "Kaksivuotias",
+        "paino_g": 310.0
+      }
+    ]
+  },
+  {
+    "jarvinumero": "35.153.1.001",
+    "nimi": "Kiikoisjärvi",
+    "kunta": "SASTAMALA",
+    "region": "Itä-Suomen elinvoimakeskus",
+    "lat": 61.43926,
+    "lng": 22.60336,
+    "istutukset": [
+      {
+        "vuosi": 1997,
+        "pvm": "1997-10-03",
+        "kpl": 149,
+        "ika": "Kaksivuotias",
+        "paino_g": 310.0
+      }
+    ]
+  },
+  {
+    "jarvinumero": "35.728.1.009",
+    "nimi": "Taivasjärvi",
+    "kunta": "KANGASALA",
+    "region": "Itä-Suomen elinvoimakeskus",
+    "lat": 61.44615,
+    "lng": 24.50707,
+    "istutukset": [
+      {
+        "vuosi": 1997,
+        "pvm": "1997-08-29",
+        "kpl": 39,
+        "ika": "Kaksivuotias",
+        "paino_g": 310.0
+      }
+    ]
+  },
+  {
+    "jarvinumero": "14.725.1.001",
+    "nimi": "Keihäsjärvi",
+    "kunta": "KUOPIO",
+    "region": "Itä-Suomen elinvoimakeskus",
+    "lat": 62.85688,
+    "lng": 27.19759,
+    "istutukset": [
+      {
+        "vuosi": 1998,
+        "pvm": "1998-10-21",
+        "kpl": 100,
+        "ika": "Kolmekesäinen",
+        "paino_g": 100.0
+      },
+      {
+        "vuosi": 1999,
+        "pvm": "1999-11-14",
+        "kpl": 64,
+        "ika": "Kolmekesäinen",
+        "paino_g": null
+      }
+    ]
+  },
+  {
+    "jarvinumero": "35.215.1.002",
+    "nimi": "Ahvenisto",
+    "kunta": "TAMPERE",
+    "region": "Itä-Suomen elinvoimakeskus",
+    "lat": 61.44811,
+    "lng": 23.84555,
+    "istutukset": [
+      {
+        "vuosi": 1998,
+        "pvm": "1998-06-23",
+        "kpl": 43,
+        "ika": "Kaksivuotias",
+        "paino_g": 350.0
+      }
+    ]
+  },
+  {
+    "jarvinumero": "14.221.1.001",
+    "nimi": "Päijänne (kesk. N60+78.10)",
+    "kunta": "KUHMOINEN",
+    "region": "Itä-Suomen elinvoimakeskus",
+    "lat": 61.61394,
+    "lng": 25.48204,
+    "istutukset": [
+      {
+        "vuosi": 1998,
+        "pvm": "1998-06-15",
+        "kpl": 164,
+        "ika": "Kaksivuotias",
+        "paino_g": 300.0
+      },
+      {
+        "vuosi": 2000,
+        "pvm": "2000-05-16",
+        "kpl": 320,
+        "ika": "Neljävuotias",
+        "paino_g": 172.0
+      }
+    ]
+  },
+  {
+    "jarvinumero": "35.714.1.001",
+    "nimi": "Pälkänevesi (N60 84.20)x1",
+    "kunta": "PÄLKÄNE",
+    "region": "Itä-Suomen elinvoimakeskus",
+    "lat": 61.37128,
+    "lng": 24.33482,
+    "istutukset": [
+      {
+        "vuosi": 1998,
+        "pvm": "1998-05-06",
+        "kpl": 800,
+        "ika": "Yksivuotias",
+        "paino_g": 9.8
+      }
+    ]
+  },
+  {
+    "jarvinumero": "04.214.1.001",
+    "nimi": "Immolanjärvi",
+    "kunta": "VARKAUS",
+    "region": "Itä-Suomen elinvoimakeskus",
+    "lat": 62.27296,
+    "lng": 27.99094,
+    "istutukset": [
+      {
+        "vuosi": 1998,
+        "pvm": "1998-09-30",
+        "kpl": 30,
+        "ika": "Kaksikesäinen",
+        "paino_g": 350.0
+      }
+    ]
+  },
+  {
+    "jarvinumero": "35.452.1.001",
+    "nimi": "Vermasjärvi",
+    "kunta": "VIRRAT",
+    "region": "Itä-Suomen elinvoimakeskus",
+    "lat": 62.26213,
+    "lng": 23.63326,
+    "istutukset": [
+      {
+        "vuosi": 1998,
+        "pvm": "1998-09-17",
+        "kpl": 913,
+        "ika": "Kolmekesäinen",
+        "paino_g": 240.0
+      },
+      {
+        "vuosi": 2014,
+        "pvm": "2014-09-02",
+        "kpl": 364,
+        "ika": "Neljäkesäinen",
+        "paino_g": 500.0
+      }
+    ]
+  },
+  {
+    "jarvinumero": "04.142.1.005",
+    "nimi": "Harviolampi",
+    "kunta": "MIKKELI",
+    "region": "Itä-Suomen elinvoimakeskus",
+    "lat": 61.29268,
+    "lng": 27.32638,
+    "istutukset": [
+      {
+        "vuosi": 1998,
+        "pvm": "1998-09-15",
+        "kpl": 50,
+        "ika": "Kaksikesäinen",
+        "paino_g": 140.0
+      }
+    ]
+  },
+  {
+    "jarvinumero": "04.142.1.006",
+    "nimi": "Suolampi",
+    "kunta": "MIKKELI",
+    "region": "Itä-Suomen elinvoimakeskus",
+    "lat": 61.2953,
+    "lng": 27.31451,
+    "istutukset": [
+      {
+        "vuosi": 1998,
+        "pvm": "1998-09-15",
+        "kpl": 50,
+        "ika": "Kaksikesäinen",
+        "paino_g": 140.0
+      }
+    ]
+  },
+  {
+    "jarvinumero": "14.687.1.002",
+    "nimi": "Iso Suojärvi",
+    "kunta": "SAARIJÄRVI",
+    "region": "Itä-Suomen elinvoimakeskus",
+    "lat": 62.81394,
+    "lng": 25.53043,
+    "istutukset": [
+      {
+        "vuosi": 1999,
+        "pvm": "1999-05-15",
+        "kpl": 243,
+        "ika": "Istutettu sukukypsiä kaloja, ikää ei tunneta tarka",
+        "paino_g": 280.0
+      }
+    ]
+  },
+  {
+    "jarvinumero": "14.178.1.016",
+    "nimi": "Pieni Kivilampi",
+    "kunta": "MÄNTYHARJU",
+    "region": "Itä-Suomen elinvoimakeskus",
+    "lat": 61.3205,
+    "lng": 26.48806,
+    "istutukset": [
+      {
+        "vuosi": 1999,
+        "pvm": "1999-06-17",
+        "kpl": 20,
+        "ika": "Kaksivuotias",
+        "paino_g": 300.0
+      }
+    ]
+  },
+  {
+    "jarvinumero": "14.177.1.002",
+    "nimi": "Vehkajärvi",
+    "kunta": "MÄNTYHARJU",
+    "region": "Itä-Suomen elinvoimakeskus",
+    "lat": 61.28384,
+    "lng": 26.56014,
+    "istutukset": [
+      {
+        "vuosi": 1999,
+        "pvm": "1999-06-17",
+        "kpl": 20,
+        "ika": "Kaksivuotias",
+        "paino_g": 300.0
+      }
+    ]
+  },
+  {
+    "jarvinumero": "14.177.1.001",
+    "nimi": "Vähä-Vehkajärvi",
+    "kunta": "MÄNTYHARJU",
+    "region": "Itä-Suomen elinvoimakeskus",
+    "lat": 61.30846,
+    "lng": 26.53598,
+    "istutukset": [
+      {
+        "vuosi": 1999,
+        "pvm": "1999-06-17",
+        "kpl": 20,
+        "ika": "Kaksivuotias",
+        "paino_g": 300.0
+      }
+    ]
+  },
+  {
+    "jarvinumero": "27.043.1.017",
+    "nimi": "Valajärvi",
+    "kunta": "TAMMELA",
+    "region": "Itä-Suomen elinvoimakeskus",
+    "lat": 60.68488,
+    "lng": 23.74175,
+    "istutukset": [
+      {
+        "vuosi": 1999,
+        "pvm": "1999-06-11",
+        "kpl": 973,
+        "ika": "Kaksivuotias",
+        "paino_g": 300.0
+      }
+    ]
+  },
+  {
+    "jarvinumero": "35.722.1.003",
+    "nimi": "Vähäjärvi",
+    "kunta": "ORIVESI",
+    "region": "Itä-Suomen elinvoimakeskus",
+    "lat": 61.61491,
+    "lng": 24.60645,
+    "istutukset": [
+      {
+        "vuosi": 1999,
+        "pvm": "1999-08-31",
+        "kpl": 43,
+        "ika": "Kolmekesäinen",
+        "paino_g": 400.0
+      }
+    ]
+  },
+  {
+    "jarvinumero": "14.618.1.003",
+    "nimi": "Heinäjärvi",
+    "kunta": "SAARIJÄRVI",
+    "region": "Itä-Suomen elinvoimakeskus",
+    "lat": 62.65382,
+    "lng": 25.15322,
+    "istutukset": [
+      {
+        "vuosi": 2000,
+        "pvm": "2000-10-25",
+        "kpl": 30,
+        "ika": "Kaksikesäinen",
+        "paino_g": 440.0
+      }
+    ]
+  },
+  {
+    "jarvinumero": "04.181.1.005",
+    "nimi": "Enanlampi",
+    "kunta": "SAVONLINNA",
+    "region": "Itä-Suomen elinvoimakeskus",
+    "lat": 61.78783,
+    "lng": 29.42653,
+    "istutukset": [
+      {
+        "vuosi": 2000,
+        "pvm": "2000-05-03",
+        "kpl": 250,
+        "ika": "Kaksivuotias",
+        "paino_g": 11.9
+      }
+    ]
+  },
+  {
+    "jarvinumero": "04.726.1.019",
+    "nimi": "Valkeinen",
+    "kunta": "OUTOKUMPU",
+    "region": "Itä-Suomen elinvoimakeskus",
+    "lat": 62.7624,
+    "lng": 28.94037,
+    "istutukset": [
+      {
+        "vuosi": 2000,
+        "pvm": "2000-08-17",
+        "kpl": 25,
+        "ika": "Kolmekesäinen",
+        "paino_g": 250.0
+      },
+      {
+        "vuosi": 2001,
+        "pvm": "2001-10-03",
+        "kpl": 15,
+        "ika": "Kolmekesäinen",
+        "paino_g": 600.0
+      }
+    ]
+  },
+  {
+    "jarvinumero": "04.151.1.026",
+    "nimi": "Laajalampi",
+    "kunta": "MIKKELI",
+    "region": "Itä-Suomen elinvoimakeskus",
+    "lat": 61.66368,
+    "lng": 27.26629,
+    "istutukset": [
+      {
+        "vuosi": 2001,
+        "pvm": "2001-09-11",
+        "kpl": 4,
+        "ika": "Neljäkesäinen",
+        "paino_g": 3000.0
+      }
+    ]
+  },
+  {
+    "jarvinumero": "04.153.1.022",
+    "nimi": "Pankalampi",
+    "kunta": "MIKKELI",
+    "region": "Itä-Suomen elinvoimakeskus",
+    "lat": 61.68941,
+    "lng": 27.25138,
+    "istutukset": [
+      {
+        "vuosi": 2001,
+        "pvm": "2001-09-11",
+        "kpl": 4,
+        "ika": "Neljäkesäinen",
+        "paino_g": 3000.0
+      }
+    ]
+  },
+  {
+    "jarvinumero": "04.152.1.001",
+    "nimi": "Urpolanlampi",
+    "kunta": "MIKKELI",
+    "region": "Itä-Suomen elinvoimakeskus",
+    "lat": 61.675,
+    "lng": 27.26138,
+    "istutukset": [
+      {
+        "vuosi": 2001,
+        "pvm": "2001-09-11",
+        "kpl": 4,
+        "ika": "Neljäkesäinen",
+        "paino_g": 3000.0
+      }
+    ]
+  },
+  {
+    "jarvinumero": "35.711.1.002",
+    "nimi": "Tykölänjärvi",
+    "kunta": "VALKEAKOSKI",
+    "region": "Itä-Suomen elinvoimakeskus",
+    "lat": 61.25939,
+    "lng": 24.20529,
+    "istutukset": [
+      {
+        "vuosi": 2001,
+        "pvm": "2001-06-19",
+        "kpl": 112,
+        "ika": "Kaksivuotias",
+        "paino_g": 340.0
+      }
+    ]
+  },
+  {
+    "jarvinumero": "35.250.1.009",
+    "nimi": "Paattakaisjärvi",
+    "kunta": "LEMPÄÄLÄ",
+    "region": "Itä-Suomen elinvoimakeskus",
+    "lat": 61.34656,
+    "lng": 23.87254,
+    "istutukset": [
+      {
+        "vuosi": 2001,
+        "pvm": "2001-06-19",
+        "kpl": 91,
+        "ika": "Kaksivuotias",
+        "paino_g": 340.0
+      }
+    ]
+  },
+  {
+    "jarvinumero": "35.840.1.003",
+    "nimi": "Lastujärvi",
+    "kunta": "JANAKKALA",
+    "region": "Itä-Suomen elinvoimakeskus",
+    "lat": 60.939,
+    "lng": 24.66643,
+    "istutukset": [
+      {
+        "vuosi": 2001,
+        "pvm": "2001-08-28",
+        "kpl": 315,
+        "ika": "Kaksivuotias",
+        "paino_g": 320.0
+      },
+      {
+        "vuosi": 2006,
+        "pvm": "2006-09-13",
+        "kpl": 852,
+        "ika": "Kaksikesäinen",
+        "paino_g": 155.0
+      }
+    ]
+  },
+  {
+    "jarvinumero": "04.391.1.001",
+    "nimi": "Pyhäjärvi",
+    "kunta": "KITEE",
+    "region": "Itä-Suomen elinvoimakeskus",
+    "lat": 61.8972,
+    "lng": 29.95707,
+    "istutukset": [
+      {
+        "vuosi": 2001,
+        "pvm": "2001-08-22",
+        "kpl": 163,
+        "ika": "Kolmekesäinen",
+        "paino_g": 320.0
+      }
+    ]
+  },
+  {
+    "jarvinumero": "04.112.1.397",
+    "nimi": "Matkuslampi",
+    "kunta": "PUUMALA",
+    "region": "Itä-Suomen elinvoimakeskus",
+    "lat": 61.49363,
+    "lng": 27.8385,
+    "istutukset": [
+      {
+        "vuosi": 2001,
+        "pvm": "2001-10-12",
+        "kpl": 100,
+        "ika": "Kolmekesäinen",
+        "paino_g": 331.6
+      }
+    ]
+  },
+  {
+    "jarvinumero": "35.772.1.001",
+    "nimi": "Hauhonselkä",
+    "kunta": "HÄMEENLINNA",
+    "region": "Itä-Suomen elinvoimakeskus",
+    "lat": 61.16587,
+    "lng": 24.51301,
+    "istutukset": [
+      {
+        "vuosi": 2002,
+        "pvm": "2002-06-11",
+        "kpl": 194,
+        "ika": "Kaksivuotias",
+        "paino_g": 450.0
+      }
+    ]
+  },
+  {
+    "jarvinumero": "35.936.1.017",
+    "nimi": "Liesjärvi",
+    "kunta": "TAMMELA",
+    "region": "Itä-Suomen elinvoimakeskus",
+    "lat": 60.92181,
+    "lng": 23.80205,
+    "istutukset": [
+      {
+        "vuosi": 2002,
+        "pvm": "2002-06-11",
+        "kpl": 149,
+        "ika": "Kaksivuotias",
+        "paino_g": 450.0
+      }
+    ]
+  },
+  {
+    "jarvinumero": "04.354.1.012",
+    "nimi": "Valkeislampi",
+    "kunta": "OUTOKUMPU",
+    "region": "Itä-Suomen elinvoimakeskus",
+    "lat": 62.77928,
+    "lng": 29.02691,
+    "istutukset": [
+      {
+        "vuosi": 2003,
+        "pvm": "2003-06-25",
+        "kpl": 20,
+        "ika": "Neljävuotias",
+        "paino_g": 1050.0
+      }
+    ]
+  },
+  {
+    "jarvinumero": "04.113.1.001",
+    "nimi": "Ruskiajärvi",
+    "kunta": "MIKKELI",
+    "region": "Itä-Suomen elinvoimakeskus",
+    "lat": 61.4315,
+    "lng": 27.3338,
+    "istutukset": [
+      {
+        "vuosi": 2004,
+        "pvm": "2004-08-31",
+        "kpl": 100,
+        "ika": "Kaksikesäinen",
+        "paino_g": 290.0
+      }
+    ]
+  },
+  {
+    "jarvinumero": "04.162.1.018",
+    "nimi": "Valkjärvi",
+    "kunta": "MIKKELI",
+    "region": "Itä-Suomen elinvoimakeskus",
+    "lat": 61.69172,
+    "lng": 27.57656,
+    "istutukset": [
+      {
+        "vuosi": 2004,
+        "pvm": "2004-08-17",
+        "kpl": 200,
+        "ika": "Kaksikesäinen",
+        "paino_g": 28.0
+      }
+    ]
+  },
+  {
+    "jarvinumero": "14.917.1.002",
+    "nimi": "Pienivesi",
+    "kunta": "MÄNTYHARJU",
+    "region": "Itä-Suomen elinvoimakeskus",
+    "lat": 61.51987,
+    "lng": 26.41902,
+    "istutukset": [
+      {
+        "vuosi": 2004,
+        "pvm": "2004-07-11",
+        "kpl": 690,
+        "ika": "Yksivuotias",
+        "paino_g": 75.0
+      },
+      {
+        "vuosi": 2005,
+        "pvm": "2005-09-24",
+        "kpl": 180,
+        "ika": "Kolmekesäinen",
+        "paino_g": 700.0
+      },
+      {
+        "vuosi": 2006,
+        "pvm": "2006-10-01",
+        "kpl": 360,
+        "ika": "Kolmekesäinen",
+        "paino_g": 70.0
+      }
+    ]
+  },
+  {
+    "jarvinumero": "35.217.1.004",
+    "nimi": "Koivistonjärvi",
+    "kunta": "PIRKKALA",
+    "region": "Itä-Suomen elinvoimakeskus",
+    "lat": 61.435,
+    "lng": 23.6438,
+    "istutukset": [
+      {
+        "vuosi": 2005,
+        "pvm": "2005-09-08",
+        "kpl": 11,
+        "ika": "Neljäkesäinen",
+        "paino_g": 527.0
+      }
+    ]
+  },
+  {
+    "jarvinumero": "35.161.1.003",
+    "nimi": "Vähäjärvi",
+    "kunta": "NOKIA",
+    "region": "Itä-Suomen elinvoimakeskus",
+    "lat": 61.50752,
+    "lng": 23.21419,
+    "istutukset": [
+      {
+        "vuosi": 2005,
+        "pvm": "2005-09-08",
+        "kpl": 44,
+        "ika": "Neljäkesäinen",
+        "paino_g": 527.0
+      }
+    ]
+  },
+  {
+    "jarvinumero": "35.218.1.005",
+    "nimi": "Naarvajärvi",
+    "kunta": "VESILAHTI",
+    "region": "Itä-Suomen elinvoimakeskus",
+    "lat": 61.27928,
+    "lng": 23.39354,
+    "istutukset": [
+      {
+        "vuosi": 2006,
+        "pvm": "2006-09-12",
+        "kpl": 100,
+        "ika": "Kaksikesäinen",
+        "paino_g": 165.0
+      },
+      {
+        "vuosi": 2007,
+        "pvm": "2007-09-03",
+        "kpl": 175,
+        "ika": "Kaksivuotias",
+        "paino_g": 200.0
+      }
+    ]
+  },
+  {
+    "jarvinumero": "14.917.1.011",
+    "nimi": "Lautjärvi",
+    "kunta": "MÄNTYHARJU",
+    "region": "Itä-Suomen elinvoimakeskus",
+    "lat": 61.52158,
+    "lng": 26.32952,
+    "istutukset": [
+      {
+        "vuosi": 2006,
+        "pvm": "2006-10-01",
+        "kpl": 100,
+        "ika": "Kolmekesäinen",
+        "paino_g": 70.0
+      }
+    ]
+  },
+  {
+    "jarvinumero": "21.033.1.020",
+    "nimi": "Pitkäjärvi",
+    "kunta": "LOPPI",
+    "region": "Itä-Suomen elinvoimakeskus",
+    "lat": 60.68854,
+    "lng": 24.54685,
+    "istutukset": [
+      {
+        "vuosi": 2007,
+        "pvm": "2007-08-30",
+        "kpl": 165,
+        "ika": "Kaksikesäinen",
+        "paino_g": 200.0
+      }
+    ]
+  },
+  {
+    "jarvinumero": "35.713.1.018",
+    "nimi": "Ahuli",
+    "kunta": "KANGASALA",
+    "region": "Itä-Suomen elinvoimakeskus",
+    "lat": 61.44258,
+    "lng": 24.01827,
+    "istutukset": [
+      {
+        "vuosi": 2007,
+        "pvm": "2007-09-03",
+        "kpl": 500,
+        "ika": "Kolmekesäinen",
+        "paino_g": 200.0
+      },
+      {
+        "vuosi": 2008,
+        "pvm": "2008-08-20",
+        "kpl": 952,
+        "ika": "Kaksivuotias",
+        "paino_g": 210.0
+      },
+      {
+        "vuosi": 2009,
+        "pvm": "2009-08-27",
+        "kpl": 380,
+        "ika": "Kolmekesäinen",
+        "paino_g": 250.0
+      },
+      {
+        "vuosi": 2014,
+        "pvm": "2014-09-12",
+        "kpl": 108,
+        "ika": "Kolmekesäinen",
+        "paino_g": 350.0
+      }
+    ]
+  },
+  {
+    "jarvinumero": "35.159.1.004",
+    "nimi": "Kirkkojärvi",
+    "kunta": "HÄMEENKYRÖ",
+    "region": "Itä-Suomen elinvoimakeskus",
+    "lat": 61.69331,
+    "lng": 22.89616,
+    "istutukset": [
+      {
+        "vuosi": 2008,
+        "pvm": "2008-08-20",
+        "kpl": 302,
+        "ika": "Kolmekesäinen",
+        "paino_g": 210.0
+      }
+    ]
+  },
+  {
+    "jarvinumero": "04.112.1.438",
+    "nimi": "Hiehojärvi",
+    "kunta": "MIKKELI",
+    "region": "Itä-Suomen elinvoimakeskus",
+    "lat": 61.6129,
+    "lng": 27.61055,
+    "istutukset": [
+      {
+        "vuosi": 2008,
+        "pvm": "2008-06-06",
+        "kpl": 100,
+        "ika": "Kaksivuotias",
+        "paino_g": 200.0
+      }
+    ]
+  },
+  {
+    "jarvinumero": "14.226.1.024",
+    "nimi": "Saarijärvi",
+    "kunta": "JÄMSÄ",
+    "region": "Itä-Suomen elinvoimakeskus",
+    "lat": 61.87227,
+    "lng": 25.01751,
+    "istutukset": [
+      {
+        "vuosi": 2009,
+        "pvm": "2009-08-12",
+        "kpl": 108,
+        "ika": "Kaksikesäinen",
+        "paino_g": 250.0
+      }
+    ]
+  },
+  {
+    "jarvinumero": "04.112.1.477",
+    "nimi": "Parkko",
+    "kunta": "MIKKELI",
+    "region": "Itä-Suomen elinvoimakeskus",
+    "lat": 61.68139,
+    "lng": 27.57802,
+    "istutukset": [
+      {
+        "vuosi": 2010,
+        "pvm": "2010-08-14",
+        "kpl": 200,
+        "ika": "Kolmevuotias",
+        "paino_g": 100.0
+      }
+    ]
+  },
+  {
+    "jarvinumero": "35.891.1.007",
+    "nimi": "Suojärvi",
+    "kunta": "JANAKKALA",
+    "region": "Itä-Suomen elinvoimakeskus",
+    "lat": 60.90078,
+    "lng": 24.46919,
+    "istutukset": [
+      {
+        "vuosi": 2010,
+        "pvm": "2010-08-10",
+        "kpl": 105,
+        "ika": "Kaksivuotias",
+        "paino_g": 400.0
+      },
+      {
+        "vuosi": 2011,
+        "pvm": "2011-09-14",
+        "kpl": 52,
+        "ika": "Neljäkesäinen",
+        "paino_g": 650.0
+      },
+      {
+        "vuosi": 2013,
+        "pvm": "2013-07-10",
+        "kpl": 84,
+        "ika": "Kaksivuotias",
+        "paino_g": 330.0
+      }
+    ]
+  },
+  {
+    "jarvinumero": "35.286.1.002",
+    "nimi": "Kortejärvi",
+    "kunta": "URJALA",
+    "region": "Itä-Suomen elinvoimakeskus",
+    "lat": 61.1083,
+    "lng": 23.45902,
+    "istutukset": [
+      {
+        "vuosi": 2010,
+        "pvm": "2010-08-10",
+        "kpl": 88,
+        "ika": "Kaksivuotias",
+        "paino_g": 400.0
+      },
+      {
+        "vuosi": 2012,
+        "pvm": "2012-08-31",
+        "kpl": 166,
+        "ika": "Kaksivuotias",
+        "paino_g": 330.0
+      }
+    ]
+  },
+  {
+    "jarvinumero": "35.287.1.004",
+    "nimi": "Valajärvi",
+    "kunta": "URJALA",
+    "region": "Itä-Suomen elinvoimakeskus",
+    "lat": 61.06943,
+    "lng": 23.33156,
+    "istutukset": [
+      {
+        "vuosi": 2010,
+        "pvm": "2010-08-10",
+        "kpl": 53,
+        "ika": "Kaksivuotias",
+        "paino_g": 400.0
+      }
+    ]
+  },
+  {
+    "jarvinumero": "35.214.1.003",
+    "nimi": "Pahalampi",
+    "kunta": "TAMPERE",
+    "region": "Itä-Suomen elinvoimakeskus",
+    "lat": 61.48483,
+    "lng": 23.77981,
+    "istutukset": [
+      {
+        "vuosi": 2010,
+        "pvm": "2010-10-21",
+        "kpl": 25,
+        "ika": "Kaksivuotias",
+        "paino_g": 400.0
+      },
+      {
+        "vuosi": 2011,
+        "pvm": "2011-05-31",
+        "kpl": 11,
+        "ika": "Kolmevuotias",
+        "paino_g": 850.0
+      },
+      {
+        "vuosi": 2012,
+        "pvm": "2012-08-21",
+        "kpl": 30,
+        "ika": "Kaksivuotias",
+        "paino_g": 330.0
+      },
+      {
+        "vuosi": 2013,
+        "pvm": "2013-09-04",
+        "kpl": 25,
+        "ika": "Kolmekesäinen",
+        "paino_g": 400.0
+      },
+      {
+        "vuosi": 2014,
+        "pvm": "2014-09-12",
+        "kpl": 57,
+        "ika": "Kolmekesäinen",
+        "paino_g": 350.0
+      },
+      {
+        "vuosi": 2015,
+        "pvm": "2015-08-21",
+        "kpl": 60,
+        "ika": "Kolmekesäinen",
+        "paino_g": 333.0
+      },
+      {
+        "vuosi": 2016,
+        "pvm": "2016-05-10",
+        "kpl": 70,
+        "ika": "Kaksivuotias",
+        "paino_g": 570.0
+      },
+      {
+        "vuosi": 2018,
+        "pvm": "2018-06-07",
+        "kpl": 124,
+        "ika": "Kolmekesäinen",
+        "paino_g": 411.0
+      },
+      {
+        "vuosi": 2020,
+        "pvm": "2020-06-09",
+        "kpl": 42,
+        "ika": "Kolmevuotias",
+        "paino_g": 950.0
+      },
+      {
+        "vuosi": 2021,
+        "pvm": "2021-06-21",
+        "kpl": 233,
+        "ika": "Kaksivuotias",
+        "paino_g": 172.0
+      }
+    ]
+  },
+  {
+    "jarvinumero": "35.515.1.003",
+    "nimi": "Särkijärvi",
+    "kunta": "HÄMEENKYRÖ",
+    "region": "Itä-Suomen elinvoimakeskus",
+    "lat": 61.69622,
+    "lng": 23.10526,
+    "istutukset": [
+      {
+        "vuosi": 2010,
+        "pvm": "2010-10-21",
+        "kpl": 43,
+        "ika": "Kaksivuotias",
+        "paino_g": 400.0
+      },
+      {
+        "vuosi": 2011,
+        "pvm": "2011-05-31",
+        "kpl": 23,
+        "ika": "Kolmevuotias",
+        "paino_g": 250.0
+      },
+      {
+        "vuosi": 2012,
+        "pvm": "2012-08-21",
+        "kpl": 127,
+        "ika": "Kaksivuotias",
+        "paino_g": 330.0
+      }
+    ]
+  },
+  {
+    "jarvinumero": "35.222.1.001",
+    "nimi": "Vanajavesi (N60 79.40)x1",
+    "kunta": "AKAA",
+    "region": "Itä-Suomen elinvoimakeskus",
+    "lat": 61.20036,
+    "lng": 23.91405,
+    "istutukset": [
+      {
+        "vuosi": 2010,
+        "pvm": "2010-08-24",
+        "kpl": 372,
+        "ika": "Kolmekesäinen",
+        "paino_g": 360.0
+      },
+      {
+        "vuosi": 2011,
+        "pvm": "2011-09-14",
+        "kpl": 77,
+        "ika": "Neljäkesäinen",
+        "paino_g": 650.0
+      },
+      {
+        "vuosi": 2012,
+        "pvm": "2012-08-21",
+        "kpl": 100,
+        "ika": "Kaksivuotias",
+        "paino_g": 330.0
+      },
+      {
+        "vuosi": 2012,
+        "pvm": "2012-08-20",
+        "kpl": 667,
+        "ika": "Kolmekesäinen",
+        "paino_g": 324.0
+      },
+      {
+        "vuosi": 2013,
+        "pvm": "2013-08-22",
+        "kpl": 450,
+        "ika": "Kolmekesäinen",
+        "paino_g": 480.0
+      },
+      {
+        "vuosi": 2014,
+        "pvm": "2014-09-11",
+        "kpl": 618,
+        "ika": "Kolmekesäinen",
+        "paino_g": 350.0
+      },
+      {
+        "vuosi": 2015,
+        "pvm": "2015-06-16",
+        "kpl": 443,
+        "ika": "Kolmevuotias",
+        "paino_g": 440.0
+      },
+      {
+        "vuosi": 2016,
+        "pvm": "2016-08-02",
+        "kpl": 203,
+        "ika": "Kolmekesäinen",
+        "paino_g": 400.0
+      },
+      {
+        "vuosi": 2016,
+        "pvm": "2016-09-07",
+        "kpl": 448,
+        "ika": "Neljäkesäinen",
+        "paino_g": 435.0
+      },
+      {
+        "vuosi": 2017,
+        "pvm": "2017-09-07",
+        "kpl": 160,
+        "ika": "Neljäkesäinen",
+        "paino_g": 1000.0
+      },
+      {
+        "vuosi": 2018,
+        "pvm": "2018-06-27",
+        "kpl": 99,
+        "ika": "Neljävuotias",
+        "paino_g": 1300.0
+      },
+      {
+        "vuosi": 2019,
+        "pvm": "2019-08-29",
+        "kpl": 206,
+        "ika": "Viisikesäinen",
+        "paino_g": 940.0
+      },
+      {
+        "vuosi": 2020,
+        "pvm": "2020-08-19",
+        "kpl": 222,
+        "ika": "Viisikesäinen",
+        "paino_g": 370.0
+      },
+      {
+        "vuosi": 2020,
+        "pvm": "2020-08-19",
+        "kpl": 157,
+        "ika": "Viisikesäinen",
+        "paino_g": 795.0
+      },
+      {
+        "vuosi": 2021,
+        "pvm": "2021-08-27",
+        "kpl": 165,
+        "ika": "Viisivuotias",
+        "paino_g": 798.5
+      },
+      {
+        "vuosi": 2021,
+        "pvm": "2021-08-24",
+        "kpl": 95,
+        "ika": "Viisivuotias",
+        "paino_g": 798.5
+      },
+      {
+        "vuosi": 2022,
+        "pvm": "2022-06-21",
+        "kpl": 30,
+        "ika": "Viisivuotias",
+        "paino_g": 3200.0
+      },
+      {
+        "vuosi": 2023,
+        "pvm": "2023-09-06",
+        "kpl": 549,
+        "ika": "Kolmekesäinen",
+        "paino_g": 150.0
+      }
+    ]
+  },
+  {
+    "jarvinumero": "",
+    "nimi": "Arolamminkoski",
+    "kunta": "RIIHIMÄKI",
+    "region": "Itä-Suomen elinvoimakeskus",
+    "lat": null,
+    "lng": null,
+    "istutukset": [
+      {
+        "vuosi": 2010,
+        "pvm": "2010-08-24",
+        "kpl": 186,
+        "ika": "Kolmekesäinen",
+        "paino_g": 360.0
+      },
+      {
+        "vuosi": 2011,
+        "pvm": "2011-09-14",
+        "kpl": 220,
+        "ika": "Neljäkesäinen",
+        "paino_g": 650.0
+      },
+      {
+        "vuosi": 2012,
+        "pvm": "2012-08-20",
+        "kpl": 167,
+        "ika": "Kolmekesäinen",
+        "paino_g": 324.0
+      },
+      {
+        "vuosi": 2013,
+        "pvm": "2013-08-22",
+        "kpl": 113,
+        "ika": "Kolmekesäinen",
+        "paino_g": 480.0
+      },
+      {
+        "vuosi": 2015,
+        "pvm": "2015-06-03",
+        "kpl": 341,
+        "ika": "Kolmevuotias",
+        "paino_g": 440.0
+      },
+      {
+        "vuosi": 2016,
+        "pvm": "2016-09-07",
+        "kpl": 103,
+        "ika": "Neljäkesäinen",
+        "paino_g": 435.0
+      },
+      {
+        "vuosi": 2017,
+        "pvm": "2017-09-07",
+        "kpl": 80,
+        "ika": "Neljäkesäinen",
+        "paino_g": 1000.0
+      },
+      {
+        "vuosi": 2018,
+        "pvm": "2018-06-27",
+        "kpl": 50,
+        "ika": "Neljävuotias",
+        "paino_g": 1300.0
+      },
+      {
+        "vuosi": 2019,
+        "pvm": "2019-08-29",
+        "kpl": 137,
+        "ika": "Viisikesäinen",
+        "paino_g": 940.0
+      },
+      {
+        "vuosi": 2020,
+        "pvm": "2020-08-12",
+        "kpl": 182,
+        "ika": "Viisikesäinen",
+        "paino_g": 370.0
+      },
+      {
+        "vuosi": 2020,
+        "pvm": "2020-08-12",
+        "kpl": 85,
+        "ika": "Viisikesäinen",
+        "paino_g": 795.0
+      }
+    ]
+  },
+  {
+    "jarvinumero": "35.233.1.001",
+    "nimi": "Vanajavesi (N60 79.40)x5",
+    "kunta": "HÄMEENLINNA",
+    "region": "Itä-Suomen elinvoimakeskus",
+    "lat": 60.98723,
+    "lng": 24.46838,
+    "istutukset": [
+      {
+        "vuosi": 2010,
+        "pvm": "2010-08-24",
+        "kpl": 186,
+        "ika": "Kolmekesäinen",
+        "paino_g": 360.0
+      },
+      {
+        "vuosi": 2012,
+        "pvm": "2012-08-20",
+        "kpl": 216,
+        "ika": "Kolmekesäinen",
+        "paino_g": 324.0
+      },
+      {
+        "vuosi": 2013,
+        "pvm": "2013-08-22",
+        "kpl": 146,
+        "ika": "Kolmekesäinen",
+        "paino_g": 480.0
+      }
+    ]
+  },
+  {
+    "jarvinumero": "35.242.1.001",
+    "nimi": "Höytämönjärvi",
+    "kunta": "LEMPÄÄLÄ",
+    "region": "Itä-Suomen elinvoimakeskus",
+    "lat": 61.41289,
+    "lng": 23.80363,
+    "istutukset": [
+      {
+        "vuosi": 2010,
+        "pvm": "2010-11-23",
+        "kpl": 133,
+        "ika": "Kaksikesäinen",
+        "paino_g": 400.0
+      }
+    ]
+  },
+  {
+    "jarvinumero": "35.242.1.007",
+    "nimi": "Koipijärvi",
+    "kunta": "LEMPÄÄLÄ",
+    "region": "Itä-Suomen elinvoimakeskus",
+    "lat": 61.42351,
+    "lng": 23.83152,
+    "istutukset": [
+      {
+        "vuosi": 2010,
+        "pvm": "2010-11-23",
+        "kpl": 65,
+        "ika": "Kaksikesäinen",
+        "paino_g": 400.0
+      }
+    ]
+  },
+  {
+    "jarvinumero": "",
+    "nimi": "Tuuliala",
+    "kunta": "LEMPÄÄLÄ",
+    "region": "Itä-Suomen elinvoimakeskus",
+    "lat": 61.3356604,
+    "lng": 23.7656033,
+    "istutukset": [
+      {
+        "vuosi": 2010,
+        "pvm": "2010-11-23",
+        "kpl": 28,
+        "ika": "Kaksikesäinen",
+        "paino_g": 400.0
+      }
+    ]
+  },
+  {
+    "jarvinumero": "35.242.1.002",
+    "nimi": "Iso-Kyynärä",
+    "kunta": "LEMPÄÄLÄ",
+    "region": "Itä-Suomen elinvoimakeskus",
+    "lat": 61.41626,
+    "lng": 23.77087,
+    "istutukset": [
+      {
+        "vuosi": 2010,
+        "pvm": "2010-10-23",
+        "kpl": 100,
+        "ika": "Kaksikesäinen",
+        "paino_g": 400.0
+      }
+    ]
+  },
+  {
+    "jarvinumero": "",
+    "nimi": "Oikolanjoki",
+    "kunta": "VALKEAKOSKI",
+    "region": "Itä-Suomen elinvoimakeskus",
+    "lat": 61.1267239,
+    "lng": 24.0426427,
+    "istutukset": [
+      {
+        "vuosi": 2011,
+        "pvm": "2011-09-14",
+        "kpl": 83,
+        "ika": "Neljäkesäinen",
+        "paino_g": 650.0
+      },
+      {
+        "vuosi": 2013,
+        "pvm": "2013-08-22",
+        "kpl": 143,
+        "ika": "Kolmekesäinen",
+        "paino_g": 480.0
+      },
+      {
+        "vuosi": 2015,
+        "pvm": "2015-06-16",
+        "kpl": 146,
+        "ika": "Kolmevuotias",
+        "paino_g": 440.0
+      }
+    ]
+  },
+  {
+    "jarvinumero": "35.874.1.002",
+    "nimi": "Erävisjärvi",
+    "kunta": "LOPPI",
+    "region": "Itä-Suomen elinvoimakeskus",
+    "lat": 60.69425,
+    "lng": 24.36632,
+    "istutukset": [
+      {
+        "vuosi": 2011,
+        "pvm": "2011-07-12",
+        "kpl": 109,
+        "ika": "Kaksivuotias",
+        "paino_g": 420.0
+      },
+      {
+        "vuosi": 2013,
+        "pvm": "2013-07-10",
+        "kpl": 40,
+        "ika": "Kaksivuotias",
+        "paino_g": 330.0
+      }
+    ]
+  },
+  {
+    "jarvinumero": "",
+    "nimi": "Kyynioja",
+    "kunta": "NOKIA",
+    "region": "Itä-Suomen elinvoimakeskus",
+    "lat": 61.4889996,
+    "lng": 23.5158474,
+    "istutukset": [
+      {
+        "vuosi": 2011,
+        "pvm": "2011-05-31",
+        "kpl": 20,
+        "ika": "Kolmevuotias",
+        "paino_g": 350.0
+      }
+    ]
+  },
+  {
+    "jarvinumero": "35.721.1.006",
+    "nimi": "Pikkujärvi",
+    "kunta": "KANGASALA",
+    "region": "Itä-Suomen elinvoimakeskus",
+    "lat": 61.5596,
+    "lng": 24.32055,
+    "istutukset": [
+      {
+        "vuosi": 2011,
+        "pvm": "2011-05-31",
+        "kpl": 11,
+        "ika": "Kolmevuotias",
+        "paino_g": 250.0
+      }
+    ]
+  },
+  {
+    "jarvinumero": "35.511.1.007",
+    "nimi": "Jylhäjärvi",
+    "kunta": "HÄMEENKYRÖ",
+    "region": "Itä-Suomen elinvoimakeskus",
+    "lat": 61.53829,
+    "lng": 23.19408,
+    "istutukset": [
+      {
+        "vuosi": 2012,
+        "pvm": "2012-06-20",
+        "kpl": 87,
+        "ika": "Kaksivuotias",
+        "paino_g": 250.0
+      }
+    ]
+  },
+  {
+    "jarvinumero": "35.987.1.006",
+    "nimi": "Ruostejärvi",
+    "kunta": "TAMMELA",
+    "region": "Itä-Suomen elinvoimakeskus",
+    "lat": 60.71782,
+    "lng": 23.77893,
+    "istutukset": [
+      {
+        "vuosi": 2013,
+        "pvm": "2013-07-10",
+        "kpl": 60,
+        "ika": "Kaksivuotias",
+        "paino_g": 330.0
+      }
+    ]
+  },
+  {
+    "jarvinumero": "35.289.1.012",
+    "nimi": "Pynnänjärvi",
+    "kunta": "URJALA",
+    "region": "Itä-Suomen elinvoimakeskus",
+    "lat": 61.20842,
+    "lng": 23.36838,
+    "istutukset": [
+      {
+        "vuosi": 2013,
+        "pvm": "2013-07-10",
+        "kpl": 70,
+        "ika": "Kaksivuotias",
+        "paino_g": 330.0
+      }
+    ]
+  },
+  {
+    "jarvinumero": "",
+    "nimi": "Hiidenjoki",
+    "kunta": "JANAKKALA",
+    "region": "Itä-Suomen elinvoimakeskus",
+    "lat": 60.9421176,
+    "lng": 24.6002877,
+    "istutukset": [
+      {
+        "vuosi": 2014,
+        "pvm": "2014-09-10",
+        "kpl": 108,
+        "ika": "Neljäkesäinen",
+        "paino_g": 500.0
+      },
+      {
+        "vuosi": 2015,
+        "pvm": "2015-06-09",
+        "kpl": 111,
+        "ika": "Kolmevuotias",
+        "paino_g": 440.0
+      },
+      {
+        "vuosi": 2015,
+        "pvm": "2015-06-09",
+        "kpl": 122,
+        "ika": "Kolmevuotias",
+        "paino_g": 440.0
+      },
+      {
+        "vuosi": 2016,
+        "pvm": "2016-06-13",
+        "kpl": 123,
+        "ika": "Kolmevuotias",
+        "paino_g": 400.0
+      },
+      {
+        "vuosi": 2016,
+        "pvm": "2016-06-13",
+        "kpl": 135,
+        "ika": "Kolmevuotias",
+        "paino_g": 400.0
+      },
+      {
+        "vuosi": 2017,
+        "pvm": "2017-09-07",
+        "kpl": 40,
+        "ika": "Neljäkesäinen",
+        "paino_g": 1000.0
+      },
+      {
+        "vuosi": 2017,
+        "pvm": "2017-09-07",
+        "kpl": 44,
+        "ika": "Neljäkesäinen",
+        "paino_g": 1000.0
+      },
+      {
+        "vuosi": 2018,
+        "pvm": "2018-06-27",
+        "kpl": 25,
+        "ika": "Neljävuotias",
+        "paino_g": 1300.0
+      },
+      {
+        "vuosi": 2018,
+        "pvm": "2018-06-27",
+        "kpl": 27,
+        "ika": "Neljävuotias",
+        "paino_g": 1300.0
+      },
+      {
+        "vuosi": 2019,
+        "pvm": "2019-08-29",
+        "kpl": 103,
+        "ika": "Viisikesäinen",
+        "paino_g": 940.0
+      },
+      {
+        "vuosi": 2019,
+        "pvm": "2019-08-29",
+        "kpl": 41,
+        "ika": "Viisikesäinen",
+        "paino_g": 940.0
+      },
+      {
+        "vuosi": 2020,
+        "pvm": "2020-08-20",
+        "kpl": 86,
+        "ika": "Viisikesäinen",
+        "paino_g": 370.0
+      },
+      {
+        "vuosi": 2020,
+        "pvm": "2020-08-20",
+        "kpl": 96,
+        "ika": "Viisikesäinen",
+        "paino_g": 795.0
+      },
+      {
+        "vuosi": 2020,
+        "pvm": "2020-08-20",
+        "kpl": 111,
+        "ika": "Viisikesäinen",
+        "paino_g": 370.0
+      },
+      {
+        "vuosi": 2021,
+        "pvm": "2021-08-19",
+        "kpl": 71,
+        "ika": "Kolmevuotias",
+        "paino_g": 240.0
+      },
+      {
+        "vuosi": 2021,
+        "pvm": "2021-08-19",
+        "kpl": 31,
+        "ika": "Viisivuotias",
+        "paino_g": 798.5
+      },
+      {
+        "vuosi": 2021,
+        "pvm": "2021-08-19",
+        "kpl": 144,
+        "ika": "Viisivuotias",
+        "paino_g": 798.5
+      },
+      {
+        "vuosi": 2022,
+        "pvm": "2022-06-21",
+        "kpl": 12,
+        "ika": "Viisivuotias",
+        "paino_g": 3200.0
+      },
+      {
+        "vuosi": 2022,
+        "pvm": "2022-06-21",
+        "kpl": 30,
+        "ika": "Viisivuotias",
+        "paino_g": 3200.0
+      },
+      {
+        "vuosi": 2023,
+        "pvm": "2023-08-28",
+        "kpl": 345,
+        "ika": "Kolmekesäinen",
+        "paino_g": 150.0
+      },
+      {
+        "vuosi": 2023,
+        "pvm": "2023-08-28",
+        "kpl": 333,
+        "ika": "Kolmekesäinen",
+        "paino_g": 150.0
+      }
+    ]
+  },
+  {
+    "jarvinumero": "",
+    "nimi": "",
+    "kunta": "MIKKELI",
+    "region": "Itä-Suomen elinvoimakeskus",
+    "lat": 61.6877823,
+    "lng": 27.2731918,
+    "istutukset": [
+      {
+        "vuosi": 2014,
+        "pvm": "2014-08-27",
+        "kpl": 20,
+        "ika": "Kaksikesäinen",
+        "paino_g": 200.0
+      }
+    ]
+  },
+  {
+    "jarvinumero": "14.913.1.043",
+    "nimi": "Lahnavesi",
+    "kunta": "MÄNTYHARJU",
+    "region": "Itä-Suomen elinvoimakeskus",
+    "lat": 61.46878,
+    "lng": 26.67541,
+    "istutukset": [
+      {
+        "vuosi": 2014,
+        "pvm": "2014-10-29",
+        "kpl": 25,
+        "ika": "Kaksikesäinen",
+        "paino_g": 200.0
+      },
+      {
+        "vuosi": 2014,
+        "pvm": "2014-10-29",
+        "kpl": 56,
+        "ika": "Viisikesäinen",
+        "paino_g": 500.0
+      }
+    ]
+  },
+  {
+    "jarvinumero": "35.250.1.005",
+    "nimi": "Iso Kausjärvi",
+    "kunta": "LEMPÄÄLÄ",
+    "region": "Itä-Suomen elinvoimakeskus",
+    "lat": 61.34513,
+    "lng": 23.90395,
+    "istutukset": [
+      {
+        "vuosi": 2014,
+        "pvm": "2014-09-12",
+        "kpl": 34,
+        "ika": "Kolmekesäinen",
+        "paino_g": 350.0
+      },
+      {
+        "vuosi": 2015,
+        "pvm": "2015-08-21",
+        "kpl": 40,
+        "ika": "Kolmekesäinen",
+        "paino_g": 333.0
+      }
+    ]
+  },
+  {
+    "jarvinumero": "35.288.1.002",
+    "nimi": "Kokonjärvi",
+    "kunta": "URJALA",
+    "region": "Itä-Suomen elinvoimakeskus",
+    "lat": 61.00826,
+    "lng": 23.71891,
+    "istutukset": [
+      {
+        "vuosi": 2014,
+        "pvm": "2014-07-24",
+        "kpl": 144,
+        "ika": "Kaksivuotias",
+        "paino_g": 500.0
+      }
+    ]
+  },
+  {
+    "jarvinumero": "35.250.1.006",
+    "nimi": "Kyynäräjärvi",
+    "kunta": "LEMPÄÄLÄ",
+    "region": "Itä-Suomen elinvoimakeskus",
+    "lat": 61.35217,
+    "lng": 23.90101,
+    "istutukset": [
+      {
+        "vuosi": 2015,
+        "pvm": "2015-08-21",
+        "kpl": 20,
+        "ika": "Kolmekesäinen",
+        "paino_g": 333.0
+      }
+    ]
+  },
+  {
+    "jarvinumero": "35.947.1.001",
+    "nimi": "Vehkajärvi",
+    "kunta": "PUNKALAIDUN",
+    "region": "Itä-Suomen elinvoimakeskus",
+    "lat": 61.05121,
+    "lng": 23.25268,
+    "istutukset": [
+      {
+        "vuosi": 2015,
+        "pvm": "2015-09-14",
+        "kpl": 158,
+        "ika": "Kolmekesäinen",
+        "paino_g": 350.0
+      }
+    ]
+  },
+  {
+    "jarvinumero": "",
+    "nimi": "Puujoki",
+    "kunta": "HAUSJÄRVI",
+    "region": "Itä-Suomen elinvoimakeskus",
+    "lat": 60.8529941,
+    "lng": 24.8536945,
+    "istutukset": [
+      {
+        "vuosi": 2016,
+        "pvm": "2016-09-07",
+        "kpl": 179,
+        "ika": "Neljäkesäinen",
+        "paino_g": 435.0
+      },
+      {
+        "vuosi": 2017,
+        "pvm": "2017-09-07",
+        "kpl": 32,
+        "ika": "Neljäkesäinen",
+        "paino_g": 1000.0
+      },
+      {
+        "vuosi": 2019,
+        "pvm": "2019-08-29",
+        "kpl": 55,
+        "ika": "Viisikesäinen",
+        "paino_g": 940.0
+      },
+      {
+        "vuosi": 2021,
+        "pvm": "2021-08-24",
+        "kpl": 69,
+        "ika": "Viisivuotias",
+        "paino_g": 798.5
+      },
+      {
+        "vuosi": 2023,
+        "pvm": "2023-08-28",
+        "kpl": 444,
+        "ika": "Kolmekesäinen",
+        "paino_g": 150.0
+      }
+    ]
+  },
+  {
+    "jarvinumero": "35.232.1.001",
+    "nimi": "Vanajavesi (N60 79.40)x3",
+    "kunta": "HATTULA",
+    "region": "Itä-Suomen elinvoimakeskus",
+    "lat": 61.08266,
+    "lng": 24.36629,
+    "istutukset": [
+      {
+        "vuosi": 2019,
+        "pvm": "2019-08-29",
+        "kpl": 137,
+        "ika": "Viisikesäinen",
+        "paino_g": 940.0
+      },
+      {
+        "vuosi": 2020,
+        "pvm": "2020-08-26",
+        "kpl": 146,
+        "ika": "Viisikesäinen",
+        "paino_g": 370.0
+      },
+      {
+        "vuosi": 2020,
+        "pvm": "2020-08-26",
+        "kpl": 112,
+        "ika": "Viisikesäinen",
+        "paino_g": 795.0
+      }
+    ]
+  },
+  {
+    "jarvinumero": "",
+    "nimi": "Koijoki",
+    "kunta": "FORSSA",
+    "region": "Itä-Suomen elinvoimakeskus",
+    "lat": 60.9673979,
+    "lng": 23.4557199,
+    "istutukset": [
+      {
+        "vuosi": 2021,
+        "pvm": "2021-08-24",
+        "kpl": 29,
+        "ika": "Viisivuotias",
+        "paino_g": 798.5
+      }
+    ]
+  },
+  {
+    "jarvinumero": "35.591.1.001",
+    "nimi": "Miharinlammi",
+    "kunta": "HÄMEENKYRÖ",
+    "region": "Itä-Suomen elinvoimakeskus",
+    "lat": 61.57449,
+    "lng": 23.32762,
+    "istutukset": [
+      {
+        "vuosi": 2021,
+        "pvm": "2021-06-21",
+        "kpl": 103,
+        "ika": "Kaksivuotias",
+        "paino_g": 172.0
       }
     ]
   }
