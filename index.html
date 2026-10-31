@@ -97,6 +97,11 @@
     background: #111;
   }
 
+  /* Fallback basemap: OpenStreetMap's light tiles turned dark to match the theme */
+  .osm-dark-tiles {
+    filter: invert(1) hue-rotate(180deg) brightness(0.9) contrast(0.85) saturate(0.4);
+  }
+
   .sidebar {
     width: 320px;
     background: var(--surface);
@@ -466,11 +471,56 @@ const map = L.map('map', {
   zoomControl: true,
 });
 
-L.tileLayer('https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png', {
-  attribution: '© OpenStreetMap © CartoDB',
-  subdomains: 'abcd',
-  maxZoom: 19
-}).addTo(map);
+// ---- BASEMAP ----
+// CARTO now requires a free API key on its basemap tiles. Without one, every
+// tile is stamped "API KEY REQUIRED".
+//   1. Request a key (free, no account): https://carto.com/basemaps/apikey/
+//   2. Paste it below.
+//   3. In the CARTO basemaps dashboard, restrict the key to your site's domain,
+//      so nobody who copies it from this page can spend your quota.
+// If the key is left empty (or CARTO stops responding), the map falls back to
+// OpenStreetMap's standard tiles, darkened with CSS to match the theme.
+const CARTO_API_KEY = 'cb1_4yzv_1_2fc9d774142a383446c71e5c';
+
+const OSM_ATTRIBUTION = '© <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors';
+
+function cartoDarkLayer(key) {
+  return L.tileLayer(
+    'https://basemaps.cartocdn.com/rastertiles/dark_all/{z}/{x}/{y}{r}.png?key=' + encodeURIComponent(key), {
+    attribution: OSM_ATTRIBUTION + ', © <a href="https://carto.com/attribution/">CARTO</a>',
+    maxNativeZoom: 18,
+    maxZoom: 20
+  });
+}
+
+function osmDarkLayer() {
+  return L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
+    attribution: OSM_ATTRIBUTION,
+    className: 'osm-dark-tiles',
+    maxZoom: 19
+  });
+}
+
+let basemap;
+if (CARTO_API_KEY) {
+  basemap = cartoDarkLayer(CARTO_API_KEY);
+  let tilesLoaded = 0, tilesFailed = 0, switched = false;
+  basemap.on('tileload', () => { tilesLoaded++; });
+  basemap.on('tileerror', () => {
+    tilesFailed++;
+    // Several failures before a single success: key revoked, over quota, or
+    // CARTO down. Switch to OpenStreetMap so the map is never left blank.
+    if (!switched && tilesLoaded === 0 && tilesFailed >= 4) {
+      switched = true;
+      map.removeLayer(basemap);
+      basemap = osmDarkLayer().addTo(map);
+      console.warn('CarpMap: CARTO tiles failed to load, using the OpenStreetMap fallback.');
+    }
+  });
+} else {
+  basemap = osmDarkLayer();
+}
+basemap.addTo(map);
 
 // ---- STATE ----
 const markers = {};
